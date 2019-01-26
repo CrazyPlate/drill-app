@@ -1,0 +1,786 @@
+[
+   {
+      "pytanie": "1. Wykonano pośredni pomiar wielkości 21xxay··=, przy czym wielkości i zostały zmierzone bezpośrednio z względnymi błędami granicznymi 1x2x1xgr? i 2xgr?. Względny błąd graniczny ygr? dany jest zależnością:\r",
+      "a": "delta gr * y = a*|delta gr * x1|*|delta gr * x2|\r",
+      "b": "delta gr * y = a*|delta gr * x1|+|delta gr * x2|\r",
+      "c": "delta gr * y = SQRT((delta gr)^2 * x1 + (delta gr)^2 * x2)\r",
+      "d": "delta gr * y = a * SQRT((delta gr)^2 * x1 + (delta gr)^2 * x2)\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "2. Co to jest legalizacja?\r",
+      "a": "Legalizacja to poświadczenie że przyrząd może być stosowany w czynnościach handlowo-rozliczeniowych i prawnych. Wyniki pomiarów takim przyrządem posiadają niepewność określoną w Rozporządzeniu Prezesa GUM\r",
+      "b": "Legalizacja to zespół czynności obejmujących sprawdzenie, stwierdzenie i poświadczenie dowodem legalizacji, że przyrząd pomiarowy spełnia wymagania metrologiczne\r",
+      "c": "Legalizacja to stwierdzenie na piśmie, że przyrząd mierzy wielkości zgodnie z deklaracją producenta, a wyniki pomiaru są zgodne z legalnymi jednostkami miar\r",
+      "d": "Legalizacja to stwierdzenie na piśmie, że wynik pomiaru może być dowodem w postępowaniu sądowym\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "3. Czy w pomiarach temperatury może być stosowana jednostka stopień Celsjusza (1°C)?\r",
+      "a": "Nie, ponieważ nie jest to jednostka układu SI\r",
+      "b": "Tak, ale nie można wyników pomiarów stosować w rozliczeniach zużycia energii cieplnej\r",
+      "c": "Tak, mimo że nie jest jednostką układu SI. Jest dopuszczona przez odpowiednie Rozporządzenie Rady Ministrów\r",
+      "d": "Nie, ponieważ K1C1?o\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "4. W jakich legalnych jednostkach miar podawana jest wartość ciśnienia?\r",
+      "a": "bar\r",
+      "b": "atm\r",
+      "c": "Psi\r",
+      "d": "Pa\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "5. Rezystor czterozaciskowy to:\r",
+      "a": "Rezystor, w którym galwanicznie rozdzielono obwody zacisków napięciowych i prądowych\r",
+      "b": "Rezystor, w którym odpowiadające sobie zaciski prądowe i napięciowe są ze sobą połączone galwanicznie\r",
+      "c": "Rezystor, wewnątrz którego dopuszcza się połączenie zacisków napięciowych i prądowych jedynie wówczas gdy rezystancje pasożytnicze są pomijalnie małe\r",
+      "d": "Rezystor występujący tylko teoretycznie\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "6. Przy pomiarze kompensacyjnym napięcia stałego rezystancja wewnętrzna źródła napięcia mierzonego:\r",
+      "a": "Musi być mniejsza od rezystancji wskaźnika stanu kompensacji\r",
+      "b": "Może być dowolna\r",
+      "c": "Powinna być znacznie mniejsza od rezystancji zastępczej obwodu prądu pomocniczego\r",
+      "d": "Powinna być pomijalnie mała\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "7. Przy pomiarze mocy czynnej w obwodzie prądu stałego, za pomocą układu zawierającego: watomierz, woltomierz, amperomierz, stwierdzono, że watomierz wskazuje wartość 0W natomiast iloczyn wskazań amperomierza i woltomierza wynosi 100W. Świadczy to o tym, że:\r",
+      "a": "Wyłącznik, za pomocą którego włączany jest odbiornik nie został załączony\r",
+      "b": "Współczynnik mocy odbiornika jest równy zero\r",
+      "c": "W torze prądowym watomierza wystąpiła przerwa\r",
+      "d": "W torze napięciowym watomierza wystąpiła przerwa\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8. Wskaźnikiem równowagi w mostkach prądu przemiennego może być:\r",
+      "a": "Amperomierz magnetoelektryczny\r",
+      "b": "Galwanometr magnetoelektryczny\r",
+      "c": "Amperomierz elektromagnetyczny\r",
+      "d": "Oscyloskop\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9. W których ramionach laboratoryjnego mostka Thomsona powinny być zastosowane rezystory czterozaciskowe?\r",
+      "a": "W żadnym z ramion przyległych do wskaźnika równowagi\r",
+      "b": "We wszystkich 6 ramionach\r",
+      "c": "Jedynie w 4 ramionach, zawierających rezystor mierzony , rezystor wzorcowy oraz rezystory stosunkowe i xRwR3R4R\r",
+      "d": "Jedynie w 2 ramionach, zawierających rezystory: mierzony i wzorcowy xRwR\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "10. Co może spowodować zmiana biegunowości zasilania mostka prądu stałego na przeciwną, gdy wskaźnik równowagi przed zamianą wskazywał 0 (stan równowagi)?\r",
+      "a": "Zawsze spowoduje wychylenie się wskaźnika ze stanu równowagi\r",
+      "b": "Nic nie spowoduje, jeśli wpływ np. sił termoelektrycznych będzie mniejszy niż czułość wskaźnika równowagi.\r",
+      "c": "Jeśli wskaźnik równowagi ma nastawioną maksymalną czułość to może on ulec uszkodzeniu\r",
+      "d": "Zawsze spowoduje konieczność powtórnego wykonania pomiaru (po ponownej zmianie biegunowości zasilania)\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11. Czy przy pomiarze dużego napięcia stałego za pomocą dzielnika rezystancyjnego i kompensatora napięcia stałego należy uwzględniać rezystancję wewnętrzną kompensatora?\r",
+      "a": "Nie, ponieważ kompensator jest zbudowany tak by miał rezystancję wewnętrzną rzędu kiloomów\r",
+      "b": "Tak, ale tylko wtedy gdy obliczana jest poprawka mająca wyeliminować błąd metody\r",
+      "c": "Nie, ponieważ w stanie kompensacji przez obwód kompensatora, w którym znajduje się napięcie wyjściowe dzielnika nie płynie prąd\r",
+      "d": "Tak, dla pomiarów napięcia źródła o dużej rezystancji tj. większej od 10k?\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "12. Pomiar impedancji dwójników przeprowadza się za pomocą mostków:\r",
+      "a": "prądu stałego\r",
+      "b": "niezrównoważonych\r",
+      "c": "sześcioramiennych\r",
+      "d": "prądu przemiennego\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "13. Kiedy można wyznaczyć wartość skuteczną napięcia mierząc jego wartość średnią wyprostowaną ? skUśrpU\r",
+      "a": "Tylko dla woltomierzy cyfrowych całkujących\r",
+      "b": "Nigdy, gdyż zależność między tymi wartościami nie jest jednoznacznie zdefiniowana\r",
+      "c": "Tylko dla znanego współczynnika kształtu napięcia mierzonego\r",
+      "d": "Zawsze, gdyż Usk = SQRT(2) * Usrp\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "14. Kiedy woltomierz wartości skutecznej napięcia przemiennego wskaże wartość ujemną?\r",
+      "a": "Dla sygnałów prostokątnych o współczynniku wypełnienia 1>wk\r",
+      "b": "Kiedy odbiornik na którego zaciskach wykonujemy pomiar napięcia ma charakter pojemnościowy\r",
+      "c": "Przy zamienionych zaciskach woltomierza, do których doprowadzone jest mierzone napięcie\r",
+      "d": "Nigdy, jeśli tylko jest sprawny\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "15. Watomierz posiada dwa obwody wejściowe: napięciowy i prądowy. Czy można w jednym punkcie połączyć jeden zacisk napięciowy i jeden prądowy?\r",
+      "a": "Tak, jest to stosowane w układach pomiarowych bez przekładników\r",
+      "b": "Tak, ale tylko dla napięć bezpiecznych, zwykle mniejszych od 24V\r",
+      "c": "Tak, stosując opornik wyrównawczy w obwodzie tego połączenia\r",
+      "d": "Nie można, gdyż może to spowodować zwarcie w obwodzie napięciowym\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "16. Jaki jest sens zastosowania przekładnika prądowego o nominalnej wartości prądu pierwotnego 5A i prądu wtórnego 5A?\r",
+      "a": "Takie przekładniki są stosowane, gdy możliwe jest rozłączanie obwodu strony wtórnej przekładnika prądowego, np. prace konserwatorskie przy ciągłej pracy kontrolowanego odbiornika w obwodzie strony pierwotnej\r",
+      "b": "Takie przekładniki prądowe stosuje się dla separacji galwanicznej obwodu strony pierwotnej od obwodu strony wtórnej\r",
+      "c": "Takie przekładniki nie są produkowane ponieważ ich użycie zwiększa cenę układu pomiarowego, a powszechnie dostępne są amperomierze o zakresie 5A\r",
+      "d": "Takie przekładniki są stosowane gdy w prądzie odbiornika występuje składowa stała o wartości z przedziału 0÷5A\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "17. Czy dla przekładnika prądowego włączonego w fazę A można jeden z zacisków strony wtórnej połączyć z przewodem N sieci?\r",
+      "a": "Nie, ponieważ zaciski strony pierwotnej są na wysokim napięciu i takie przyłączenie zmienia wartości ich potencjałów\r",
+      "b": "Nie, ponieważ spowoduje to zwarcie fazy A na stronie pierwotnej z przewodem N\r",
+      "c": "Tak, stosuje się takie rozwiązanie dla zabezpieczenia osób obsługujących układ pomiarowy\r",
+      "d": "Nie, gdyż spowoduje to zmianę fazy prądu w obwodzie wtórnym przekładnika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "18. Czy można do strony wtórnej jednego przekładnika prądowego dołączyć dwa amperomierze prądu przemiennego?\r",
+      "a": "Tak, należy je połączyć równolegle i sprawdzić czy ich moc przy prądzie nominalnym nie przekracza mocy nominalnej przekładnika\r",
+      "b": "Tak, należy je połączyć szeregowo i dobrać tak, by przy prądzie nominalnym ich moc była dwukrotnie większa od mocy przekładnika\r",
+      "c": "Tak, należy je połączyć równolegle i dobrać tak, by przy prądzie nominalnym ich moc była równa 0,5 mocy przekładnika\r",
+      "d": "Tak, należy je połączyć szeregowo i sprawdzić czy pobierana przez nie moc przy prądzie nominalnym nie przekracza mocy nominalnej przekładnika\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "19. Dla jakiego zakresu częstotliwości jest określana klasa przekładnika napięciowego?\r",
+      "a": "Tyko dla 50Hz w Europie\r",
+      "b": "Dla zakresu od 1 do 40 harmonicznej napięcia pracy linii wysokiego napięcia\r",
+      "c": "Dla zakresu od 0 do 50Hz w Europie\r",
+      "d": "Dla częstotliwości wynikającej z górnej częstotliwości pasma woltomierza z nim współpracującego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "20. W jaki sposób watomierz elektrodynamiczny mierzy moc czynną?\r",
+      "a": "Wyznaczane są w jego obwodach napięciowym i prądowym wartości skuteczne napięcia i prądu, a następnie są one mnożone\r",
+      "b": "Wyznaczana jest wartość średnia iloczynu wartości chwilowych napięcia i prądu w jego obwodach napięciowym i prądowym\r",
+      "c": "Wyznaczane są wartości skuteczne napięcia, prądu w jego obwodach napięciowym i prądowym oraz cos?, a następnie mnożone gdyż ?cosUIP=\r",
+      "d": "Wyznaczany jest pierwiastek kwadratowy z iloczynu wartości skutecznych napięcia i prądu w jego obwodach napięciowym i prądowym\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "21. Czy w liczniku indukcyjnym energii elektrycznej prądu przemiennego pracującym dla celów rozliczeniowych następuje zliczanie obrotów tarczy?\r",
+      "a": "Nie, liczydło pokazuje prędkość wirowania tarczy, proporcjonalną do mocy odbiornika\r",
+      "b": "Nie, ponieważ wystąpi błąd spowodowany obrotami tarczy na biegu jałowym\r",
+      "c": "Tak, gdyż ich liczba jest proporcjonalna do zmierzonej energii\r",
+      "d": "Zliczanie jest warunkowo możliwe gdy moc bierna odbiornika jest równa 0\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "22. Dla pomiaru mocy czynnej pobieranej przez odbiornik symetryczny w sieci trójprzewodowej, trójfazowej symetrycznej użyto jednego watomierza. Jak połączyć obwód napięciowy watomierza?\r",
+      "a": "Początek obwodu napięciowego watomierza do jednego z jego zacisków prądowych, koniec do drugiej fazy\r",
+      "b": "Początek obwodu napięciowego watomierza do jednego z jego zacisków prądowych, koniec należy uziemić\r",
+      "c": "Początek obwodu napięciowego do fazy następnej w stosunku do fazy, w której włączony jest obwód prądowy, a koniec do fazy kolejnej\r",
+      "d": "Początek obwodu napięciowego watomierza do jednego z jego zacisków prądowych, koniec do tzw. sztucznego zera utworzonego z trzech odpowiednio dobranych rezystorów\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "23. Układ Arona do pomiaru mocy czynnej w sieci trójprzewodowej wymaga dwóch watomierzy; co zrobić jeśli jest dostępny przewód neutralny?\r",
+      "a": "Można stosować układ Arona do pomiaru mocy odbiornika w takiej sieci, o ile przewód neutralny nie jest przyłączony do punktu gwiazdowego tego odbiornika\r",
+      "b": "Należy przewód neutralny dołączyć do obudowy odbiornika lub jego punktu neutralnego\r",
+      "c": "Zewrzeć przewód neutralny z punktem wspólnym obwodów napięciowych watomierzy\r",
+      "d": "Można zastosować układ Arona pod warunkiem dołączenia końców obwodów napięciowych watomierzy do utworzonego sztucznego zera\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "24. Jakie napięcia można mierzyć w sieci trójfazowej stosując dwa przekładniki napięciowe pracujące w układzie „V”?\r",
+      "a": "Można mierzyć tylko napięcia przewodowe we wszystkich fazach\r",
+      "b": "Można mierzyć napięcia przewodowe i fazowe we wszystkich fazach\r",
+      "c": "Można mierzyć tylko napięcia fazowe we wszystkich fazach\r",
+      "d": "Żadna powyższa odpowiedź nie jest poprawna\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "25. Czy pomiar mocy biernej Q w układzie trójfazowym za pomocą watomierzy jest możliwy przy niesymetrycznym zasilaniu?\r",
+      "a": "Jest możliwy ale tylko dla układu z trzema watomierzami\r",
+      "b": "Jest możliwy tylko pośrednio, z przekładnikami\r",
+      "c": "Nie jest możliwy, ponieważ wykorzystuje się zależności kątowe pomiędzy napięciami przewodowymi i fazowymi nieznane w przypadku dowolnej asymetrii zasilania\r",
+      "d": "Jest możliwy ale wtedy odbiornik musi być niesymetryczny. Niesymetria nie musi być znana\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "26. W jakich układach pomiarowych istotne są błędy kątowe przekładników napięciowych i prądowych?\r",
+      "a": "Przy pomiarach zawartości harmonicznych np. współczynnika THD.\r",
+      "b": "Przy pomiarach wartości skutecznych napięć i prądów\r",
+      "c": "Przy pomiarach mocy\r",
+      "d": "Przy pomiarach energii\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "27. Na jaki parametr sygnału powinien reagować szerokopasmowy wskaźnik równowagi w mostku zmiennoprądowym?\r",
+      "a": "Na wartość skuteczną lub średnią wyprostowaną napięcia w przekątnej mostka\r",
+      "b": "Na wartość średnią napięcia w przekątnej mostka\r",
+      "c": "Na częstotliwość napięcia w przekątnej mostka\r",
+      "d": "Na składową stałą w sygnale przekątnej mostka\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "28. Do czego służy układ Wagnera stosowany w mostkach zasilanych napięciem przemiennym?\r",
+      "a": "Do wyeliminowania wpływu rezystancji przewodów i styków na wynik pomiaru, analogicznie jak dodatkowe ramiona w mostku Thomsona\r",
+      "b": "Do wyeliminowania wpływu pasożytniczych pojemności doziemnych na wynik pomiaru\r",
+      "c": "Do eliminacji wpływu sprzężeń magnetycznych pomiędzy elementami w mostku\r",
+      "d": "Do zwiększenia czułości mostka\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "29. Które założenie przyjęto dla określenia zależności teoretycznych i wyznaczenia parametrów kondensatora mierzonego mostkiem Wiena?\r",
+      "a": "Kondensator rzeczywisty jest połączeniem równoległym rezystancji i kondensatora idealnego\r",
+      "b": "Kondensator rzeczywisty jest bezstratny dla znanej częstotliwości zasilania mostka\r",
+      "c": "Kondensator rzeczywisty jest połączeniem szeregowym rezystancji i kondensatora idealnego\r",
+      "d": "Kondensator rzeczywisty posiada bardzo dużą wartość ?gt\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "30. Które ze stwierdzeń dotyczących wyników pomiarów rezystancji zastępczej dławika za pomocą mostka Maxwella i za pomocą omomierza prądu stałego jest poprawne?\r",
+      "a": "Nie ma różnicy w wynikach, rezystancja zastępcza jest związana tylko z materiałem uzwojenia i jest taka sama w obu pomiarach\r",
+      "b": "Rezystancja zastępcza jest pojęciem teoretycznym i nie ma możliwości jej pomiaru\r",
+      "c": "Dla dławika z rdzeniem rezystancja zastępcza jest pomijalnie mała, a więc w wynikach obu tych pomiarów nie ma różnicy\r",
+      "d": "Rezystancja zastępcza w pomiarze mostkowym uwzględnia oprócz rezystancji przewodu straty związane ze zmiennym polem magnetycznym w rdzeniu dławika. Wartość rezystancji zmierzonej omomierzem przy prądzie stałym jest mniejsza\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "31. Liczba 132 zapisana w kodzie naturalnym binarnym ma postać:\r",
+      "a": "10000100\r",
+      "b": "10001100\r",
+      "c": "10010010\r",
+      "d": "01001001\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "32. Jakie układy pomiarowe są stosowane do pomiaru indukcji pola magnetycznego za pomocą czujników magnetorezystancyjnych?\r",
+      "a": "Stosuje się układ kompensacyjny, przy czym prąd roboczy magnetorezystora powinien być dobrany tak, by czujnik miał stabilną temperaturę względem otoczenia\r",
+      "b": "Ze względu na małe zmiany rezystancji związane z mierzoną indukcją magnetyczną stosuje się stałoprądowy układ mostka Wheatstone'a. Pozwala on na jednoczesną kompensację temperaturową\r",
+      "c": "Układ techniczny do pomiaru rezystancji. Należy zadbać o możliwie mały prąd roboczy aby wytworzone przez niego własne pole magnetyczne nie zaburzało badanego pola magnetycznego\r",
+      "d": "Ze względu na małe zmiany rezystancji związane z mierzoną indukcją magnetyczną stosuje się stałoprądowy układ mostka Thomsona. Pozwala on na jednoczesną kompensację temperaturową\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "33. Napięcie wyjściowe UH hallotronu dane jest wzorem (gdzie: B – indukcja magnetyczna, Is - prąd sterujący, SH -czułość hallotronu, d – grubość warstwy półprzewodnika w hallotronie, RH - współczynnik Halla):\r",
+      "a": "Uh = Sh * (B/Is)\r",
+      "b": "Uh = Sh*B*Is\r",
+      "c": "Uh = (B*Is)/d\r",
+      "d": "Uh = Rh * (B/Is)\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "34. Kiedy na ekranie oscyloskopu powstanie stabilna krzywa Lissajous?\r",
+      "a": "Tylko wtedy, gdy do wejść X oraz Y oscyloskopu dołączone są napięcia sinusoidalne, których stosunek częstotliwości jest liczbą naturalną.\r",
+      "b": "Gdy do wejść X oraz Y oscyloskopu dołączone są napięcia sinusoidalne, których stosunek częstotliwości jest liczbą wymierną\r",
+      "c": "Gdy do wejść X oraz Y oscyloskopu dołączone są napięcia nieokresowe o tak dobranych czasach trwania, aby ich stosunek był liczbą naturalną\r",
+      "d": "Gdy do wejść X oraz Y oscyloskopu dołączone są napięcia o dowolnych kształtach i stosunku częstotliwości będącym liczbą wymierną\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "35. Czy pomiar przedziału czasu metodą cyfrową wymaga stosowania generatora wzorcowego?\r",
+      "a": "Tak, wyznaczana jest liczba okresów napięcia generatora wzorcowego w czasie otwarcia bramki wejściowej licznika\r",
+      "b": "Tak, generator wzorcowy steruje czasem wyświetlania wyniku\r",
+      "c": "Nie wymaga, ponieważ można zastosować pomiar względny tak jak w woltomierzach podwójnie całkujących\r",
+      "d": "Nie wymaga, gdyż bramka wejściowa licznika może być otwierana i zamykana impulsami uformowanymi z sygnału mierzonego po ich podziale za pomocą wzorcowego dzielnika częstotliwości\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "36. Jaki czas pierwszego całkowania stosowany jest domyślnie przez producentów w cyfrowych woltomierzach podwójnie całkujących?\r",
+      "a": "Czas całkowania dobiera się tak, aby czas trwania pomiaru wynosił zawsze 100ms (wartość znormalizowana)\r",
+      "b": "W Europie to wielokrotność 20ms, czyli okresu najczęściej występującego zakłócenia\r",
+      "c": "Czas całkowania jest w każdym pomiarze dobierany automatycznie tak, aby wynosił ()ms2050·f, gdzie f jest częstotliwością mierzonego napięcia\r",
+      "d": "Czas trwania całkowania jest parametrem danego typu woltomierza, może być więc dowolny\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "37. Do woltomierza podwójnie całkującego, z czasem całkowania napięcia mierzonego 40ms dołączono napięcie sieciowe o częstotliwości 50Hz i wartości skutecznej 1V. Jaka wartość pojawi się na jego wyświetlaczu?\r",
+      "a": "1,000\r",
+      "b": "0,707\r",
+      "c": "0,000\r",
+      "d": "1,111\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "38. Do woltomierza podwójnie całkującego, z czasem całkowania napięcia mierzonego równym 60ms dołączono napięcie o częstotliwości 50Hz, wartości skutecznej 5V i składowej stałej równej 2V. Jaka wartość pojawi się na jego czterocyfowym wyświetlaczu?\r",
+      "a": "7,000\r",
+      "b": "3,000\r",
+      "c": "2,000\r",
+      "d": "5,000\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "39. W jakiego rodzaju woltomierzu cyfrowym jeden cykl pomiarowy trwa najkrócej?\r",
+      "a": "Kompensacyjnym z kompensacją wagową (SAR)\r",
+      "b": "Poczwórnie całkującym\r",
+      "c": "Podwójnie całkującym\r",
+      "d": "Bezpośredniego porównania (flash)\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "40. Jakie czynniki mają największy wpływ na czas pomiaru woltomierzem cyfrowym z kompensacją wagową?\r",
+      "a": "Częstotliwość zegara taktującego i liczba bitów przetwornika A/C użytego w woltomierzu\r",
+      "b": "Czas propagacji bramek układu cyfrowego i szybkość pracy komparatora\r",
+      "c": "Częstotliwość pracy procesora sterującego pomiarem i wartość napięcia wejściowego\r",
+      "d": "Wartość napięcia mierzonego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "41. Współczynnik THD definiowany  dla sygnałów okresowych, poliharmoniczych, określa:\r",
+      "a": "zawartość wyższych harmonicznych w sygnale\r",
+      "b": "zawartość składowej stałej w sygnale\r",
+      "c": "stosunek wartości maksymalnej do skutecznej sygnału\r",
+      "d": "zawartość podstawowej harmonicznej w sygnale\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "42. Jaka jest relacja pomiędzy niepewnością typu B pomiaru, a rozdzielczością przyrządu cyfrowego za pomocą którego wykonano ten pomiar?\r",
+      "a": "Rozdzielczość jest równa niepewności tego pomiaru\r",
+      "b": "Rozdzielczość jest większa od niepewności tego pomiaru\r",
+      "c": "Rozdzielczość jest różna od niepewności pomiaru, ale nie da się określić jak bardzo\r",
+      "d": "Rozdzielczość powinna być zawsze mniejsza od niepewności tego pomiaru\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "43. Które uszeregowanie przetworników A/C pod względem szybkości działania jest poprawne? Zakładamy, że pierwszy z wymienionych jest przetwornikiem najwolniejszym.\r",
+      "a": "całkujący, kompensacyjny, bezpośredniego porównania,\r",
+      "b": "sigma-delta, całkujący, kompensacyjny\r",
+      "c": "kompensacyjny, bezpośredniego porównania, całkujący\r",
+      "d": "kompensacyjny, całkujący, sigma-delta\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "44. Za pomocą kalkulatora wyznaczono wartość mierzoną równą 0,23145812V oraz niepewność jej pomiaru równą 0,0034521V. Który zapis wyniku pomiaru jest poprawny?\r",
+      "a": "0,23 +/- 0,003\r",
+      "b": "0,231+/-0,003V\r",
+      "c": "0,2314 +/- 0,003V\r",
+      "d": "0,2314 +/- 0,00345V\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "45. Który z wymienionych czujników do pomiaru temperatury można nazwać czujnikiem generacyjnym?\r",
+      "a": "termistor PTC\r",
+      "b": "termorezystor\r",
+      "c": "termoelement\r",
+      "d": "termistor NTC\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "46. Rozkład t-Studenta stosowany jest do wyznaczenia niepewności:\r",
+      "a": "typu B\r",
+      "b": "w przypadku pojedynczego pomiaru\r",
+      "c": "w przypadku krótkiej serii pomiarowej (N<30)\r",
+      "d": "w przypadku długiej serii pomiarowej (N>30)\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "47. Rozkład jednostajny (prostokątny) stosowany jest do wyznaczenia niepewności:\r",
+      "a": "typu A\r",
+      "b": "w przypadku długiej serii pomiarowej (N>30)\r",
+      "c": "w przypadku krótkiej serii pomiarowej (1<N<30)\r",
+      "d": "w przypadku pojedynczego pomiaru( N = 1)\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "48. Zasada mówiąca, że w przyrządach wielozakresowych należy starać się wybrać taki zakres Z, aby wartość mierzona mieściła się w przedziale [0,5Z, Z]\r",
+      "a": "dotyczy jedynie przyrządów analogowych\r",
+      "b": "dotyczy jedynie przyrządów cyfrowych\r",
+      "c": "pozwala uzyskać możliwie stały błąd graniczny bezwzględny pomiaru\r",
+      "d": "pozwala uzyskać możliwie mały błąd graniczny względny pomiaru\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "49. Napięcie o wartości około 10V zmierzono trzema woltomierzami o następujących parametrach: V1 – wskaźnik klasy 0,5; zakres 30V, V2 – wskaźnik klasy 1,5 ; zakres 20V, V3 – wskaźnik klasy 1; zakres 10V. Która z podanych poniżej zależności, dotyczących względnych błędów granicznych gr? pomiaru tego napięcia, jest prawdziwa:\r",
+      "a": "delta gr3 < delta gr2 < delta gr1\r",
+      "b": "delta gr2 = delta gr1; delta gr3 < delta gr1; delta gr3 < delta gr2\r",
+      "c": "delta gr2 =3*delta gr1; delta gr3=2*delta gr1\r",
+      "d": "delta gr3 = delta gr1; delta gr2>delta gr1; delta gr2>delta gr3\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "50. Przy pomiarze współczynnika zawartości harmonicznych sygnału zawierającego składową stałą, zgodnie z definicją:\r",
+      "a": "brana jest pod uwagę podwójna wartość składowej stałej sygnału\r",
+      "b": "brana jest pod uwagę połowa wartości składowej stałej sygnału\r",
+      "c": "składowa stała sygnału nie jest brana pod uwagę\r",
+      "d": "brany jest pod uwagę kwadrat składowej stałej\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "51. W celu pomiaru wartości skutecznej napięcia przedstawionego na rysunku, należy zastosować woltomierz:\r",
+      "a": "magnetoelektryczny\r",
+      "b": "cyfrowy w opcji DC\r",
+      "c": "cyfrowy w opcji TRUE RMS\r",
+      "d": "cyfrowy w opcji TRUE RMS AC + DC\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "52. Multimetrem cyfrowym zmierzono rezystancję rezystora czterozaciskowego o małej wartości nominalnej, uzyskując w opcji 2W wartość R1, a w opcji 4W wartość R2. Dla uzyskanych wartości:\r",
+      "a": "zawsze powinno zachodzić R1 = R2\r",
+      "b": "zawsze powinno zachodzić R1>R2\r",
+      "c": "zawsze powinno zachodzić R1<R2\r",
+      "d": "zachodzenie warunku b lub c zależy od tego, którą z par zacisków wytypowano jako prądową, a którą jako napięciową\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "53. Które z podanych stwierdzeń dotyczy jedynie mostka Wheatstone`a ?\r",
+      "a": "jego zasada działania wykorzystuje metodę zerową\r",
+      "b": "może być zrealizowany w wersji laboratoryjnej i technicznej\r",
+      "c": "powinien być stosowany do pomiaru rezystancji o dużych wartościach\r",
+      "d": "powinien być stosowany do pomiaru rezystancji o małych wartościach\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "54. Które z podanych stwierdzeń dotyczy jedynie mostka Thomsona ?\r",
+      "a": "jego zasada działania wykorzystuje metodę zerową\r",
+      "b": "może być zrealizowany w wersji laboratoryjnej i technicznej\r",
+      "c": "jest mostkiem czteroramiennym\r",
+      "d": "jest mostkiem sześcioramiennym\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "55. Który spośród niżej wymienionych układów pomiarowych najlepiej zastosować do pomiaru rezystancji żarówki o danych znamionowych 230V/100W?\r",
+      "a": "układ pomiarowy zawierający watomierz i miernik ?cos\r",
+      "b": "układ pomiarowy zawierający watomierz i woltomierz\r",
+      "c": "mostek rezystancyjny zasilany napięciem sieciowym 230V/50Hz\r",
+      "d": "multimetr cyfrowy wyposażony w opcję pomiaru rezystancji w układzie 2W\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "56. W zrównoważonym mostku Wheatstone`a spełniona jest zależność RxR4 = R2R3 . Z jakim względnym błędem granicznym zmierzono rezystancję Rx, jeśli zastosowane rezystory wzorcowe posiadały klasy 0,2?\r",
+      "a": "0,60%\r",
+      "b": "0,20%\r",
+      "c": "0,33%\r",
+      "d": "0,57%\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "57. Mostek prądu stałego przedstawiony na rysunku jest w stanie równowagi jeżeli:\r",
+      "a": "Rx *R4 + R2 *R3=0\r",
+      "b": "Rx * R3 - R2 *R4=0\r",
+      "c": "Rx *R2 + R4*R3=0\r",
+      "d": "Rx*R4 - R2*R3=0\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "58. Mierząc rezystancję za pomocą mostka prądu stałego, przedstawionego na rysunku, stan równowagi osiągnięto dla następujących wartości rezystancji: xR?=k22R,, . Wartość wynosi: ?=20003R?=40004RxR\r",
+      "a": "1Ohm\r",
+      "b": "1000Ohm\r",
+      "c": "1500Ohm\r",
+      "d": "4kOhm\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "59. Idealne źródło napięcia powinno charakteryzować się rezystancją wewnętrzną:\r",
+      "a": "równą zero\r",
+      "b": "o stałej wartości, niezależnej od wartości prądu obciążającego to źródło\r",
+      "c": "równą rezystancji obciążenia\r",
+      "d": "większą od rezystancji obciążenia\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "60. Jeśli w jednofazowym liczniku indukcyjnym energii czynnej tarcza obraca się w lewo, świadczy to o:\r",
+      "a": "pojemnościowym charakterze odbiornika\r",
+      "b": "zbyt dużym momencie hamującym\r",
+      "c": "zamienionych początkach i końcach obwodu napięciowego bądź obwodu prądowego licznika\r",
+      "d": "zamienionych początkach i końcach obwodu napięciowego oraz obwodu prądowego licznika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "61. Do czego służy położenie K na przełączniku zakresu prądowego watomierza? \r",
+      "a": "do przerywaniu obwodu prądowego, w celu wyłączenia odbiornika\r",
+      "b": "do K-krotnego zwiększenia zakresu mierzonego prądu, przez załączenie wbudowanego przekładnika prądowego o przekładni K\r",
+      "c": "do zamiany początku z końcem uzwojenia prądowego\r",
+      "d": "do zwierania cewki prądowej na czas rozruchu odbiornika, w celu zabezpieczenia ustroju watomierza przed zbyt dużym prądem rozruchowym\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "62. Jeśli wskazówka watomierza włączonego do obwodu jednofazowego wychyliła się w lewo od zera, świadczy to o:\r",
+      "a": "zamienionych początkach i końcach obwodu napięciowego bądź obwodu prądowego watomierza\r",
+      "b": "indukcyjnym charakterze odbiornika\r",
+      "c": "pojemnościowym charakterze odbiornika\r",
+      "d": "zamienionych początkach i końcach obwodu napięciowego oraz prądowego watomierza\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "63. Watomierz posiada następujące nominalne (N) parametry: Un=100V, In=10A, cosfin=0,1. Jaka jest wartość maksymalnej mocy czynnej mierzonej przez ten watomierz?\r",
+      "a": "P=100W\r",
+      "b": "P=1000W\r",
+      "c": "P=10W\r",
+      "d": "P=1.0W\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "64. Współczynnik szczytu ks sygnału definiuje się jako (F - wartość skuteczna, Fm- wartość maksymalna, - wartość średnia, kśrFk - współczynnik kształtu, kw - współczynnik wypełnienia):\r",
+      "a": "ks = F/Fsr\r",
+      "b": "ks = Fm/F \r",
+      "c": "ks = F/Fm \r",
+      "d": "ks = kk/kw\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "65. Przekładnik napięciowy powinien pracować:\r",
+      "a": "w stanie zwarcia strony wtórnej\r",
+      "b": "w stanie dopasowania impedancyjnego\r",
+      "c": "w stanie rozwarcia strony wtórnej\r",
+      "d": "przy obciążeniu strony wtórnej równym 15÷30VA\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "66. W metodzie technicznej do pomiaru rezystancji o małych wartościach stosuje się układ:\r",
+      "a": "trzech amperomierzy,\r",
+      "b": "poprawnie mierzonego prądu,\r",
+      "c": "poprawnie mierzonego napięcia,\r",
+      "d": "Arona.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "67. Który z przetworników A/C ma zdolność tłumienia zakłóceń o okresach nT (n=1, 2, ...), gdzie T jest okresem pierwszej harmonicznej okresowego sygnału zakłócającego:\r",
+      "a": "z przetwarzaniem impulsowo-czasowym,\r",
+      "b": "z podwójnym całkowaniem,\r",
+      "c": "z kompensacją równomierną,\r",
+      "d": "z kompensacją wagową.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "68. Integracyjne przetworniki A/C:\r",
+      "a": "są wolne, ale dokładne,\r",
+      "b": "nadają się do pomiaru sygnałów szybkozmiennych,\r",
+      "c": "mają rozdzielczości nie większe niż 6 bitów,\r",
+      "d": "są jednymi z najszybszych przetworników.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "69. Liczbę 267 zapisano w kodzie BCD 8421. Wskaż poprawną wersję zapisu:\r",
+      "a": "010101 100111 \r",
+      "b": "0111 0110 0010 \r",
+      "c": "0010 0110 0111\r",
+      "d": "0101 0001 0100\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "70. Układ Arona stosuje się do pomiarów w sieciach:\r",
+      "a": "trójfazowych, czteroprzewodowych z niedostępnym przewodem zerowym,\r",
+      "b": "trójfazowych, pięcioprzewodowych (bez ograniczeń),\r",
+      "c": "trójfazowych, trójprzewodowych (bez ograniczeń),\r",
+      "d": "dowolnych trójfazowych, obciążonych symetrycznie.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "71. Jaką wartość sygnału o częstotliwości 50 Hz zmierzy przyrząd wskazówkowy o ustroju magnetoelektrycznym:\r",
+      "a": "skuteczną,\r",
+      "b": "średnią,\r",
+      "c": "maksymalną,\r",
+      "d": "średnią wyprostowaną,\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "72. Korektor dynamiczny zaprojektowany dla przetwornika I rzędu o stałej czasowej T i wzmocnieniu K, ma za zadanie:\r",
+      "a": "zwiększenie wypadkowej stałej czasowej układu przetwornik+korektor,\r",
+      "b": "zwiększenie częstotliwości własnej przetwornika, 0f\r",
+      "c": "zmniejszenie wypadkowego współczynnika tłumienia układu przetwornik+korektor,\r",
+      "d": "zmniejszenie wypadkowej stałej czasowej układu przetwornik+korektor.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "73. Cyfrowym woltomierzem \"True RMS\", o paśmie 20Hz÷10kHz, zmierzono dwukrotnie napięcie o przebiegu jak na rysunku, uzyskując dla opcji AC wskazanie 3V, a dla opcji DC wskazanie 4V. Wyznaczona na podstawie tych wskazań skuteczna wartość napięcia wynosi:\r",
+      "a": "SQRT(4-2) = 1V\r",
+      "b": "SQRT(9+16) = 5V\r",
+      "c": "3+4 = 7V\r",
+      "d": "SQRT(16-9) = 2,65V\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "74. Do pomiaru pojemności kondensatora wysokonapięciowego powinien być stosowany mostek:\r",
+      "a": "Wiena,\r",
+      "b": "Maxwella-Wiena,\r",
+      "c": "Scheringa,\r",
+      "d": "Nernsta.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "75. Przekładniki prądowe i napięciowe\r",
+      "a": "to dokładne transformatory stosowane zwykle w pomiarach dużych napięć, prądów i mocy,\r",
+      "b": "nie powinny być stosowane w układach do pomiarów mocy ze względu na wprowadzane błędy kątowe,\r",
+      "c": "mogą być stosowane tylko i wyłącznie w obwodach trójfazowych,\r",
+      "d": "mogą być stosowane jedynie w obwodach jednofazowych.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "76. Do pomiaru zmian rezystancji czujników tensometrycznych powinno się stosować:\r",
+      "a": "dokładne omomierze cyfrowe,\r",
+      "b": "czułe mostki Wheatstone’a,\r",
+      "c": "czułe mostki Thomsona,\r",
+      "d": "metodę porównawczą z porównaniem prądów.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "77. Do pomiaru parametrów R i L cewki można wykorzystać:\r",
+      "a": "mostek Wiena,\r",
+      "b": "mostek Robinsona,\r",
+      "c": "mostek Maxwella-Wiena,\r",
+      "d": "mostek Scheringa.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "78. Na wejścia X i Y oscyloskopu podano sygnały sinusoidalne o takiej samej częstotliwości, przesunięte w fazie o ?/2. Jaki obraz może powstać na ekranie oscyloskopu w takim przypadku:\r",
+      "a": "o \r",
+      "b": "/\r",
+      "c": " //\r",
+      "d": "\\\\\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "79. Kalibrację sondy pomiarowej w oscyloskopach przeprowadza się w celu:\r",
+      "a": "zwiększenia dokładności pomiaru w torze Y oscyloskopu,\r",
+      "b": "zwiększenia dokładności pomiaru w torze X oscyloskopu,\r",
+      "c": "uzyskania poprawnego odtworzenia na ekranie kształtu sygnałów szerokopasmowych,\r",
+      "d": "zwiększenia zakresu napięciowego w torze X oscyloskopu.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "80. Pojemność kondensatora zmierzono metodą techniczną przy użyciu : woltomierza, amperomierza i częstościomierza. Wyniki pomiaru były następujące: U=100 V, I=31, 4 mA, f=50Hz. Wartość mierzonej pojemności wynosi:\r",
+      "a": "1 mikrofarad,\r",
+      "b": "3,14 milifarada,\r",
+      "c": "31,4 mikrofarada,\r",
+      "d": "0,314 mikrofarada\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "81. W instrukcji przyrządu podano: błąd graniczny wyniku pomiaru napięciu deltagr=aX+mXr, X-wartość zmierzona, Xr-rozdzielczość przyrządu (LSD), a=1%, m=3. Odczytano U=1,300V (wyświetlacz 3,5 cyfrowy), na zakresie 2V. Względny, graniczny błąd pomiaru wynosi:\r",
+      "a": "5,0%\r",
+      "b": "1,2%\r",
+      "c": "4,0%\r",
+      "d": "0,3%\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "82. Do pomiaru indukcji magnetycznej można użyć magnetorezystora lub hallotronu. Jakie są obszary zastosowań każdego z tych czujników?\r",
+      "a": "hallotrony są używane do pól magnetycznych o mniejszych wartościach niż te, dla których stosowane są magentorezystory\r",
+      "b": "oba czujniki mogą być używane zamiennie dla pól o indukcji do 1,5T\r",
+      "c": "magnetorezystory mogą być używane tylko dla pól magnetycznych o małych wartościach indukcji, rzędu mT, natomiast hallotrony dla większych\r",
+      "d": "magnetorezystory stosowane są w przypadku indukcji stałych, a hallotrony zmiennych w czasie\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "83. Multimetr z opcją cztero-zaciskowego pomiaru rezystancji posiada cztery gniazda:\r",
+      "a": "dwa zaciski źródła napięcia, dwa zaciski pomiaru napięcia na rezystancji.\r",
+      "b": "dwa zaciski źródła prądu, dwa zaciski pomiaru napięcia na rezystancji.\r",
+      "c": "dwa zaciski pomiaru prądu, dwa zaciski pomiaru napięcia.\r",
+      "d": "dwa zaciski pomiaru napięcia na przewodach, dwa zaciski pomiaru napięcia na rezystancji.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "84. Demodulator fazoczuły użyty z mostkiem zmiennoprądowym i tensometrami umożliwia:\r",
+      "a": "pomiar szybkości zmian względnej długości czynnych tensometrów.\r",
+      "b": "pomiar wartości zmiany długości czynnych tensometrów względem przyjętego zera skali - wartości dodatnie i ujemne.\r",
+      "c": "automatyczną kompensację temperaturową mostka tensometrycznego zasilanego napięciem sinusoidalnym lub prostokątnym.\r",
+      "d": "duże wzmocnienia sygnałów mierzonych, konieczne dla tensometrów metalowych.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "85. Hallotron zastosowany do pomiaru indukcji magnetycznej wymaga zastosowania prądu pomocniczego, związanego z efektem Halla, prąd ten powinien:\r",
+      "a": "być stały dla pomiarów stałych pól magnetycznych i sinusoidalnie zmienny dla pomiaru pól sinusoidalnie zmiennych.\r",
+      "b": "być stały, a jego wartość musi być dobrana tak by nie powodować efektów cieplnych zauważalnych podczas pomiarów.\r",
+      "c": "być dostosowany do napięcia Halla w celu kompensacji niedokładności wykonania połączeń wewnątrz Hallotronu.\r",
+      "d": "być zmienny, a jego częstotliwość dwa razy większa od częstotliwości zmian indukcji magnetycznej.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "86. Do czego służy filtr antyaliasingowy w rejestratorach cyfrowych?\r",
+      "a": "Ogranicza od góry (filtr dolnoprzepustowy) pasmo sygnału rejestrowanego tak by dotrzymany był warunek wynikający z twierdzenia o próbkowaniu.\r",
+      "b": "Ogranicza od dołu (filtr górnoprzepustowy) pasmo sygnału rejestrowanego tak by dotrzymany był warunek wynikający z twierdzenia o próbkowaniu.\r",
+      "c": "Zabezpiecza wejście rejestratora przed przepięciami typu impulsowego, szczególnie częste zakłócenie w liniach przemysłowych.\r",
+      "d": "Umożliwia kompresję danych, a więc zwiększa czasy rejestracji dla małych pamięci masowych.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "87. Kiedy w pomiarze technicznym rezystancji przy prądzie stałym można pominąć rezystancję wewnętrzną amperomierza, tj. przyjąć że jej wartość nie wpłynie na wyniki obliczeń wartości mierzonej rezystancji?\r",
+      "a": "W pomiarze z poprawnie mierzonym napięciem\r",
+      "b": "W pomiarze z poprawnie mierzonym prądem\r",
+      "c": "Tylko w pomiarach wykonywanych za pomocą przyrządów cyfrowych\r",
+      "d": "Nigdy nie można jej pominąć\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "88. Jakiego rodzaju napięcie należy zastosować aby zmierzyć pojemność kondensatora metodą techniczną z wykorzystaniem woltomierza i amperomierza?\r",
+      "a": "Napięcie sinusoidalne o dowolnej częstotliwości i dowolnej amplitudzie\r",
+      "b": "Napięcie prostokątne o współczynniku wypełnienia równym 0,5\r",
+      "c": "Napięcie dowolnego kształtu, ale bez składowej stałej\r",
+      "d": "Napięcie sinusoidalne o częstotliwości dobranej w zależności od zakresu amperomierza mierzącego prąd pobierany przez kondensator\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "89. Twierdzenie o próbkowaniu odnosi się do częstotliwości próbkowania obserwowanego sygnału np. napięciowego u(t).\r",
+      "a": "Podaje maksymalną częstotliwość próbkowania jako dwukrotnie większą od największej składowej w widmie sygnału u(t), dla której można poprawnie odtworzyć sygnał z próbek.\r",
+      "b": "Podaje maksymalną częstotliwość próbkowania jako dwukrotnie większą od częstotliwości podstawowej sygnału u(t), dla której można poprawnie odtworzyć sygnał z próbek.\r",
+      "c": "Podaje minimalną częstotliwość próbkowania jako dwukrotnie większą od największej składowej w widmie sygnału u(t), dla której można poprawnie odtworzyć sygnał z próbek.\r",
+      "d": "Zaleca stosowanie próbkowania o częstotliwości dokładnie dwa razy większej od szerokości widma sygnału u(t).\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "90. Woltomierz A ma zakres 100 V i klasę 1; woltomierz B ma zakres 50 V i klasę 2. Każdym z nich zmierzono napięcie o wartości 44 V. Która z podanych zależności dotyczących granicznych błędów bezwzględnych pomiarów jest prawdziwa?\r",
+      "a": "Delta gr A > Delta gr B,\r",
+      "b": "Delta gr A < Delta gr B,\r",
+      "c": "Delta gr A = Delta gr B,\r",
+      "d": "Delta gr A = 2 * Delta gr B\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "91. Które z poniższych stwierdzeń jest prawdziwe dla interfejsu RS-485:\r",
+      "a": "umożliwia połączenie tylko jednego nadajnika i odbiornika\r",
+      "b": "zezwala na jednoczesne nadawanie 32 nadajników jednocześnie\r",
+      "c": "transmisja sygnałów jest prowadzona linią symetryczną\r",
+      "d": "jest to interfejs równoległy.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "92. Woltomierz A ma zakres 100 V i klasę 2; woltomierz B ma zakres 50 V i klasę 1. Każdym z nich zmierzono napięcie o wartości 44 V. Która z podanych zależności dotyczących granicznych błędów bezwzględnych pomiarów jest prawdziwa?\r",
+      "a": "Delta gr A > Delta gr B,\r",
+      "b": "Delta gr A < Delta gr B,\r",
+      "c": "Delta gr A = Delta gr B,\r",
+      "d": "Delta gr A = 2 * Delta gr B\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "93. Omomierzem cyfrowym na zakresie 100ohm zmierzono wartość rezystancji opornika równą 81,50ohm. Błąd graniczny zmierzonej wartości, obliczony zgodnie z zaleceniem producenta jako: +-1% wartości mierzonej oraz +-0,5% wartości zakresu wynosi:\r",
+      "a": "+-1,32ohm\r",
+      "b": "+-1,63ohm\r",
+      "c": "+-1,50ohm\r",
+      "d": "+-0,82ohm\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "94. Według której z podanych zależności może być wyznaczona wrtość rezystancji wewnętrznej źródła napięcia stałego, mierzona w układzie jak na rysnku? xD U1, U2 - wartości napięć wskazywane przez woltomierz dla dwóch położeń przełącznika P.\r",
+      "a": "Rw~(U1-U2)/I\r",
+      "b": "Rw=(U1+U2)/2I\r",
+      "c": "Rw=(U1-U2)/(I-(U1-U2)/Ra)\r",
+      "d": "Rw=(IR-U1)/Ra\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "95. W multimetrach cyfrowych pomiar rezystancji Rx odbywa się\r",
+      "a": "poprzez pomiar prądu płynącego przez rezystor Rx przy stałej warości napięcia, które go zasila\r",
+      "b": "poprzez pomiar napięcia na rezystorze Rx przy stałej wartości prądu, który go zasila\r",
+      "c": "przy zasilaniu rezystora Rx z wewnętrznego źródła stałoprądoweg\r",
+      "d": "przy zasilaniu rezystora Rx z wewnętrznego źródła sygnału sinusoidalnego\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "96. Zmiana zakresów prądowych watomierza realizowana jest przez:\r",
+      "a": "bocznikowanie rezystorami cewki nieruchomej\r",
+      "b": "przełączanie sekcji cewki nieruchomej\r",
+      "c": "bocznikowanie rezystorami cewki ruchomej\r",
+      "d": "dolączenie rezystorów w szereg z cewką ruchomą\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "97. Moc bierną odbiornika jednofazowego zamierzono watomierzem, którego obwód prądowy włączono w fazę L1 sieci trójfazowej symetrycznie zasilanej. Jego obwód napięciowy powinien być włączony:\r",
+      "a": "pomiędzy fazę L1 i punkt zerowy sieci\r",
+      "b": "pomiędzy fazę L2 i punkt zerowy sieci\r",
+      "c": "pomiędzy fazy L1 i L3\r",
+      "d": "pomiędzy fazy L2 i L3\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "98. Na wejście cyfrowe woltomierza z podwójnym całkowaniem dołączono napięcie z sieci 230V/50Hz, wyprostowane jednopołówkowo. Wskazanie woltomierza wynosi:\r",
+      "a": "230V\r",
+      "b": "325V\r",
+      "c": "0V\r",
+      "d": "104V\r",
+      "correct": "b"
+   }
+]

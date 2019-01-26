@@ -1,6 +1,6 @@
 {
   "name": "drill-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
@@ -16,6 +16,8 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "author": "CrazyPlate",
+  "repository": "https://github.com/CrazyPlate/drill-app",
   "browserslist": [
     ">0.2%",
     "not dead",

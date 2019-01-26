@@ -1,0 +1,466 @@
+[
+   {
+      "pytanie": "9.1. Moment silnika prądu stałego opisany jest związkiem:\r",
+      "a": "M = w * Y\r",
+      "b": "M = I*Y\r",
+      "c": "M = w * I\r",
+      "d": "M = w * I * Y\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.2. Moment obciążenia mechanicznego silnika o charakterze czynnym:\r",
+      "a": "działa zawsze przeciwnie do kierunku prędkości\r",
+      "b": "działa zawsze zgodnie ze kierunkiem prędkości\r",
+      "c": "działa niezależnie od kierunku prędkości\r",
+      "d": "ma zawsze wartość stałą\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.3. Moment obciążenia silnika o charakterze biernym:\r",
+      "a": "działa zawsze przeciwnie do kierunku prędkości\r",
+      "b": "działa zawsze zgodnie ze kierunkiem prędkości\r",
+      "c": "działa niezależnie od kierunku prędkości\r",
+      "d": "ma zawsze wartość stałą\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.4. Przy opuszczaniu ciężaru ze stałą prędkością moment silnika (przy uwzględnieniu oporów ruchu) jest:\r",
+      "a": "mniejszy od momentu silnika przy podnoszeniu ciężaru\r",
+      "b": "większy od momentu silnika przy podnoszeniu ciężaru\r",
+      "c": "równy momentowi silnika przy podnoszeniu ciężaru\r",
+      "d": "mniejszy lub większy – zależnie od prędkości - od momentu silnika przy podnoszeniu ciężaru\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.5. Moc na wale silnika indukcyjnego w układzie kaskady inwertorowej jest:\r",
+      "a": "niezależna od prędkości silnika\r",
+      "b": "zależna od prędkości silnika\r",
+      "c": "zależna tylko od momentu obciążenia mechanicznego silnika\r",
+      "d": "ma stałą wartość\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.6. W napędzie ,w którym silnik elektryczny rozwija moment Me, moment obciążenia (wraz ze stratami) wynosi Mm, stan równowagi statycznej napędu najlepiej opisuje zależność :\r",
+      "a": "Me = - Mm\r",
+      "b": "Me = Mm\r",
+      "c": "Me = J domega/dt\r",
+      "d": "Jest wiele zależności zależnie od rodzaju silnika\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.7. Dla przekładni o danych: moment znamionowy MN=160 Nm, sprawności znamionowej omegaN = 0,8 oraz przełożeniu i = 2 znamionowe straty momentu w przekładni omegaMN wynoszą:\r",
+      "a": "omegaMN =10Nm\r",
+      "b": "omegaMN =20Nm\r",
+      "c": "omegaMN =40Nm\r",
+      "d": "przy tych danych nie można określić wielkości straty\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.8. W napędzie z silnikiem indukcyjnym o mocy PN=50kW, technolog określił nowe wymagania dla maszyny roboczej: praca ze stałą prędkością omega=60 [1/s] przy momencie Mm=1000 [Nm]. W tej sytuacji należy:\r",
+      "a": "uznać, ze napęd może nadal pracować\r",
+      "b": "uznać, ze napęd może nadal pracować pod warunkiem dodatkowego chłodzenia silnika\r",
+      "c": "wymienić napęd na większy, odpowiednio zwymiarowany\r",
+      "d": "zastosować silnik synchroniczny o mocy 55 kW\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.9. Dozór techniczny stwierdził nadmierne nagrzewanie silnika napędowego. W tej sytuacji powinien:\r",
+      "a": "zmniejszyć prędkość silnika\r",
+      "b": "zmniejszyć obciążenie na wale\r",
+      "c": "natychmiast wyłączyć napęd i sprawdzić warunki obciążenia i chłodzenia silnika\r",
+      "d": "podjąć decyzję o natychmiastowej wymianie silnika  \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.10. W trakcie ruchu ustalonego w górę obcowzbudnego napędu pustej windy prąd twornika wyniósł 100 A. Znamionowe obciążenie klatki powoduje wzrost prądu o 200 A. Jakie wartości prądu twornika wystąpią z ciężarem odpowiadającym obciążeniu znamionowemu przy ustalonym ruchu napędu w górę i w dół przy pominięciu oporów tarcia (stały prąd wzbudzenia):\r",
+      "a": "w górę +300A, w dół +300A (jedno obciążenie na rysuneczku)\r",
+      "b": "w górę +300A, w dół – 300A\r",
+      "c": "w górę +300A, w dół – 100A\r",
+      "d": "w górę +200A, w dół – 200A\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.11. W trakcie ruchu ustalonego w górę, przy stałej wartości oporów ruchu, obcowzbudnego napędu ze stałym wzbudzeniem pustej, zrównoważonej windy (ciężar klatki równy ciężarowi przeciwwagi), prąd twornika wyniósł 100 A. Znamionowe obciążenie klatki powoduje wzrost prądu o 200 A. Jakie wartości prądu wystąpią z ciężarem odpowiadającym momentowi znamionowemu przy ustalonym ruchu napędu w górę i w dół:\r",
+      "a": "w górę +300A, w dół +300A\r",
+      "b": "w górę +300A, w dół – 300A\r",
+      "c": "w górę +300A, w dół + 100A (dwa obciążenia na rysuneczku)\r",
+      "d": "w górę +200A, w dół – 100A\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.12. O maksymalnej wartości przyspieszenia pojazdu elektrycznego decyduje:\r",
+      "a": "maksymalna wartość momentu rozwijanego przez silnik trakcyjny\r",
+      "b": "maksymalna moc rozwijana przez silnik trakcyjny\r",
+      "c": "maksymalna prędkość obrotowa silnika trakcyjnego\r",
+      "d": "maksymalna sprawność silnika trakcyjnego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.13. W pracującym układzie napędowym dwukrotnie wzrósł moment bezwładności na wale i dwukrotnie zmalało przyspieszenie kątowe. Oznacza to, że:\r",
+      "a": "moment dynamiczny zmalał czterokrotnie\r",
+      "b": "moment dynamiczny zmalał dwukrotnie\r",
+      "c": "moment dynamiczny nie zmienił się\r",
+      "d": "moment dynamiczny wzrósł dwukrotnie\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.14. W układzie napędowym rozwijającym stały moment Mel moc na wale silnika:\r",
+      "a": "nie zależy od prędkości obrotowej wału\r",
+      "b": "zmienia się liniowo z prędkością obrotową wału\r",
+      "c": "zmienia się kwadratowo z prędkością obrotową wału\r",
+      "d": "zmienia się zależnie od momentu obciążenia na wale\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.15. Która z poniższych charakterystyk przedstawia obciążenie typu momentu czynnego?\r",
+      "a": "| |\r",
+      "b": "  |\r",
+      "c": "/ /\r",
+      "d": "S\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.16. Która z poniższych charakterystyk przedstawia obciążenie typu wentylatorowego?\r",
+      "a": "| |\r",
+      "b": "  |\r",
+      "c": "/ /\r",
+      "d": "S\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.17. Początkowy prąd bezpośredniego rozruchu silnika obcowzbudnego prądu stałego o następujących danych znamionowych: U = 200V; n = 1000 obr/min, Rt(twornika) = 1 ?, Lt (twornika) ? 0 wynosi:\r",
+      "a": "5 A\r",
+      "b": "0,5 A\r",
+      "c": "200 A\r",
+      "d": "1000 A\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.18. W napędzie elektrycznym, model matematyczny (dynamika) silnika obcowzbudnego, który uwzględnia zarówno obwód twornika jak i stojana zapisuje się równaniami różniczkowymi zwyczajnymi rzędu:\r",
+      "a": "1\r",
+      "b": "2\r",
+      "c": "3\r",
+      "d": "4\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.19. Osłabienie pola w napędach elektrycznych stosuje się do:\r",
+      "a": "pracy ze stałym, znamionowym momentem elektromagnetycznym\r",
+      "b": "pracy z prędkością kątową większą od prędkości znamionowej\r",
+      "c": "pracy z prędkością kątową mniejszą od prędkości znamionowej\r",
+      "d": "nie można sformułować ogólnej zasady\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.20. Silnik obcowzbudny zasilany z przekształtnika tyrystorowego jest w stosunku do układu zasilania silnika z generatora prądu stałego (układu Leonarda) rozwiązaniem lepszym z uwagi na:\r",
+      "a": "znacznie wyższą sprawność układu napędowego\r",
+      "b": "szerszy zakres regulacji prędkości\r",
+      "c": "mniejsze zakłócenia wprowadzane do sieci zasilającej\r",
+      "d": "ma znacznie lepsze przyspieszenia\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.21. Regulację prędkości w zakresie prędkości mniejszych od prędkości znamionowej w napędzie z silnikiem obcowzbudnym prądu stałego realizuje się przez: \r",
+      "a": "sterowanie napięciem twornika przy znamionowym prądzie wzbudzenia \r",
+      "b": "sterowanie prądem wzbudzenia przy znamionowym napięciu twornik, \r",
+      "c": "jednoczesne, proporcjonalne sterowanie napięciem twornika i prądem wzbudzenia zachowując stały stosunek napięcia do prądu wzbudzenia \r",
+      "d": "jednoczesne sterowanie napięciem twornika i prądem wzbudzenia zachowując stały iloraz napięcia do prądu wzbudzenia\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.22. W maszynie obcowzbudnej o znamionowym napięciu obwodu wzbudzenia 100V, zasilanego z przekształtnika tyrystorowego zastosowano układ forsowania prądu wzbudzenia o maksymalnym napięciu 500V. Jaka winna być moc przekształtnika (chwilowa) układu zasilania wzbudzenia?\r",
+      "a": "równa mocy znamionowej uzwojenia wzbudzenia\r",
+      "b": "2× moc znamionowa wzbudzenia\r",
+      "c": "5× moc znamionowa wzbudzenia\r",
+      "d": "brak wystarczających danych do określenia\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.23. Czy w wyniku forsowania napięciowego wzbudzenia generatora uzyskujemy?\r",
+      "a": "zmianę szybkości zmian (szybkości narastania) prądu wzbudzenia\r",
+      "b": "zmianę ustalonej wartości prądu wzbudzenia\r",
+      "c": "zmniejszenie stałej czasowej obwodu wzbudzenia\r",
+      "d": "żadnego z wymienionych efektów\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.24. Klatkowy silnik indukcyjny ma znamionowy moment krytyczny Mkrn. Ile będzie wynosił moment krytyczny, gdy stojan zasilimy napięciem 0,9 Un?\r",
+      "a": "1,9 Mkrn,\r",
+      "b": "0,9 Mkrn,\r",
+      "c": "0,81 Mkrn.\r",
+      "d": "0,729 Mkrn.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.25. Silnik asynchroniczny pracuje przy stałej wartości napięcia zasilania i obciążeniu momentem Mm. Przy spadku napięcia zasilania o 10% nastąpi równocześnie:\r",
+      "a": "zmniejszenie poślizgu krytycznego i wzrost prądu silnika\r",
+      "b": "spadek prędkości silnika i zmniejszenie poślizgu krytycznego\r",
+      "c": "zmniejszenie momentu krytycznego i spadek prędkości silnika\r",
+      "d": "zmniejszenie współczynnika mocy\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.26. Silnik asynchroniczny pierścieniowy pracuje przy stałej wartości napięcia stojana i przy obciążeniu momentem Mm. Po włączeniu rezystancji dodatkowej w obwód wirnika nastąpi równocześnie:\r",
+      "a": "zmniejszenie poślizgu krytycznego i wzrost prądu silnika\r",
+      "b": "spadek prędkości silnika i powiększenie poślizgu krytycznego\r",
+      "c": "zmniejszenie przeciążalności silnika\r",
+      "d": "spadek momentu krytycznego i poślizgu krytycznego\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.27. Układ energoelektroniczny SOFTSTART stosowany do rozruchu napędów prądu przemiennego umożliwia redukcję prądu rozruchowego w efekcie:\r",
+      "a": "zmniejszenia napięcia zasilającego silnik\r",
+      "b": "zwiększenia reaktancji indukcyjnej włączonej pomiędzy sieć zasilającą i zaciski silnika\r",
+      "c": "zmniejszenia momentu obciążenia silnika\r",
+      "d": "włączenia w obwód wirnika rezystancji dodatkowej o kontrolowanej wartości\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.28. W silniku asynchronicznym z regulacją częstotliwościową, zasadę U/f = const stosujemy, aby uzyskać:\r",
+      "a": "regulację na stały prąd stojana\r",
+      "b": "regulację na stały moment\r",
+      "c": "regulację na stały strumień\r",
+      "d": "nie jest żadną z wymienionych regulacji\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.29. Urządzenia SOFTSTART do rozruchu maszyn indukcyjnych realizują:\r",
+      "a": "obniżenie napięcia stojana maszyny w czasie rozruchu, za pomocą fazowo sterowanych łączników tyrystorowych,\r",
+      "b": "zmianę częstotliwości zasilania stojana\r",
+      "c": "regulację napięcia wirnika maszyny, realizowana poprzez zwieranie wirnika łącznikami sterowanymi fazowo\r",
+      "d": "regulację napięcia wirnika maszyny, realizowana poprzez zwieranie wirnika łącznikami pracującymi z modulacją szerokości impulsu (PWM)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.30. W układzie kaskady inwertorowej podsynchronicznej z silnikiem indukcyjnym,\r",
+      "a": "moc elektryczna z wirnika (po przekształceniu) jest oddawana do sieci zasilającej\r",
+      "b": "moc elektryczna z wirnika (po przekształceniu) jest pobierana z sieci zasilającej\r",
+      "c": "moc elektryczna z wirnika (po przekształceniu) jest przekazywana do dodatkowej maszyny, na wspólnym wale\r",
+      "d": "moc elektryczna z wirnika (po przekształceniu) jest pobierana z dodatkowej maszyny, na wspólnym wale\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.31. W układzie kaskady inwertorowej z silnikiem indukcyjnym, pracującej w podsynchroniźmie:\r",
+      "a": "brak elektrycznego momentu hamującego\r",
+      "b": "elektryczny moment hamujący ma stałą wartość\r",
+      "c": "elektryczny moment hamujący zależy od wartości prędkości\r",
+      "d": "elektryczny moment hamujący zmienia się wraz z wartością momentu obciążenia mechanicznego\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.32. Silnik synchroniczny wyposażony w układ regulacji prądu wzbudzenia w stanie przewzbudzenia:\r",
+      "a": "pracuje z pojemnościowym współczynnikiem mocy\r",
+      "b": "pracuje z indukcyjnym współczynnikiem mocy\r",
+      "c": "pracuje z jednostkowym współczynnikiem mocy\r",
+      "d": "pobiera wyłącznie moc czynną\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.33. Określenie napęd bezczujnikowy (sensorless) oznacza brak zastosowania w układzie regulacji:\r",
+      "a": "przetworników pomiarowych prądu\r",
+      "b": "przetworników pomiarowych napięcia\r",
+      "c": "przetworników pomiarowych prędkości lub położenia kątowego\r",
+      "d": "dowolnych przetworników pomiarowych\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.35. W układzie napędowym z przekładnia mechaniczną jak na rysunku, zredukowany na wał silnika moment zastępczy obciążenia wynosi:\r",
+      "a": "100 Nm\r",
+      "b": "(80 + 20 sign omega) Nm\r",
+      "c": "80 Nm\r",
+      "d": "(100 + 60 sign omega)Nm \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.36. Układ napędowy złożony jest z silnika rozwijającego moment elektryczny Me i maszyny roboczej wytwarzającej moment mechaniczny Mm. Przebieg charakterystyk obu momentów przedstawia rysunek obok: Czy punkty równowagi statycznej A i B są:\r",
+      "a": "oba punkty A i B są stabilne\r",
+      "b": "oba punkty A i B są niestabilne\r",
+      "c": "punkt A jest stabilny, B jest niestabilny\r",
+      "d": "punkt A jest niestabilny, B jest stabilny M A B ?M\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.37. Charakterystyki mechaniczne silnika obcowzbudnego prądu stałego przedstawione na rysunku dotyczą hamowania:\r",
+      "a": "przeciwłączeniem\r",
+      "b": "dynamicznego\r",
+      "c": "z odzyskiem energii\r",
+      "d": "potencjalnego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.38. Dla przypadku hamowania silnika jak na rysunku ustalonym punktem pracy będzie:\r",
+      "a": "punkt A\r",
+      "b": "punkt B\r",
+      "c": "punkt C\r",
+      "d": "punkt D\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.39. W silniku szeregowym jaki układ połączeń uniemożliwia rozbieganie silnika:\r",
+      "a": "bocznikowanie twornika.\r",
+      "b": "bocznikowanie uzwojenia wzbudzenia.\r",
+      "c": "równoczesne bocznikowanie twornika i uzwojenia wzbudzenia\r",
+      "d": "nie można zabezpieczyć silnika przed rozbieganiem\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.40. Warunkiem hamowania dynamicznego samowzbudnego silnika szeregowego prądu stałego jest:\r",
+      "a": "istnienie remanentu maszyny,\r",
+      "b": "istnienie zewnętrznego źródła napięcia stałego\r",
+      "c": "nie istnieją żadne ograniczenia\r",
+      "d": "hamowania w takim układzie nie jest możliwe dla maszyny szeregowej\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.41. Regulacja na stałą moc w napędach elektrycznych jest opisywana funkcją (charakterystyka mechaniczna):\r",
+      "a": "liniową\r",
+      "b": "hiperboliczną\r",
+      "c": "eksponencjalną\r",
+      "d": "żadna z wyżej wymienionych\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.42. Hamowanie dynamiczne maszyny indukcyjnej jest realizowane przez:\r",
+      "a": "przyłączenie stojana do sieci i zasilenie wirnika prądem stałym,\r",
+      "b": "odłączenie stojana od sieci i zasilenie wirnika prądem stałym,\r",
+      "c": "odłączenie stojana od sieci i zasilenie go prądem stałym (obwód wirnika zamknięty),\r",
+      "d": "odłączenie stojana od sieci i zasilenie wirnika prądem stałym,\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.43. W bezszczotkowej maszynie prądu stałego (DC brushless motor) do wyznaczenia punktów komutacji najczęściej wykorzystuje się:\r",
+      "a": "amplidynę\r",
+      "b": "tachoprądnicę\r",
+      "c": "wzmacniacz elektromaszynowy\r",
+      "d": "czujniki Halla\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.44. Zastosowanie układu softstart do zasilania silnika indukcyjnego klatkowego prowadzi do następujących zmian naturalnej charakterystyki mechanicznej:\r",
+      "a": "zmniejszenie poślizgu krytycznego,\r",
+      "b": "zwiększenie poślizgu krytycznego,\r",
+      "c": "zwiększenie momentu krytycznego,\r",
+      "d": "żadna z powyższych odpowiedzi\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.46. Model matematyczny dowolnego silnika prądu przemiennego w wirującym (z dowolną prędkością) układzie współrzędnych jest w postaci:\r",
+      "a": "równań algebraicznych\r",
+      "b": "równań stanu\r",
+      "c": "transmitancji operatorowej\r",
+      "d": "wyłącznie równań różniczkowych liniowych\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.47. W wektorowych metodach sterowania silnikiem indukcyjnym układem odniesienia może być:\r",
+      "a": "wektor prądu stojana\r",
+      "b": "strumień skojarzony wirnika\r",
+      "c": "położenie kątowe wirnika\r",
+      "d": "prędkość kątowa wirnika\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.48. Polowo zorientowane sterowanie silnikami indukcyjnymi prowadzi do:\r",
+      "a": "eliminacji momentu bezwładności\r",
+      "b": "eliminacji momentu obciążenia\r",
+      "c": "odseparowania toru regulacji momentu elektromagnetycznego i strumienia skojarzonego\r",
+      "d": "sprzęgnięcia toru regulacji momentu elektromagnetycznego i strumienia skojarzonego\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.49. Wektorowe metody sterowania silnikami indukcyjnymi w porównaniu do metody U/f=const wymagają:\r",
+      "a": "pomiaru częstotliwości napięcia i prądu sieci zasilającej\r",
+      "b": "zastosowania wyłącznie przemiennika częstotliwości z falownikiem prądu\r",
+      "c": "zastosowania wyłącznie przemiennika częstotliwości z falownikiem napięcia\r",
+      "d": "znajomości prądów płynących w uzwojeniach silnika oraz prędkości kątowej\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.50. Metody polowo zorientowane sterowania silnikami prądu przemiennego bazują na przetwarzaniu:\r",
+      "a": "wartości skutecznych sygnałów\r",
+      "b": "wartości średnich sygnałów\r",
+      "c": "wartości chwilowych sygnałów\r",
+      "d": "nie wymagają układów pomiarowych\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.51. Dowolny bezszczotkowy silnik prądu stałego z magnesami trwałymi może być zasilany:\r",
+      "a": "bezpośrednio z sieci jednofazowej\r",
+      "b": "nawrotnego przekształtnika tyrystorowego\r",
+      "c": "bezpośrednio z sieci trójfazowej\r",
+      "d": "układu energoelektronicznego z falownikiem napięcia\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.52. W bezszczotkowej maszynie prądu przemiennego (PM Synchronous Motor) do procesu komutacji najczęściej wykorzystuje się:\r",
+      "a": "resolwer lub enkoder absolutny\r",
+      "b": "tachoprądnicę\r",
+      "c": "wzmacniacz elektromaszynowy\r",
+      "d": "czujniki Halla\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.53. Na rysunku przedstawiono przebiegi prądu twornika i prędkości kątowej kaskadowej struktury regulacji nawrotnym napędem prądu stałego (rozruch i obciążenie). W chwili t=1.5s silnik został obciążony momentem o wartości znamionowej. Z przedstawionych przebiegów wynika, że:\r",
+      "a": "przebiegi I1,omega1 oraz I2,omega2 uzyskano z regulatorami prędkości typu PI posiadającymi różne nastawy oraz regulatorami prądu typu PI posiadającymi różne nastawy.\r",
+      "b": "przebiegi I1,omega1 oraz I2,omega2 uzyskano z regulatorami prędkości typu PI posiadającymi różne nastawy oraz regulatorami prądu typu PI posiadającymi identyczne nastawy.\r",
+      "c": "przebiegi I1,omega1 uzyskano z regulatorem prędkości typu P i regulatorem prądu typu PI, natomiast przebiegi I2,omega2 uzyskano z regulatorem prędkości typu PI i regulatorem prądu typu P.\r",
+      "d": "przebiegi I1,omega1 uzyskano z regulatorem prędkości typu PI i regulatorem prądu typu PI, natomiast przebiegi I2,omega2 uzyskano z regulatorem prędkości typu P i regulatorem prądu typu PI.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.54. Na rysunku przedstawiono przebiegi prądu twornika i prędkości kątowej kaskadowej struktury regulacji nawrotnym napędem prądu stałego (rozruch i obciążenie). W chwili t=1.5s silnik został obciążony momentem o wartości znamionowej. Z przedstawionych przebiegów wynika, że:\r",
+      "a": "dla I1,omega1 - zamknięty układ regulacji prądu jest elementem oscylacyjnym, natomiast zamknięty obwód regulacji prędkości jest elementem inercyjnym co najmniej drugiego rzędu.\r",
+      "b": "dla I2,omega2 - zamknięty układ regulacji prądu jest elementem inercyjnym co najmniej drugiego rzędu, natomiast zamknięty obwód regulacji prędkości jest elementem inercyjnym co najmniej drugiego rzędu.\r",
+      "c": "dla I1,omega1 - zamknięty układ regulacji prądu jest elementem inercyjnym pierwszego rzędu, natomiast zamknięty obwód regulacji prędkości jest elementem co najmniej drugiego rzędu.\r",
+      "d": "w obydwu przypadkach - zamknięty układ regulacji prądu jest elementem oscylacyjnym co najmniej drugiego rzędu, natomiast zamknięty obwód regulacji prędkości jest elementem inercyjnym co najmniej trzeciego rzędu.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9.55. Na wielkość przeregulowania prądu twornika w układzie kaskadowej regulacji nawrotnego napędu prądu stałego (jak na rysunku) mają wpływ:\r",
+      "a": "dla rozruchu i stabilizacji jedynie nastawy regulatora prądu.\r",
+      "b": "dla rozruchu jedynie nastawy regulatora prądu, a dla stabilizacji nastawy obu regulatorów.\r",
+      "c": "dla rozruch nastawy regulatora prądu, a dla stabilizacji nastawy regulatora prędkości.\r",
+      "d": "dla rozruchu i stabilizacji nastawy obu regulatorów.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.56. Nastawne ograniczenie pomiędzy regulatorem nadrzędnym a podrzędnym, napędu jak na rysunku, ma wpływ na:\r",
+      "a": "wielkość przeregulowania prądu twornika.\r",
+      "b": "ograniczenie maksymalnej wartości prędkości kątowej.\r",
+      "c": "ograniczenie przyspieszenia napędu.\r",
+      "d": "liniowy charakter zadawania wartości prądu IZ.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.57. Rewers silnika prądu stałego jak na rysunku jest realizowany w układzie z prostownikiem nienawrotnym. Która z poniższych sekwencji zmian konfiguracji układu pozwala zrealizować pracę silnika w czterech ćwiartkach układu współrzędnych jak na rysunku?\r",
+      "a": "A, B, C, D ?\r",
+      "b": "A, C, B, D\r",
+      "c": "A, D, C, B\r",
+      "d": "A, C, D, B ????\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9.58. Se zobacz na teście:\r",
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9.59. Praca generatorowa kaskady inwertorowej z maszyną indukcyjną (na stały moment):\r",
+      "a": "nie jest możliwa – kaskada inwertorowa nie może rozwinąć momentu generatorowego\r",
+      "b": "jest możliwa przy osiągnięciu prędkości obrotowej wyższej niż odpowiadająca prędkości biegu jałowego (dla pracy generatorowej) przy danym kącie wysterowania przekształtnika i tylko przy jednym kierunku prędkości obrotowej\r",
+      "c": "jest możliwa przy osiągnięciu prędkości obrotowej wyższej niż odpowiadająca prędkości biegu jałowego (dla pracy generatorowej) przy danym kącie wysterowania przekształtnika w obu kierunkach prędkości obrotowej\r",
+      "d": "jest możliwa tylko przy prędkości obrotowej leżącej w zakresie pomiędzy prędkościami biegu jałowego dla obu kierunków wirowania\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9.60. Przełączalny silnik reluktancyjny (SRM ) to silnik, który:\r",
+      "a": "posiada wydatne zęby na stojanie i na wirniku, i tylko stojan jest uzwojony\r",
+      "b": "stojan i wirnik są uzwojone\r",
+      "c": "posiada wydatne zęby na uzwojonym stojanie i cylindryczny, nieuzwojony wirnik\r",
+      "d": "posiada wydatne zęby na uzwojonym stojanie, wirnik posiada uzwojenia rozmieszczone w żłobkach",
+      "correct": "a"
+   }
+]

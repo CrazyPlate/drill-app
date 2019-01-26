@@ -1,0 +1,730 @@
+[
+   {
+      "pytanie": "1. Wektor przerwań to:\r",
+      "a": "adres miejsca w pamięci programu, gdzie znajduje się procedura obsługi przerwania lub odwołanie do niej\r",
+      "b": "obszar w pamięci programu zawierający kod programu wykonywany po wystąpieniu przerwania\r",
+      "c": "obszar pamięci zawierający adresy funkcji obsługi przerwań\r",
+      "d": "wektor adresów komórek pamięci zawierających adresy przerwań procesora\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": ". Architektura Harvardzka procesorów charakteryzuje się:\r",
+      "a": "brakiem rejestru licznika rozkazów\r",
+      "b": "uproszczonym sposobem adresowania pamięci danych\r",
+      "c": "występowaniem pomocniczego rejestru akumulatora: B\r",
+      "d": "rozdzieleniem pamięci procesora na dwa obszary: obszar kodu programu i obszar danych\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": ". Procesor typu RISC to procesor:\r",
+      "a": "nie wykonujący instrukcji arytmetycznych\r",
+      "b": "nie posiadający rozkazów warunkowych\r",
+      "c": "o zredukowanej liczbie rozkazów\r",
+      "d": "o zwiększonej liczbie rozkazów\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": ". Mikrokontroler w odróżnieniu od mikroprocesora:\r",
+      "a": "posiada porty I/O oraz układy peryferyjne\r",
+      "b": "posiada niewielką moc obliczeniową\r",
+      "c": "posiada zawsze pamięć programu typu FLASH\r",
+      "d": "posiada zawsze zegar czasu rzeczywistego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": ". Technika LUT (Look-up Table):\r",
+      "a": "polega na używaniu jednolicie adresowanej tabeli danych zamiast wielu osobnych zmiennych\r",
+      "b": "polega na „zaglądaniu” do tabeli w celu pobrania adresu mającej się wykonać procedury (funkcji)\r",
+      "c": "polega na zbudowaniu wielowymiarowej tabeli danych w celu otrzymania ich spójnej struktury\r",
+      "d": "polega na zastąpieniu wartości wyrażenia algebraicznego jego stabelaryzowaną wartością gdzie jego argumentem jest adres komórki tabeli\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": ". Procesor 16-bitowy ma\r",
+      "a": "16-bitową szynę danych\r",
+      "b": "16-bitową jednostkę arytmetyczno - logiczną\r",
+      "c": "16-bitowy licznik programu\r",
+      "d": "16-bitowy układ mnożący\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": ". Tablica wektorów przerwań służy do:\r",
+      "a": "przechowywania informacji o ostatnio zgłoszonych przerwaniach\r",
+      "b": "przechowywania informacji o zamaskowanych (nieaktywnych) przerwaniach\r",
+      "c": "przechowywania kodu inicjalizującego przerwania po włączeniu procesora\r",
+      "d": "przechowywania adresów procedur obsługi przerwań\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": ". Jednostka ALU odpowiada za:\r",
+      "a": "pobieranie i zapis danych z/do pamięci\r",
+      "b": "interpretację instrukcji\r",
+      "c": "operacje arytmetyczne\r",
+      "d": "obsługę stosu\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": ". W większości procesorów (np. 8051), jeżeli przy dodawaniu nastąpi przepełnienie rejestru (poprawnego wyniku nie można przedstawić w rejestrze), to:\r",
+      "a": "zostanie ustawiony odpowiedni bit w rejestrze statusu i zgłoszone przerwanie\r",
+      "b": "zostanie ustawiony odpowiedni bit w rejestrze statusu\r",
+      "c": "zostanie zgłoszone przerwanie\r",
+      "d": "nic się nie stanie\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "0. Dany jest 8- bitowy procesor, w którym dostępne są flagi statusu: C – przeniesienia (Carry) i Z – zero. Po wykonaniu operacji dodawania bez przeniesienia (ADD) dwóch liczb: 1000 0000 i 1100 0000 stan flag jest następujący:\r",
+      "a": "C=0, Z = 1\r",
+      "b": "C=1, Z = 0\r",
+      "c": "C=1, Z = 1\r",
+      "d": "C=0, Z = 0\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "1. Dany jest 8- bitowy procesor, w którym dostępne są flagi statusu: C – przeniesienia (Carry) i Z – zero. Po wykonaniu operacji dodawania bez przeniesienia (ADD) dwóch liczb: 0100 0000 i 1100 0000 stan flag jest następujący:\r",
+      "a": "C=0, Z = 1\r",
+      "b": "C=1, Z = 0\r",
+      "c": "C=1, Z = 1\r",
+      "d": "C=0, Z = 0\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "2. Układ watchdog zapewnia ciągłość pracy przez:\r",
+      "a": "niedopuszczenie do wykonania niedozwolonych operacji\r",
+      "b": "zerowanie procesora po wykonaniu niedozwolonej operacji\r",
+      "c": "restart procesora, gdy określony fragment programu nie jest wykonywany przez zadany przedział czasu\r",
+      "d": "zgłoszenie przerwania w przypadku błędnej sumy kontrolnej pamięci\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "3. Maksymalna wartość dziesiętna 16-bitowej liczby w kodzie naturalnym binarnym wynosi:\r",
+      "a": "32768\r",
+      "b": "65535\r",
+      "c": "65536\r",
+      "d": "4294967295\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "4. Największa wartość dziesiętna 16-bitowej liczby w kodzie binarnym uzupełnienia do 2 (U2) wynosi:\r",
+      "a": "32768\r",
+      "b": "65536\r",
+      "c": "32767\r",
+      "d": "65653\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "5. Najmniejsza wartość dziesiętna 8-bitowej liczby w kodzie binarnym uzupełnienia do 2 (U2) wynosi:\r",
+      "a": "–1\r",
+      "b": "–127\r",
+      "c": "0\r",
+      "d": "–128\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "5. Pamięć stosowa (stos) mikroprocesora służy przede wszystkim:\r",
+      "a": "jako pamięć robocza mikroprocesora\r",
+      "b": "do adresowania pamięci programu mikroprocesora\r",
+      "c": "do przechowywania adresów powrotnych przy wywołaniach podprogramów i procedur\r",
+      "d": "do adresowania pamięci danych mikroprocesora\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "6. Architektura von Neumanna procesorów charakteryzuje się:\r",
+      "a": "brakiem sygnałów sterujących do sterowania pamięcią\r",
+      "b": "wspólnym obszarem adresowym pamięci programu i pamięci danych\r",
+      "c": "rozdzielonymi obszarami adresowymi pamięci programu i pamięci danych\r",
+      "d": "wspólnym obszarem adresowym pamięci danych i urządzeń wejścia/wyjścia\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "7. Licznik rozkazów mikroprocesora służy do:\r",
+      "a": "adresowania urządzeń wejścia/wyjścia mikroprocesora\r",
+      "b": "adresowania pamięci danych mikroprocesora\r",
+      "c": "adresowania pamięci programu mikroprocesora\r",
+      "d": "adresowania wszystkich trzech, wymienionych powyżej, obszarów adresowych\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8. Kontroler przerwań służy przede wszystkim do:\r",
+      "a": "zwiększenia liczby przerwań sprzętowych mikroprocesora\r",
+      "b": "zmiany priorytetów przerwań mikroprocesora\r",
+      "c": "zliczania liczby resetów procesora\r",
+      "d": "blokowania jakichkolwiek przerwań lub resetów zewnętrznych procesora\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9. Mikroprocesor posiadający 20-bitową szynę adresową może zaadresować:\r",
+      "a": "20 komórek pamięci zewnętrznej\r",
+      "b": "20^2 komórek pamięci zewnętrznej\r",
+      "c": "(2^20- 1) komórek pamięci zewnętrznej\r",
+      "d": "2^20 komórek pamięci zewnętrznej\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "0. Jeżeli procesor taktowany jest częstotliwością 10MHz, a jego cykl maszynowy liczy 4 takty zegara to maksymalna szybkość wykonywania instrukcji asemblera przez ten procesor wynosi:\r",
+      "a": "10 MIPS\r",
+      "b": "4 MIPS\r",
+      "c": "2.5 MIPS\r",
+      "d": "1 MIPS\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "1. Przesłanie z potwierdzeniem (handshaking) polega na tym, że:\r",
+      "a": "przesłaniu informacji (danej) towarzyszy sygnał jej wpisu (do odbiornika)\r",
+      "b": "po odbiorze informacji (danej) odbiornik blokuje możliwość dalszego przesyłu danych przez nadajnik\r",
+      "c": "nadajnik i odbiornik są ze sobą zsynchronizowane częstotliwościowo\r",
+      "d": "przesłaniu informacji (danej) towarzyszy sygnał wpisu (do odbiornika); po odebraniu informacji odbiornik generuje sygnał potwierdzenia odbioru (do nadajnika)\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "2. Nazwa „makroasembler” oznacza, że w danym kompilatorze:\r",
+      "a": "istnieje możliwość kompilowania asemblerów różnych procesorów\r",
+      "b": "istnieje możliwość dołączania zawartości innych plików do kompilowanego\r",
+      "c": "istnieje możliwość tworzenia makropoleceń (makrorozkazów)\r",
+      "d": "w programie przeznaczonym do kompilacji istnieje możliwość tworzenia podprogramów\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "3. W mikroprocesorach wykonanych w technologii CMOS pobór prądu ze źródła zasilania zależy od częstotliwości taktowania procesora w sposób następujący:\r",
+      "a": "liniowo\r",
+      "b": "kwadratowo\r",
+      "c": "eksponencjalnie\r",
+      "d": "w ogóle nie zależy\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "4. W procesorze wykonanie podprogramu instrukcją (np. CALL) w programie asemblerowym powoduje:\r",
+      "a": "zapamiętaniu adresu instrukcji występującej po instrukcji wywołania podprogramu i załadowanie licznika rozkazów (PC) adresem początku podprogramu\r",
+      "b": "odłożenie na stos aktualnej zawartości wskaźnika stosu (SP) i przeładowanie go adresem początku podprogramu\r",
+      "c": "fizyczne wklejenie ciała podprogramu w miejscu jego wywołania, na etapie kompilacji programu\r",
+      "d": "fizyczne wklejenie ciała podprogramu w miejscu jego wywołania, na etapie konsolidacji (linkowania) programu\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "5. W mikrokontrolerach 8051 lub AVR wywołanie instrukcji RET w programie asemblerowym powoduje\r",
+      "a": "zdjęcie z wierzchołka stosu jednego bajta i załadowanie go do akumulatora (A)\r",
+      "b": "zdjęcie z wierzchołka stosu jednego bajta i załadowanie go do rejestru wskaźnika stosu (SP)\r",
+      "c": "zdjęcie z wierzchołka stosu dwóch bajtów i załadowanie nimi licznika rozkazów (PC)\r",
+      "d": "usunięcie ciała podprogramu na etapie kompilacji\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "6. Liczba (-39) zapisana w kodzie U2 na 8 bitach ma postać\r",
+      "a": "0010 0111\r",
+      "b": "1101 1001\r",
+      "c": "1010 0111\r",
+      "d": "1001 1010\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "7. Liczba (-1) zapisana w kodzie U2 na 8 bitach ma postać\r",
+      "a": "1000 0001\r",
+      "b": "1000 0000\r",
+      "c": "1111 1111\r",
+      "d": "1111 1110\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8. Liczba (+128) zapisana w kodzie U2 na 8 bitach ma postać\r",
+      "a": "0000 0001\r",
+      "b": "0111 1111\r",
+      "c": "1111 1111\r",
+      "d": "nie da się przedstawić\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9. Wartość 725 zapisana w kodzie BCD na 12 bitach to:\r",
+      "a": "0010 1101 0101\r",
+      "b": "1101 0010 1011\r",
+      "c": "1000 1101 1010\r",
+      "d": "0111 0010 0101\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "0. 12-to bitowa wartość w kodzie BCD (1001 0001 0111) to dziesiętnie:\r",
+      "a": "653\r",
+      "b": "917\r",
+      "c": "719\r",
+      "d": "817\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "1. 12-to bitowa wartość w kodzie BCD (1100 0101 0011) to dziesiętnie:\r",
+      "a": "453\r",
+      "b": "1253\r",
+      "c": "nie da się przedstawić\r",
+      "d": "1453\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "2. Układ bezpośredniego dostępu do pamięci (Direct Memory Access) służy do:\r",
+      "a": "transmisji danych pomiędzy mikroprocesorem a pamięcią danych\r",
+      "b": "transmisji danych pomiędzy mikroprocesorem a pamięcią programu\r",
+      "c": "transmisji danych pomiędzy pamięcią danych a urządzeniem we/wy, po odłączeniu mikroprocesora od magistrali systemowej\r",
+      "d": "transmisji danych pomiędzy pamięcią danych a pamięcią programu, po odłączeniu mikroprocesora od magistrali systemowej\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "3. Standard transmisji I2C stworzono z myślą o:\r",
+      "a": "szeregowej transmisji danych pomiędzy poszczególnymi układami scalonymi tego samego układu mikroprocesorowego (mikrokomputera)\r",
+      "b": "szeregowej transmisji danych pomiędzy różnymi urządzeniami (np. mikrokomputerami)\r",
+      "c": "równoległej transmisji danych pomiędzy poszczególnymi układami scalonymi tego samego układu mikroprocesorowego (mikrokomputera)\r",
+      "d": "równoległej transmisji danych pomiędzy różnymi urządzeniami (np. mikrokomputerami)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "4. Magistrala w standardzie I2C zapewnia transmisję:\r",
+      "a": "szeregową, synchroniczną, dupleksową (full duplex)\r",
+      "b": "szeregową, asynchroniczną, półdupkleksową (half duplex)\r",
+      "c": "szeregową, asynchroniczną, dupleksową (full duplex)\r",
+      "d": "szeregową, synchroniczną, półdupkleksową (half duplex)\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "5. Standard transmisji SPI stworzono z myślą o:\r",
+      "a": "szeregowej transmisji danych pomiędzy różnymi urządzeniami (np. mikrokomputerami)\r",
+      "b": "szeregowej transmisji danych pomiędzy poszczególnymi układami scalonymi tego samego układu mikroprocesorowego (mikrokomputera)\r",
+      "c": "równoległej transmisji danych pomiędzy poszczególnymi układami scalonymi tego samego układu mikroprocesorowego (mikrokomputera)\r",
+      "d": "równoległej transmisji danych pomiędzy różnymi urządzeniami (np. mikrokomputerami)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "6. Magistrala w standardzie SPI zapewnia transmisję:\r",
+      "a": "szeregową, synchroniczną, dupleksową (full duplex)\r",
+      "b": "szeregową, asynchroniczną, półdupkleksową (half duplex)\r",
+      "c": "szeregową, asynchroniczną, dupleksową (full duplex)\r",
+      "d": "szeregową, synchroniczną, półdupkleksową (half duplex)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "7. Standard transmisji RS232C stworzono z myślą o:\r",
+      "a": "szeregowej transmisji danych pomiędzy poszczególnymi układami scalonymi tego samego układu mikroprocesorowego (mikrokomputera)\r",
+      "b": "szeregowej transmisji danych pomiędzy różnymi urządzeniami (np. mikrokomputerami)\r",
+      "c": "równoległej transmisji danych pomiędzy poszczególnymi układami scalonymi tego samego układu mikroprocesorowego (mikrokomputera)\r",
+      "d": "równoległej transmisji danych pomiędzy różnymi urządzeniami (np. mikrokomputerami)\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8. Układ UART zapewnia transmisję:\r",
+      "a": "szeregową, synchroniczną, dupleksową (full duplex)\r",
+      "b": "szeregową, asynchroniczną, półdupkleksową (half duplex)\r",
+      "c": "szeregową, asynchroniczną, dupleksową (full duplex)\r",
+      "d": "szeregową, synchroniczną, półdupkleksową (half duplex)\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9. Wskaźnik stosu (Stack Pointer) w mikroprocesorze jest to:\r",
+      "a": "rejestr przechowujący adres wierzchołka stosu\r",
+      "b": "rejestr przechowujący cały stos\r",
+      "c": "rejestr przechowujący rozmiar stosu (w bajtach)\r",
+      "d": "rejestr przechowujący wartość ostatnio złożoną na stos\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "0. Elementami pamiętającymi w statycznej pamięci RAM są:\r",
+      "a": "pojemności\r",
+      "b": "bramki logiczne\r",
+      "c": "tranzystory\r",
+      "d": "przerzutniki\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "1. Stos jest obsługiwany zgodnie z regułą:\r",
+      "a": "FIFO\r",
+      "b": "LIFO\r",
+      "c": "sposób obsługi zależy od tego, czy stos jest układany w górę (w stronę narastających adresów), czy w dół\r",
+      "d": "wybór reguły obsługi zależy od typu procesora\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "2. Adresowanie pamięci i układów wejścia/wyjścia jest:\r",
+      "a": "rozdzielne (odrębne przestrzenie adresowe pamięci i układów we/wy)\r",
+      "b": "jednolite (wspólna przestrzeń adresowa pamięci i układów we/wy)\r",
+      "c": "zależne od typu procesora\r",
+      "d": "określane na etapie projektowania konkretnego systemu mikroprocesorowego\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "3. Bit parzystości słowa stanu pozwala określić:\r",
+      "a": "czy liczba zapisana w akumulatorze jest parzysta\r",
+      "b": "czy liczba jedynek w zapisie binarnym słowa zapisanego w akumulatorze jest parzysta\r",
+      "c": "czy wynik ostatnio wykonywanej przez ALU operacji jest parzysty\r",
+      "d": "czy liczba jedynek w zapisie binarnym wyniku operacji ostatnio wykonywanej przez ALU jest parzysta\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "4. Uzupełnieniem do 1 n-bitowej liczby całkowitej L nazywa się liczbę:\r",
+      "a": "2^n– L\r",
+      "b": "2^n– 1 – L\r",
+      "c": "n^2– L\r",
+      "d": "2^n+ 1 – L\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "5. W n-bitowym kodzie binarnym znak – uzupełnienie do 2 (ZU2), w celu wyznaczenia liczby przeciwnej do liczby całkowitej L należy\r",
+      "a": "zmienić wszystkie bity liczby L na przeciwne i następnie dodać 1\r",
+      "b": "zmienić wszystkie bity liczby L na przeciwne\r",
+      "c": "dodać 1 do liczby L i następnie zmienić wszystkie bity na przeciwne\r",
+      "d": "zmienić wszystkie bity liczby L i następnie odjąć 2\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "6. W 8-bitowym kodzie binarnym znak-moduł (ZM), liczba dziesiętna –15 ma postać:\r",
+      "a": "11110000\r",
+      "b": "00001111\r",
+      "c": "1000 1111\r",
+      "d": "1111 1110\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "7. W algebrze Boole'a fałszywa jest nastepująca tożsamość:\r",
+      "a": "a+(b*c)=(a+b)*(a+c)\r",
+      "b": "a+a=a\r",
+      "c": "a+a*b=a\r",
+      "d": "(a+b)'=a'+b'\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8. Wyrażenie boolowskie (a+b)*(a+b') jest tożsame z wyrażeniem\r",
+      "a": "a+b\r",
+      "b": "a'\r",
+      "c": "\r",
+      "d": "\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9. Wyrażenie boolowskie a+(b*c) jest tożsame z wyrażeniem\r",
+      "a": "(a+b)*(a+c)\r",
+      "b": "1\r",
+      "c": "a\r",
+      "d": "żaden z powyższych\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "0. Wyrażenie boolowskie 1 (plus w kolku)a jest tożsame z wyrażeniem\r",
+      "a": "a*a'\r",
+      "b": "a'+a\r",
+      "c": "a'\r",
+      "d": "1+a\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "1. Wyrażenie boolowskie a+b*c jest tożsame z wyrażeniem\r",
+      "a": "(a*b+c)'\r",
+      "b": "a'+(b*c)'\r",
+      "c": "a'*b'+c'\r",
+      "d": "(a'*(b*c)')'\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "2. Pamięć typu Flash jest pamięcią typu:\r",
+      "a": "RAM\r",
+      "b": "PROM\r",
+      "c": "EPROM\r",
+      "d": "EEPROM\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "3. Pamięć typu SRAM jest:\r",
+      "a": "statyczną pamięcią o dostępie swobodnym\r",
+      "b": "dynamiczną pamięcią o dostępie swobodnym\r",
+      "c": "pamięcią statyczną o dostępie LIFO\r",
+      "d": "pamięcią statyczną o dostępie FIFO\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "4. Układem peryferyjnym mikrokontrolera nie jest:\r",
+      "a": "czasomierz\r",
+      "b": "przetwornik analogowo-cyfrowy\r",
+      "c": "pamięć programu\r",
+      "d": "modulator PWM\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "5. System przerwań mikroprocesora pozwala na:\r",
+      "a": "sterowanie pracą jednostki arytmetyczno–logicznej (ALU) mikroprocesora\r",
+      "b": "wykonanie określonego kodu programu w wyniku wystąpienia zdarzenia zewnętrznego niezależnie (asynchronicznie) względem aktualnie wykonywanego programu\r",
+      "c": "wykonanie określonego kodu programu w wyniku wystąpienia zdarzenia zewnętrznego w ściśle określonych miejscach aktualnie wykonywanego programu\r",
+      "d": "adresowanie pamięci danych\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "6. Rejestr maski przerwań mikroprocesora służy do:\r",
+      "a": "ustawiania priorytetów przerwań\r",
+      "b": "ustawiania adresu początkowego procedury obsługi danego przerwania\r",
+      "c": "zezwalania (zabraniania) zgłaszania przerwań z określonych źródeł\r",
+      "d": "programowego zgłaszania przerwania\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "7. Program ładujący (bootloader) odpowiada za:\r",
+      "a": "przygotowanie tablicy wektorów przerwań\r",
+      "b": "wczytywanie danych z zewnętrznego urządzenia z pominięciem procesora\r",
+      "c": "ładowanie danych do interfejsów zewnętrznych\r",
+      "d": "ładowanie programu do pamięci po restarcie mikrokontrolera\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8. W adresowaniu bezpośrednim\r",
+      "a": "dana jest pobierana z komórki pamięci o adresie podanym w kodzie instrukcji\r",
+      "b": "dana jest podawana bezpośrednio w kodzie instrukcji\r",
+      "c": "dana jest pobierana z komórki pamięci o adresie zapisanym w rejestrze podanym w kodzie instrukcji\r",
+      "d": "dana jest pobierana z komórki pamięci o adresie zapisanym w innej komórce pamięci\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "9. W adresowaniu natychmiastowym:\r",
+      "a": "dana jest pobierana z komórki pamięci o adresie podanym w kodzie instrukcji\r",
+      "b": "dana jest podawana bezpośrednio w kodzie instrukcji\r",
+      "c": "dana jest pobierana z komórki pamięci o adresie zapisanym w rejestrze podanym w kodzie instrukcji\r",
+      "d": "dana jest pobierana z komórki pamięci o adresie zapisanym w innej komórce pamięci\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "0. W adresowaniu pośrednim:\r",
+      "a": "dana jest pobierana z komórki pamięci o adresie podanym w kodzie instrukcji\r",
+      "b": "dana jest podawana bezpośrednio w kodzie instrukcji\r",
+      "c": "dana jest pobierana z komórki pamięci o adresie zapisanym w rejestrze podanym w kodzie instrukcji\r",
+      "d": "dana jest pobierana z komórki pamięci o adresie zapisanym w innej komórce pamięci\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "1. Tryb porównania (compare) układu czasowo-licznikowego służy do:\r",
+      "a": "generacji impulsów o programowanym czasie trwania\r",
+      "b": "zliczania czasu trwania impulsu wejściowego\r",
+      "c": "taktowania jednostki arytmetycznej mikrokontrolera\r",
+      "d": "zliczania impulsów wejściowych\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "2. Tryb przechwytywania (capture) układu czasowo-licznikowego służy do:\r",
+      "a": "generacji impulsów o programowanym czasie trwania\r",
+      "b": "zliczania czasu trwania impulsu wejściowego\r",
+      "c": "taktowania jednostki arytmetycznej mikrokontrolera\r",
+      "d": "zliczania impulsów wejściowych\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "3. Jednocześnie zostały zgłoszone przerwania: niemaskowalne (NMI) oraz INT2 (włączone). Zostaną obsłużone w kolejności:\r",
+      "a": "tylko NMI\r",
+      "b": "tylko INT2\r",
+      "c": "najpierw NMI, później INT2\r",
+      "d": "najpierw INT2, później NMI\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "4. Wynik mnożenia dwóch N-bitowych liczb całkowitych można umieścić bez utraty informacji (dokładności) w rejestrze o długości:\r",
+      "a": "2N-1\r",
+      "b": "2N\r",
+      "c": "2N+1\r",
+      "d": "2^N\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "5. Pełny wynik dzielenia (iloraz i reszta) dwóch N-bitowych liczb całkowitych można umieścić bez utraty informacji (dokładności) w rejestrze o długości:\r",
+      "a": "4N\r",
+      "b": "2N\r",
+      "c": "2N+1\r",
+      "d": "2^N\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "6. Bufory trójstanowe w układach mikroprocesorowych stosuje się:\r",
+      "a": "aby połączyć kilka urządzeń na wspólnej magistrali danych\r",
+      "b": "w celu połączenia elementów cyfrowych o różnych standardach napięciowych\r",
+      "c": "aby umożliwić rozróżnienie źródeł przerwań\r",
+      "d": "w celu zwiększenia wydolności prądowej przyłączanego urządzenia\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "7. Jeżeli w przerzutniku typu D, wyjście zanegowane (/Q) jest połączone bezpośrednio z wejściem D, to:\r",
+      "a": "otrzymamy licznik modulo 2\r",
+      "b": "otrzymamy licznik modulo 3\r",
+      "c": "wyjście Q będzie zawsze w stanie wysokim (1), niezależnie od zmian sygnału na wejściu zegarowym\r",
+      "d": "wyjście Q będzie zawsze w stanie niskim (0), niezależnie od zmian sygnału na wejściu zegarowym\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8. Jeżeli w przerzutniku typu JK, wejścia J i K są zawsze w stanie wysokim (1), to:\r",
+      "a": "wyjście Q będzie zawsze w stanie 1, niezależnie od zmian sygnału na wejściu zegarowym\r",
+      "b": "wyjście Q będzie zawsze w stanie 0, niezależnie od zmian sygnału na wejściu zegarowym\r",
+      "c": "otrzymamy licznik modulo 2\r",
+      "d": "otrzymamy licznik modulo 3\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9. W celu zbudowania licznika modulo 100 zliczającego w naturalnym kodzie binarnym potrzeba:\r",
+      "a": "co najmniej 2 przerzutników\r",
+      "b": "co najmniej 3 przerzutników\r",
+      "c": "co najmniej 5 przerzutników\r",
+      "d": "co najmniej 7 przerzutników\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "0. Zapis w języku C : a += wyrażenia oznacza:\r",
+      "a": "a = wyrażenie + wyrażenie\r",
+      "b": "a = 0 + wyrażenie\r",
+      "c": "a = 1 + wyrażenie\r",
+      "d": "a = a + wyrażenie\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "71. Zakładając, że a jest typu int, a fun – zadeklarowaną funkcją pobierającą jeden argument typu int, dany jest fragment kodu: while( (a == 0) && (a != 0) ) {fun( a );} W powyższym przykładzie funkcja fun zostanie:\r",
+      "a": "zostanie wywołana 1 raz\r",
+      "b": "zostanie wywołana w zależności od wartości zmiennej a\r",
+      "c": "nie zostanie wywołana ani razu\r",
+      "d": "zostanie wywołana nieskończenie wiele razy\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "2. Zakładając, że a jest typu int, fun – funkcją nie pobierającą argumentu i nie zmieniającą wartości zmiennej a, dany jest fragment kodu: do {fun( );a++} while( (a > 0) && (a < 10 ) W powyższym przykładzie funkcja fun zostanie:\r",
+      "a": "zostanie wywołana 1 raz niezależnie od wartości początkowej zmiennej a\r",
+      "b": "zostanie wywołana co najmniej 1 raz, a liczba wywołań zależy od wartości początkowej zmiennej a\r",
+      "c": "nie zostanie wywołana ani razu\r",
+      "d": "zostanie wywołana nieskończenie wiele razy\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "3. W języku C instrukcjami pozwalającymi na budowę rozgałęzień w programie są:\r",
+      "a": "if-then, for\r",
+      "b": "if-then-else, while\r",
+      "c": "if-then, switch\r",
+      "d": "switch, do-while\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "4. Interfejs typu JTAG:\r",
+      "a": "jest interfejsem cyfrowym do komunikacji mikrokontrolera z układami peryferyjnymi\r",
+      "b": "występuje jedynie w cyfrowych układach programowalnych PLD i FPGA\r",
+      "c": "jest przeznaczony do: ładowania, uruchamiania, debugowania programu procesora działającego w docelowym systemie\r",
+      "d": "służy do debugowania programu blokując cześć zasobów procesora\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "5. Proces bootowania systemu:\r",
+      "a": "jest procesem składowania krytycznych danych podczas awaryjnego wyłączenia systemu mikroprocesorowego\r",
+      "b": "polega na ładowaniu z nośnika (często z pamięci) nieulotnego, programu do pamięci operacyjnej i rozpoczęcie jego działania\r",
+      "c": "jest tożsamy z procesem restartu procesora\r",
+      "d": "polega na przepisaniu danych z pamięci nielotnej do pamięci o dostępie swobodnym podczas startu procesora\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "6. 4-bitowy (bity B3-B0) kod binarny U2 można zapisać jako:\r",
+      "a": "8*B3+4*B2+2*B1+1*B0\r",
+      "b": "-8*B3+4*B2+2*B1+1*B0\r",
+      "c": "-1*B3 * (4*B2+2*B1+1*B0)\r",
+      "d": "-8*B3-4*B2-2*B1-1*B0\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "7. Naturalny pozycyjny kod liczbowy o podstawie p to kod, w którym:\r",
+      "a": "waga n-tej pozycji wn spełnia zależność wn=p^n\r",
+      "b": "waga n-tej pozycji wn spełnia zależność wn = p^2\r",
+      "c": "poszczególne pozycje nie mają przypisanych stałych wag\r",
+      "d": "waga n-tej pozycji ma wartość stała nieokreśloną zależnością algebraiczną\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8 Refleksyjny kod liczbowy to:\r",
+      "a": "naturalny kod pozycyjne o podstawie 16\r",
+      "b": "inna nazwa kodu Johnsona\r",
+      "c": "kod niepozycyjny, w którym dwie sąsiednie liczby różnią się wartością jednej cyfry o ± 1\r",
+      "d": "kod pozycyjny, w którym dwie sąsiednie liczby różnią się wartością jednej cyfry o ± 1\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "9. Kod Gray’a to:\r",
+      "a": "inna nazwa kodu 1 z n\r",
+      "b": "kod pozycyjny o wagach 2-4-2-1\r",
+      "c": "naturalny kod pozycyjny o podstawie 8\r",
+      "d": "binarny kod refleksyjny\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "2. W układach kombinacyjnych hazard statyczny zera pojawia się, gdy:\r",
+      "a": "na wyjściu układu występuje chwilowa zmiana 0–1–0, podczas gdy wyjście nie powinno ulec zmianie\r",
+      "b": "na wyjściu układu występuje chwilowa zmiana 1–0–1, podczas gdy wyjście nie powinno ulec zmianie\r",
+      "c": "na wyjściu układu występuje sygnał 0, podczas gdy powinien 1\r",
+      "d": "na wyjściu układu występuje sygnał 1, podczas gdy powinien 0\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "3. Hazard dynamiczny w układach kombinacyjnych może wystąpić gdy:\r",
+      "a": "sygnał wejściowy jest przesyłany do wyjścia trzema lub więcej drogami o różnych opóźnieniach,\r",
+      "b": "sygnał wejściowy jest przesyłany do wyjścia dwoma o różnych opóźnieniach\r",
+      "c": "sygnał wejściowy jest przesyłany do wyjścia jedną drogą\r",
+      "d": "w układzie są wykorzystane bramki Ex–OR\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "1. W liczniku synchronicznym:\r",
+      "a": "wejścia zegarowe kolejnych przerzutników są połączone w wyjściami przerzutników poprzedzających je\r",
+      "b": "wejście(a) programujące przerzutników są połączone z wejściem zegarowym\r",
+      "c": "wyjście każdego przerzutnika jest połączone z jego wejściem zegarowym\r",
+      "d": "wejścia zegarowe poszczególnych przerzutników są połączone równolegle\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "4. W liczniku asynchronicznym:\r",
+      "a": "wejście(a) programujące przerzutników są połączone z wejściem zegarowym,\r",
+      "b": "wyjście każdego przerzutnika jest połączone z jego wejściem zegarowym\r",
+      "c": "wejścia zegarowe kolejnych przerzutników kolejnych stopni licznika są połączone w wyjściami przerzutników poprzedzających je\r",
+      "d": "wejścia zegarowe poszczególnych przerzutników są połączone równolegle\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "5. Zapis liczby 25 5/16 w kodzie uzupełnień do 2 (U2), w formacie 2-bajtowym, gdy starszy bajt reprezentuje część całkowitą, a młodszy – część ułamkową, wynosi:\r",
+      "a": "00011001 01010000\r",
+      "b": "00011001 00000101\r",
+      "c": "00000101 00011001\r",
+      "d": "11111101 01100000\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "6. Aby zrealizować dowolną funkcję logiczną korzystając z bramek logicznych wystarczy mieć do dyspozycji odpowiednią ilość:\r",
+      "a": "bramek AND\r",
+      "b": "bramek OR i Ex-OR\r",
+      "c": "bramek OR i AND\r",
+      "d": "bramek NOR\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "7. Dana jest 8-bitowa liczba w naturalnym kodzie binarnym: 0110 1001. Liczba ta w kodzie Graya ma postać:\r",
+      "a": "1110 1001\r",
+      "b": "0101 1101\r",
+      "c": "0110 1010\r",
+      "d": "1001 1110\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8. Dana jest 8-bitowa liczba w kodzie Graya: 0110 1001. Liczba ta w naturalnym kodzie binarnym ma postać:\r",
+      "a": "1110 1001\r",
+      "b": "1001 0110\r",
+      "c": "0110 1010\r",
+      "d": "0100 1110\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "9. Dany jest 8- bitowy procesor, w którym dostępne są flagi statusu: C – przeniesienia (Carry), V –przepełnienia (Overflow), Z – zero i N – minus (Negative). Po wykonaniu operacji dodawania bez przeniesienia (ADD) dwóch liczb: 1000 0000 i 1100 0000 stan flag jest następujący:\r",
+      "a": "C=1, V = 0, Z = 1, N = 0\r",
+      "b": "C=0, V = 1, Z = 1, N = 1\r",
+      "c": "C=1, V = 1, Z = 1, N = 0\r",
+      "d": "C=1, V = 1, Z = 0, N = 0\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "0. Dany jest 8- bitowy procesor, w którym dostępne są flagi statusu: C – przeniesienia (Carry), V – przepełnienia (Overflow), Z – zero i N – minus (Negative). Po wykonaniu operacji dodawania bez przeniesienia (ADD) dwóch liczb: 0100 0000 i 1100 0000 stan flag jest następujący:\r",
+      "a": "C= 1, V = 1, Z = 1, N = 0\r",
+      "b": "C= 0, V = 1, Z = 1, N = 1\r",
+      "c": "C= 1, V = 0, Z = 1, N = 0\r",
+      "d": "C= 1, V = 1, Z = 0, N = 0\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "1. Jaki maksymalny czas można zmierzyć za pomocą mikrokontrolera wykorzystując układ czasowolicznikowy z licznikiem 16-bitowym bez programowej obsługi przepełnienia, jeżeli na wejście zegarowe licznika jest podany sygnał o częstotliwości 500 kHz. Wynik zaokrąglić do pełnych milisekund.\r",
+      "a": "500 ms\r",
+      "b": "131 ms\r",
+      "c": "65 ms\r",
+      "d": "1311 ms",
+      "correct": "b"
+   }
+]

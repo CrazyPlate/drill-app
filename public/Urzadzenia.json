@@ -1,0 +1,370 @@
+[
+   {
+      "pytanie": "8.1. Aparaty elektroenergetyczne są urządzeniami elektrycznymi, które: \r",
+      "a": "służą do wytwarzania i przetwarzania energii elektrycznej \r",
+      "b": "służą wyłącznie do przetwarzania energii elektrycznej \r",
+      "c": "nie służą do wytwarzania i przetwarzania energii elektrycznej \r",
+      "d": "nie służą do dokonywania czynności łączeniowych i pomiarowych \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.2. Obudowa urządzenia elektrycznego o kodzie IP23 w porównaniu z obudową o kodzie IP54: \r",
+      "a": "zapewnia lepszą ochronę przed obcymi ciałami stałymi i przed dostępem do części niebezpiecznych \r",
+      "b": "zapewnia gorszą ochronę przed obcymi ciałami stałymi, ale lepszą ochronę przed wodą \r",
+      "c": "zapewnia gorszą ochronę przed dostępem do części niebezpiecznych i przed wodą \r",
+      "d": "zapewnia lepszą ochronę przed wnikaniem wilgoci i dostępem do części niebezpiecznych \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.3. Przepięcia atmosferyczne muszą być uwzględniane przy doborze wysokonapięciowych urządzeń elektrycznych o: \r",
+      "a": "każdym napięciu znamionowym\r",
+      "b": "napięciu znamionowym nie większym niż 220 kV \r",
+      "c": "napięciu znamionowym większym niż 220 kV \r",
+      "d": "napięciu znamionowy wyłącznie z zakresu SN oraz WN \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.4. Przepięcia łączeniowe muszą być uwzględniane przy doborze urządzeń elektrycznych o: \r",
+      "a": "każdym napięciu znamionowym \r",
+      "b": "napięciu znamionowym nie większym niż 220 kV \r",
+      "c": "napięciu znamionowym większym niż 220 kV \r",
+      "d": "napięciu znamionowym do 1 kV \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.5. Podstawową wielkością zwarciową w obliczeniach zwarciowych jest prąd początkowy, tzn: \r",
+      "a": "wartość skuteczna składowej okresowej prądu zwarciowego w chwili powstania zwarcia \r",
+      "b": "wartość skuteczna ustalonej składowej okresowej prądu zwarciowego \r",
+      "c": "wartość skuteczna prądu zwarciowego w chwili powstania zwarcia \r",
+      "d": "wartość chwilowa prądu zwarciowego w chwili rozchodzenia się styków łącznika \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.6. Wartość prądu zwarciowego udarowego jest: \r",
+      "a": "tym większa im większy jest stosunek R/X obwodu zwarciowego \r",
+      "b": "tym większa im mniejszy jest stosunek R/X obwodu zwarciowego \r",
+      "c": "nie zależy od stosunku R/X obwodu zwarciowego \r",
+      "d": "zależy wyłącznie od mocy zwarciowej systemu elektroenergetycznego zasilającego zwarcie \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.7. W obliczeniach zwarciowych silniki synchroniczne: \r",
+      "a": "uwzględnia się tak samo jak generatory synchroniczne \r",
+      "b": "uwzględnia się odmiennie niż generatory synchroniczne \r",
+      "c": "uwzględnia się tak samo jak silniki asynchroniczne \r",
+      "d": "nie są uwzględniane ponieważ nie wpływają znacząco na prąd zwarciowy ustalony \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.8. W obliczeniach zwarciowych silniki asynchroniczne: \r",
+      "a": "uwzględnia się, podobnie jak generatory synchroniczne \r",
+      "b": "uwzględnia się tak samo jak generatory synchroniczne \r",
+      "c": "są pomijane \r",
+      "d": "zwiększają prąd zwarciowy ustalony \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.9. Straty mocy Joule’a w torach prądowych aparatów elektroenergetycznych są: \r",
+      "a": "wprost proporcjonalne do wartości skutecznej prądu \r",
+      "b": "proporcjonalne do kwadratu wartości skutecznej prądu \r",
+      "c": "proporcjonalne do wartości skutecznej prądu w potędze >2 \r",
+      "d": "są pomijalnie małe przy analizie stanów ustalonych \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.10. Straty dielektryczne w bilansie cieplnym aparatów elektrycznych: \r",
+      "a": "nie odgrywają zasadniczej roli i są na ogół pomijane \r",
+      "b": "odgrywają zasadniczą rolę i są zawsze uwzględniane \r",
+      "c": "mogą odgrywać istotną rolę i są na ogół uwzględniane \r",
+      "d": "są istotne w urządzeniach o niskim napięciu znamionowym \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.11. Ilość ciepła oddawana z aparatu do otoczenia na drodze promieniowania jest: \r",
+      "a": "jest stała niezależnie do różnicy temperatur ciała promieniującego i pochłaniającego \r",
+      "b": "proporcjonalna do różnicy temperatur ciała promieniującego i pochłaniającego \r",
+      "c": "proporcjonalna do różnicy kwadratów temperatury ciała promieniującego i pochłaniającego \r",
+      "d": "proporcjonalna do różnicy czwartych potęg temperatury ciała promieniującego i pochłaniającego \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.12. Jeżeli Q jest ciepłem wytworzonym w torze prądowym, Q1 ciepłem oddawanym do otoczenia, a Q2 ciepłem akumulowanym w torze, to bilans cieplny tego toru ma postać: \r",
+      "a": "Q = Q1 + Q2 \r",
+      "b": "Q + Q2 = Q1 \r",
+      "c": "Q = Q1 – Q2 \r",
+      "d": "Q + Q1 = Q2 \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.13. Dla materiałów przewodowych zmniejszenie wytrzymałości mechanicznej ze wzrostem temperatury jest: \r",
+      "a": "mniejsze przy nagrzewaniu długotrwałym (np. prądem roboczym) niż przy nagrzewaniu krótkotrwałym (np. prądem zwarciowym) \r",
+      "b": "mniejsze przy nagrzewaniu krótkotrwałym (np. prądem zwarciowym) niż przy nagrzewaniu długotrwałym (np. prądem roboczym) \r",
+      "c": "nie zależy od czasu nagrzewania \r",
+      "d": "większe przy obciążeniu dorywczym niż przy obciążeniu ciągłym \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.14. Siły działające na tory prądowe przy oddziaływaniach elektrodynamicznych są: \r",
+      "a": "nie zależą od odległości między torami prądowymi \r",
+      "b": "wprost proporcjonalne do wartości prądów płynących w torach \r",
+      "c": "proporcjonalne do kwadratu wartości prądów płynących w torach \r",
+      "d": "proporcjonalne do wartości prądów płynących w torach w potędze >2 \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.15. Przy doborze aparatów i urządzeń ze względu na oddziaływanie elektrodynamiczne prądów zwarciowych istotna jest znajomość prądu: \r",
+      "a": "początkowego \r",
+      "b": "ustalonego \r",
+      "c": "udarowego \r",
+      "d": "aperiodycznego \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.16. Określenie zestyk zespołowy oznacza: \r",
+      "a": "zestyk złożony z zestyku podstawowego i zestyku opalnego \r",
+      "b": "zestyk wykonany z zestyku podstawowego i odpowiednich nakładek stykowych \r",
+      "c": "zestyk wykonany z więcej niż jednego materiału stykowego \r",
+      "d": "zestyk pracujący niezależnie od układu napędowego \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.17. Zestyki niełączeniowe nieruchome należy wykonywać jako zestyki: \r",
+      "a": "punktowe \r",
+      "b": "zespołowe \r",
+      "c": "liniowe \r",
+      "d": "powierzchniowe \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.18. Nagrzewanie zestyków łączeniowych prądem zwarciowym może prowadzić do ich zespawania. Największą wartość prądu jaką może załączyć wyłącznik bez trwałego sczepienia zestyku określa jego: \r",
+      "a": "znamionowy prąd cieplny n-sekundowy \r",
+      "b": "znamionowy prąd wyłączalny \r",
+      "c": "znamionowy prąd ustalony \r",
+      "d": "znamionowy prąd załączalny \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.19. W zestykach komór gaszeniowych wyłączników próżniowych zastosowanie znajdują styki wykonane z: \r",
+      "a": "miedzi \r",
+      "b": "srebra \r",
+      "c": "miedzi posrebrzonej \r",
+      "d": "specjalnych kompozycji ze względu na tzw. prąd ucięcia \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.20. Powstający przy rozdzielaniu styków wyłącznika łuk elektryczny jest zjawiskiem: \r",
+      "a": "niekorzystnym ze względu na bardzo wysoką temperaturę i przedłużenie czasu wyłączania zwarcia o tzw. czas łukowy \r",
+      "b": "niegroźnym, ponieważ temperatura łuku jest niższa niż temperatura topnienia materiału, z którego wykonane są styki \r",
+      "c": "zdecydowanie niekorzystnym ze względu na bardzo wysoką temperaturę, ale dzięki niemu obwód płynnie przechodzi z jednego stanu energetycznego w drugi, dzięki czemu przepięcia ulegają ograniczeniu \r",
+      "d": "niekorzystnym ze względu na możliwość powstania znacznych przepięć w chwili jego zgaśnięcia \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.21. Uporządkuj mechanizmy odbioru ciepła z kolumny łuku łączeniowego ze względu na znaczenie w chłodzeniu łuku: \r",
+      "a": "przewodzenie, promieniowanie, konwekcja \r",
+      "b": "konwekcja, przewodzenie, promieniowanie \r",
+      "c": "promieniowanie, konwekcja, przewodzenie \r",
+      "d": "promieniowanie, przewodzenie, konwekcja \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.22. Skuteczność chłodzenia łuku łączeniowego, jest tym większa im: \r",
+      "a": "większy jest odbiór mocy z jego kolumny \r",
+      "b": "większa jest stała czasowa łuku \r",
+      "c": "większy jest prąd wyłączeniowy \r",
+      "d": "napięcie kolumny łukowej jest mniejsze \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.23. Po zgaśnięciu łuku elektrycznego wytrzymałość elektryczna przerwy międzystykowej: \r",
+      "a": "musi wzrastać stosunkowo wolno ze względu na możliwość powstania znacznych przepięć \r",
+      "b": "nie zależy od zastosowanego medium gaszącego \r",
+      "c": "musi wzrastać bardzo szybko ze względu na napięcie powrotne i możliwość przebicia przerwy międzystykowej \r",
+      "d": "nie odgrywa zasadniczego znaczenia \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.24. Wyłącznik charakteryzuje się m.in. następującymi własnościami: \r",
+      "a": "jest zdolny do załączania i wyłączania prądów przekraczających 10-krotną wartość znamionowego prądu ciągłego \r",
+      "b": "jest zdolny do wyłączania i załączania prądów nieprzekraczających 10-krotnej wartości prądu ciągłego \r",
+      "c": "jest zdolny tylko do załączania prądów przekraczających 10-krotną wartość znamionowego prądu ciągłego \r",
+      "d": "jest zdolny tylko do wyłączania prądów przekraczających 10-krotną wartość znamionowego prądu ciągłego \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.25. Wyłączniki małoolejowe: \r",
+      "a": "charakteryzują się dużym niebezpieczeństwem wybuchu i pożaru \r",
+      "b": "wymagają stałej kontroli oleju i nie nadają się do obwodów o dużej częstości łączeń \r",
+      "c": "podczas wyłączania obwodów indukcyjnych generują znaczne przepięcia \r",
+      "d": "są wycofywane z użytku, ze względu na wolną odbudowę wytrzymałości elektrycznej w przerwie międzystykowej po zgaszeniu łuku elektrycznego \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.26. Charakterystyczną cechą wyłączników pneumatycznych jest: \r",
+      "a": "konieczność łagodzenia szybkości narastania napięcia powrotnego \r",
+      "b": "szeregowe łączenie komór gaszeniowych w biegunach wyłącznika \r",
+      "c": "konieczność stosowania napędów pośrednich zasobnikowych \r",
+      "d": "możliwość wystąpienia odskoków sprężystych generujących groźne przepięcia łączeniowe \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.27. To co decyduje o zastosowaniu SF6 w konstrukcjach wyłączników, to \r",
+      "a": "trwałość chemiczna w wysokich temperaturach łuku elektrycznego \r",
+      "b": "duża wytrzymałość elektryczna \r",
+      "c": "niezmienność właściwości gaszących łuk elektryczny w szerokim zakresie temperatury otoczenia \r",
+      "d": "duża przewodność cieplna i duża wytrzymałość elektryczna \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.28. Wyłączniki próżniowe: \r",
+      "a": "charakteryzują się najniższą ceną z powodu braku gasiwa w komorach \r",
+      "b": "podczas wyłączania obwodów indukcyjnych generują znaczne przepięcia \r",
+      "c": "charakteryzują się skomplikowaną obsługą z powodu konieczności ciągłej kontroli próżni w komorach \r",
+      "d": "są stosowane wyłącznie w obwodach, w których nie występuje konieczność częstegozałączania i włączania \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.29. W wyłącznikach wysokich i najwyższych napięć są stosowane szeregowo połączone komory gaszeniowe. Ma to na celu: \r",
+      "a": "zwiększenie trwałości łączeniowej wyłącznika \r",
+      "b": "zwiększenie zdolności łączeniowej \r",
+      "c": "wydłużenie poszczególnych przerw międzystykowych \r",
+      "d": "zwiększenie wytrzymałości elektrycznej przerwy międzystykowej \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.30. Spośród wyłączników największą/najmniejszą trwałością łączeniową charakteryzują się wyłączniki: \r",
+      "a": "próżniowe/małoolejowe \r",
+      "b": "próżniowe/magnetowydmuchowe/małoolejowe \r",
+      "c": "SF6\r",
+      "d": "pneumatyczne/SF\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.31. Gaszenie łuku w komorze magnetowydmuchowej odbywa się przez: \r",
+      "a": "wprowadzenie łuku pod wpływem zewnętrznego pola magnetycznego do metalowej komory płytkowej \r",
+      "b": "wydłużenie łuku \r",
+      "c": "wprowadzenie łuku w ruch wirowy, co poprawia warunki jego chładzenia \r",
+      "d": "wydłużenie łuku i skierowanie do komory wąskoszczelinowej wykonanej z materiału izolacyjnej \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.32. W wyłącznikach napęd służy na ogół do: \r",
+      "a": "zamykania wyłącznika, a w stanie zamknięcia styki utrzymywane są przy pomocy mechanizmu zwanego zamkiem \r",
+      "b": "do otwierania wyłącznika \r",
+      "c": "zdalnego sterowania stykami roboczymi \r",
+      "d": "zarówno do zamykania, jak i otwierania wyłącznika \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.33. Zwyczajowo jako rozłącznik kwalifikuje się łącznik, który: \r",
+      "a": "jest zdolny do wyłączania prądów przekraczających 10-krotną wartość znamionowego prądu ciągłego \r",
+      "b": "jest zdolny do załączania i wyłączania prądów nieprzekraczających 10-krotnej wartości znamionowego prądu ciągłego \r",
+      "c": "jest zdolny do załączania prądów przekraczających 10-krotną wartość znamionowego prądu ciągłego \r",
+      "d": "jest zdolny do załączania i wyłączania obwodu w stanie bezprądowym \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.34. Stycznik jako łącznik, jest kwalifikowany pod względem zdolności łączeniowej do grupy: \r",
+      "a": "odłączników \r",
+      "b": "rozłączników \r",
+      "c": "wyłączników \r",
+      "d": "przełączników \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.35. Odłączniki są stosowane w zakresie napięć: \r",
+      "a": "niskich i średnich \r",
+      "b": "wysokich i najwyższych \r",
+      "c": "średnich i wysokich \r",
+      "d": "wszystkich \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.36. Odgromnik zaworowy zbudowany jest: \r",
+      "a": "z iskiernika wewnętrznego i szeregowo połączonego z nim stosu warystorów \r",
+      "b": "z iskiernika zewnętrznego i szeregowo połączonego z nim stosu warystorów \r",
+      "c": "z iskiernika zewnętrznego i połączonego z nim szeregowo iskiernika wewnętrznego w rurze z materiału gazującego \r",
+      "d": "stosu warystorów zapewniających odpowiednio dużą rezystancję w stanie bezawaryjnym 6 \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.37. W stosunku do odgromników zaworowych beziskiernikowe ograniczniki przepięć charakteryzują się: \r",
+      "a": "większym rozrzutem działania \r",
+      "b": "możliwością generowania przepięć szybkozmiennych, wynikającą z charakterystyki zastosowanych warystorów \r",
+      "c": "zdecydowanie prostszą budową \r",
+      "d": "brakiem możliwości równoległego łączenia w celu zwiększenia obciążalności prądowej \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.38. Charakterystyka udarowa beziskiernikowego ogranicznika przepięć jest w stosunku do charakterystyki odgromnika zaworowego: \r",
+      "a": "zdecydowanie bardziej korzystna \r",
+      "b": "zdecydowanie bardziej niekorzystna \r",
+      "c": "nie różni się istotnie \r",
+      "d": "ogranicznik beziskiernikowy nie posiada takiej charakterystyki \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.39. W normalnych warunkach przekładnik prądowy jest transformatorem pracującym: \r",
+      "a": "w stanie zbliżonym do jałowego \r",
+      "b": "w stanie zbliżonym do obciążenia znamionowego \r",
+      "c": "w stanie zbliżonym do zwarcia \r",
+      "d": "na liniowej części charakterystyki magnesowania rdzenia \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.40. Przekładniki napięciowe indukcyjne: \r",
+      "a": "charakteryzują się najlepszymi własnościami metrologicznymi i są stosowane wyłącznie w zakresie napięć średnich \r",
+      "b": "charakteryzują się gorszymi niż przekładniki pojemnościowe własnościami metrologicznymi i są stosowane wyłącznie w zakresie napięć średnich \r",
+      "c": "z uwagi na niższą cenę, stosowane są częściej niż przekładniki pojemnościowe w zakresie wysokich i najwyższych napięć \r",
+      "d": "charakteryzują się najlepszymi własnościami metrologicznymi i są stosowane w zakresie napięć średnich, wysokich i najwyższych \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8.41. Dławiki zwarciowe: \r",
+      "a": "należą do stosunkowo rzadkich i obecnie niestosowanych środków ograniczania prądów zwarciowych \r",
+      "b": "są powszechnie stosowanym środkiem ograniczania prądów zwarciowych w układach wysokich napięć \r",
+      "c": "są powszechnie stosowanym środkiem ograniczania prądów zwarciowych w układach średnich napięć \r",
+      "d": "są powszechnie stosowanym środkiem ograniczania prądów zwarciowych w układach niskich napięć \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.42. Konieczność stosowania dławików gaszących dotyczy: \r",
+      "a": "sieci średnich napięć \r",
+      "b": "sieci średnich napięć z izolowanym punktem gwiazdowym \r",
+      "c": "sieci średnich napięć z izolowanym punktem gwiazdowym, w której pojemnościowy prąd doziemienia przekracza pewną wartość \r",
+      "d": "sieci średnich napięć na obszarach wiejskich \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "8.43. Stacja elektroenergetyczna jest to zespół urządzeń służących do: \r",
+      "a": "przetwarzania i rozdzielania energii elektrycznej \r",
+      "b": "rozdzielania albo przetwarzania i rozdzielania energii elektrycznej \r",
+      "c": "rozdzielania energii elektrycznej \r",
+      "d": "łączenia dwóch lub więcej systemów elektroenergetycznych o takim samym napięciu znamionowym \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.44. Rozdzielnia elektroenergetyczna jest to zespół urządzeń służących do: \r",
+      "a": "rozdzielania energii elektrycznej, przystosowany do jednego napięcia znamionowego \r",
+      "b": "rozdzielania energii elektrycznej i umożliwiający dokonywanie odpowiednich czynności łączeniowych, przystosowany do jednego napięcia znamionowego \r",
+      "c": "rozdzielania energii elektrycznej, przystosowany do różnych poziomów napięć znamionowych \r",
+      "d": "rozdzielania energii elektrycznej i umożliwiający dokonywanie odpowiednich czynności łączeniowych, przystosowany do różnych poziomów napięć znamionowych \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "8.45. Przez pojęcie rozdzielnica rozumie się: \r",
+      "a": "gotowy fabrycznie wyrób do rozdzielania energii elektrycznej i umożliwiający dokonywanie odpowiednich czynności łączeniowych, przystosowany do jednego napięcia znamionowego oraz wyposażony w konstrukcje osłonowe \r",
+      "b": "gotowy fabrycznie wyrób do rozdzielania i przetwarzania energii elektrycznej, umożliwiający dokonywanie odpowiednich czynności łączeniowych, przystosowany do jednego napięcia znamionowego oraz wyposażony w konstrukcje osłonowe \r",
+      "c": "jest to pojęcie tożsame z pojęciem rozdzielnia \r",
+      "d": "gotowy fabrycznie wyrób do rozdzielania energii elektrycznej i umożliwiający dokonywanie odpowiednich czynności łączeniowych, przystosowany do jednego napięcia znamionowego oraz wyposażony w konstrukcje osłonowe, wraz z budynkiem lub terenem, na którym jest zainstalowany \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "8.46. Rozdzielnia elektroenergetyczna jest to zespół urządzeń służących do: \r",
+      "a": "rozdzielania energii elektrycznej, przystosowany do jednego napięcia znamionowego \r",
+      "b": "rozdzielania energii elektrycznej i umożliwiający dokonywanie odpowiednich czynności łączeniowych, przystosowany do jednego napięcia znamionowego \r",
+      "c": "rozdzielania energii elektrycznej, przystosowany do różnych poziomów napięć znamionowych \r",
+      "d": "rozdzielania energii elektrycznej i umożliwiający dokonywanie odpowiednich czynności łączeniowych, przystosowany do różnych poziomów napięć znamionowych",
+      "correct": "b"
+   }
+]

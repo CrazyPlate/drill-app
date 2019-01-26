@@ -1,0 +1,570 @@
+[
+  {
+    "pytanie": " Elektroenergetyka jest dziedziną elektrotechniki, która zajmuje się zagadnieniami energii elektrycznej w obszarach:\r",
+    "a": "wyłącznie wytwarzania tej energii z nośników pierwotnych, np. węgla kamiennego\r",
+    "b": "tylko przesyłu na duże odległości, rzędu kilkudziesięciu, kilkuset kilometrów\r",
+    "c": "tylko jej przesyłu na duże odległości oraz rozdziału w celu dostarczenia energii elektrycznej odbiorcom końcowym\r",
+    "d": "zarówno wytwarzania tej energii z nośników pierwotnych, jak i jej przesyłu oraz rozdziału w celu dostarczenia energii elektrycznej odbiorcom\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": " Pojęcie system elektroenergetyczny dotyczy:\r",
+    "a": "zbioru obiektów, urządzeń i maszyn służących do wytwarzania i przetwarzania energii elektrycznej\r",
+    "b": "zbioru obiektów, urządzeń i maszyn służących do wytwarzania i przetwarzania energii elektrycznej oraz jej przesyłu, rozdziału w celu realizacji procesu ciągłej dostawy energii do odbiorców\r",
+    "c": "relacji o charakterze technicznym w powiązaniach z innymi systemami gospodarki narodowej, w szczególności z innymi podsystemami systemu energetycznego\r",
+    "d": "relacji zarówno o charakterze technicznym, jak i organizacyjnym oraz eksploatacyjnym w powiązaniach z innymi systemami gospodarki narodowej, w szczególności z innymi podsystemami systemu energetycznego\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": " W odróżnieniu od innych systemów gospodarczych system elektroenergetyczny realizuje swe zadania z wymogiem natychmiastowej dostawy energii elektrycznej na każde żądanie odbiorcy, co oznacza, że:\r",
+    "a": "cała produkcja energii elektrycznej jest natychmiast konsumowana, bez (praktycznej) możliwości jej magazynowania\r",
+    "b": "część produkcja energii elektrycznej jest natychmiast konsumowana, a część nieskonsumowana magazynowana jest w zasobnikach energii elektrycznej instalowanych u odbiorców komunalnych\r",
+    "c": "część produkcja energii elektrycznej jest natychmiast konsumowana, a część nieskonsumowana magazynowana jest w zasobnikach energii elektrycznej instalowanych u odbiorców przemysłowych\r",
+    "d": "część produkcja energii elektrycznej jest natychmiast konsumowana, a część nieskonsumowana magazynowana jest w zasobnikach energii elektrycznej instalowanych w elektrowniach cieplnych\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": " Światowe zasoby podstawowych paliw pierwotnych szacowane są na następujące liczby lat:\r",
+    "a": "węgiel kamienny – ok. 50 lat, węgiel brunatny – ok. 100 lat, ropa naftowa – ok. 60 lat, gaz ziemny – ok. 100 lat\r",
+    "b": "węgiel kamienny – ok. 100 lat, węgiel brunatny – ok. 200 lat, ropa naftowa – ok. 60 lat, gaz ziemny – ok. 80 lat\r",
+    "c": "węgiel kamienny – ok. 200 lat, węgiel brunatny – ok. 300 lat, ropa naftowa – ok. 40 lat, gaz ziemny – ok. 60 lat\r",
+    "d": "węgiel kamienny – ok. 300 lat, węgiel brunatny – ok. 400 lat, ropa naftowa – ok. 50 lat, gaz ziemny – ok. 60 lat\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": " Ilość rocznej produkcji energii elektrycznej w krajach UE wynosi około:\r",
+    "a": "1000÷1100 TWh\r",
+    "b": "3000÷3200 TWh\r",
+    "c": "4500÷4600 TWh\r",
+    "d": "5800÷ 5900 TWh\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Ilość rocznej produkcji energii elektrycznej w Polsce wynosi około:\r",
+    "a": "130÷140 TWh\r",
+    "b": "200÷210 TWh\r",
+    "c": "330÷340 TWh\r",
+    "d": "420÷430 TWh\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": " Moc zainstalowna w Krajowym Systemie Elektroenergetycznym (suma mocy czynnych znamionowych wszystkich generatorów zainstalowanych w elektrowniach) wynosi około:\r",
+    "a": "15 GW\r",
+    "b": "25 GW\r",
+    "c": "35 GW\r",
+    "d": "45 GW\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": " Moc szczytowa w Krajowym Systemie Elektroenergetycznym (największa moc chwilowa pobierana przez odbiorniki energii elektrycznej w ciągu roku) wynosi około:\r",
+    "a": "15 GW\r",
+    "b": "25 GW\r",
+    "c": "35 GW\r",
+    "d": "45 GW\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": " Udział elektrowni węglowych w produkcji energii elektrycznej w Polsce wynosi około:\r",
+    "a": "60%\r",
+    "b": "70%\r",
+    "c": "80%\r",
+    "d": "90%\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". Zadaniem sieci elektroenergetycznych najwyższych napięć 220 kV i 400 kV jest:\r",
+    "a": "przesyłanie energii na duże odległości\r",
+    "b": "wstępny rozdział energii\r",
+    "c": "rozdział energii w sieciach dystrybucyjnych\r",
+    "d": "dostarczanie energii ze stacji średniego napięcia do odbiorców\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Zadaniem sieci elektroenergetycznych wysokich napięć 110 kV jest:\r",
+    "a": "przesyłanie energii na duże odległości\r",
+    "b": "wstępny rozdział energii\r",
+    "c": "rozdział energii w sieciach dystrybucyjnych\r",
+    "d": "dostarczanie energii ze stacji średniego napięcia do odbiorców\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Zadaniem sieci elektroenergetycznych średnich napięć 6-30 kV jest:\r",
+    "a": "przesyłanie energii na duże odległości\r",
+    "b": "wstępny rozdział energii\r",
+    "c": "rozdział energii w sieciach dystrybucyjnych\r",
+    "d": "dostarczanie energii ze stacji średniego napięcia do odbiorców\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Zadaniem sieci elektroenergetycznych niskich napięć 0, 4 kV jest:\r",
+    "a": "przesyłanie energii na duże odległości\r",
+    "b": "wstępny rozdział energii\r",
+    "c": "rozdział energii w sieciach dystrybucyjnych\r",
+    "d": "dostarczanie energii ze stacji średniego napięcia do odbiorców\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". Łączna długość linii elektroenergetycznych wysokich i najwyższych napięć (110-750 kV) w Polsce wynosi około:\r",
+    "a": "15 000 km\r",
+    "b": "30 000 km\r",
+    "c": "45 000 km\r",
+    "d": "60 000 km\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Łączna długość linii elektroenergetycznych średnich napięć (6-30 kV) w Polsce wynosi około:\r",
+    "a": "150 000 km\r",
+    "b": "300 000 km\r",
+    "c": "450 000 km\r",
+    "d": "600 000 km\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ".  Łączna długość linii elektroenergetycznych niskich napięć (0,4 kV) w Polsce wynosi około:\r",
+    "a": "130 000 km\r",
+    "b": "310 000 km\r",
+    "c": "470 000 km\r",
+    "d": "670 000 km\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Łączna długość linii elektroenergetycznych (0,4-750 kV) w Polsce wynosi około:\r",
+    "a": "330 000 km\r",
+    "b": "420 000 km\r",
+    "c": "530 000 km\r",
+    "d": "820 000 km\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". Łączna liczba stacji elektroenergetycznych średnich, wysokich i najwyższych napięć w Polsce wynosi około:\r",
+    "a": "100 000\r",
+    "b": "150 000\r",
+    "c": "250 000\r",
+    "d": "500 000\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". W Polsce liczba odbiorców zasilanych na wysokim napięciu i ilość zużywanej przez nich energii wynosi około:\r",
+    "a": "liczba odbiorców 300, ilość energii 13%\r",
+    "b": "liczba odbiorców 1 000, ilość energii 23%\r",
+    "c": "liczba odbiorców 3 000, ilość energii 36%\r",
+    "d": "liczba odbiorców 10 000, ilość energii 39%\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". W Polsce liczba odbiorców zasilanych na średnim napięciu i ilość zużywanej przez nich energii wynosi około:\r",
+    "a": "liczba odbiorców 3 000, ilość energii 13%\r",
+    "b": "liczba odbiorców 10 000, ilość energii 23%\r",
+    "c": "liczba odbiorców 33 000, ilość energii 35%\r",
+    "d": "liczba odbiorców 100 000, ilość energii 39%\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". W Polsce liczba odbiorców zasilanych na niskim napięciu i ilość zużywanej przez nich energii wynosi około:\r",
+    "a": "liczba odbiorców 8 500 000, ilość energii 30%\r",
+    "b": "liczba odbiorców 12 500 000, ilość energii 40%\r",
+    "c": "liczba odbiorców 16 500 000, ilość energii 45%\r",
+    "d": "liczba odbiorców 20 500 000, ilość energii 65%\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". W Polsce liczba gospodarstw domowych, stanowiących odbiorców zasilanych na niskim napięciu i ilość zużywanej przez nie energii wynosi około:\r",
+    "a": "liczba odbiorców 10 500 000, ilość energii 21%\r",
+    "b": "liczba odbiorców 14 500 000, ilość energii 25%\r",
+    "c": "liczba odbiorców 18 500 000, ilość energii 36%\r",
+    "d": "liczba odbiorców 22 000 000, ilość energii 43%\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Operatorem Sieci Przesyłowej (OSP) w Polsce jest spółka:\r",
+    "a": "Polskie Sieci Elektroenergetyczne Operator S.A.\r",
+    "b": "Polski System Elektroenergetyczny Operator S.A.\r",
+    "c": "Krajowe Sieci Elektroenergetyczne S.A.\r",
+    "d": "Krajowy System Elektroenergetyczny S.A.\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Operatorem Sieci Dystrybucyjnej (OSD) w Polsce jest:\r",
+    "a": "Polskie Sieci Elektroenergetyczne Operator S.A.\r",
+    "b": "Polskie Towarzystwo Przesyłu i Rozdziału Energii Elektrycznej\r",
+    "c": "Stowarzyszenie Elektryków Polskich\r",
+    "d": "OSD są powołane do tego celu przedsiębiorstwa energetyczne, np. TAURON, ENERGA\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". Działalność Operatora Sieci Przesyłowej oraz Operatorów Sieci Dystrybucyjnych (OSD) podlega kontroli regulatora, którym jest:\r",
+    "a": "Polskie Towarzystwo Przesyłu i Rozdziału Energii Elektrycznej\r",
+    "b": "Stowarzyszenie Elektryków Polskich\r",
+    "c": "Urząd Regulacji Energetyki\r",
+    "d": "Urząd Nadzoru Energetyki\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ".  Krajowy System Elektroenergetyczny współpracuje z systemem europejskim w ramach:\r",
+    "a": "CIGRE (fr. Conference Internationale des Grands Reseaux Electriques a Haute Tension, ang. International Council on Large Electric Systems)\r",
+    "b": "UCTE (ang. Union for the Coordination of the Transmission of Electricity)\r",
+    "c": "ENSTO-E (ang. European Network of Transmission System Operators for Electricity)\r",
+    "d": "IEC (ang. International Electrotechnical Commission)\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Krajowy System Elektroenergetyczny współpracuje z systemem europejskim w ramach:\r",
+    "a": "CIGRE (fr. Conference Internationale des Grands Reseaux Electriques a Haute Tension, ang. International Council on Large Electric Systems)\r",
+    "b": "UCTE (ang. Union for the Coordination of the Transmission of Electricity)\r",
+    "c": "ENSTO-E (ang. European Network of Transmission System Operators for Electricity)\r",
+    "d": "IEC (ang. International Electrotechnical Commission)\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Największą polską elektrownią jest:\r",
+    "a": "Elektrownia TURÓW\r",
+    "b": "Elektrownia KOZIENICE\r",
+    "c": "Elektrownia BEŁCHATÓW\r",
+    "d": "Elektrownia POŁANIEC\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Moc użyteczna, czyli przekazywana przez silnik wiatrowy odbiornikowi jest zależna od:\r",
+    "a": "sprawności użytecznej\r",
+    "b": "sprawności mechanicznej i strumieniowej turbiny wiatrowej\r",
+    "c": "mocy teoretycznej silnika wiatrowego i sprawności mechanicznej oraz strumieniowej turbiny wiatrowej\r",
+    "d": "mocy teoretycznej silnika wiatrowego i sprawności użytecznej\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". Turbina Peltona wykorzystywana w elektrowniach wodnych to:\r",
+    "a": "turbina akcyjna (natryskowa)\r",
+    "b": "turbina akcyjna (naporowa)\r",
+    "c": "turbina reakcyjna (natryskowa)\r",
+    "d": "turbina reakcyjna (naporowa)\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Energia elektryczna z promieniowania słonecznego jest pozyskiwana dla celów przemysłowych pośrednio przez:\r",
+    "a": "konwersję fototermiczną (heliotermika)\r",
+    "b": "konwersję fotochemiczną (fotosynteza)\r",
+    "c": "konwersję fotowoltaiczną (fotowoltaika)\r",
+    "d": "fotomechanikę\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Elektrownia słoneczna typu CRS (ang. Central Receiver System):\r",
+    "a": "wykorzystuje energię słoneczną poprzez odbicie promieni słonecznych z dużego obszaru i skierowaniu ich w jeden centralnie umieszczony punkt, gdzie można osiągnąć bardzo wysoką temperaturę\r",
+    "b": "wykorzystuje energię słoneczną poprzez odbicie promieni słonecznych z dużego obszaru i skierowaniu ich na rurę z czynnikiem roboczym\r",
+    "c": "wykorzystuje energię słoneczną poprzez ruch podgrzanego powietrza skierowanego do komina słonecznego\r",
+    "d": "wykorzystuje energię słoneczną poprzez rozbudowany system ogniw fotowoltaicznych zabudowanych na dużym obszarze\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Źródłem energii elektrycznej z biogazu w elektrowni jest:\r",
+    "a": "generator elektryczny napędzany turbiną parową\r",
+    "b": "generator elektryczny napędzany turbina gazową\r",
+    "c": "agregat prądotwórczy na biogaz\r",
+    "d": "agregat prądotwórczy na biomasę\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Strukturą niezawodnościowa systemu nazywamy:\r",
+    "a": "sposób wzajemnych powiązań elementów danego systemu określający zależność uszkodzeń systemu od uszkodzeń jego elementów\r",
+    "b": "sposób wzajemnych powiązań i zależność uszkodzeń jego elementów\r",
+    "c": "strukturę zapewniająca realizowanie zadań stawianych systemowi w określonych warunkach i czasie\r",
+    "d": "strukturę szeregową lub równoległą elementów niezawodnościowych tworzących określony system\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Jeśli uszkodzenie dowolnego elementu powoduje uszkodzenie całego systemu to w sensie niezawodności:\r",
+    "a": "system ma strukturę szeregową\r",
+    "b": "system ma strukturę równoległą\r",
+    "c": "system ma strukturę mostkową\r",
+    "d": "system ma strukturę progową\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ".  Specyficzną cechą struktury szeregowej jest to, że jej wypadkowa niezawodność jest:\r",
+    "a": "zawsze mniejsza od niezawodności najsłabszego (najbardziej zawodnego) elementu\r",
+    "b": "zawsze większa od niezawodności najsłabszego (najbardziej zawodnego) elementu\r",
+    "c": "zawsze równa niezawodności najsilniejszego (najbardziej niezawodnego) elementu\r",
+    "d": "zawsze równa niezawodności najsłabszego (najbardziej zawodnego) elementu\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Jeśli system jest zdatny do dalszej pracy wówczas, gdy przynajmniej jeden jego element jest zdatny to w sensie niezawodności:\r",
+    "a": "system ma strukturę szeregową\r",
+    "b": "system ma strukturę równoległą\r",
+    "c": "system ma strukturę mostkową\r",
+    "d": "system ma strukturę progową\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Podstawowymi czynnościami podnoszącymi poziom niezawodności układów elektroenergetycznych jest:\r",
+    "a": "zwiększanie niezawodności poszczególnych elementów składowych oraz rezerwowanie\r",
+    "b": "rezerwowanie układów zasilających\r",
+    "c": "zwiększanie niezawodności poszczególnych elementów systemu\r",
+    "d": "tworzenie niezawodnościowych struktur progowych\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Amplituda wahań napięcia w danym punkcie sieci:\r",
+    "a": "nie zależy od amplitudy zmian obciążenia\r",
+    "b": "zależy od wartości spadku napięcia\r",
+    "c": "zależy od częstotliwości\r",
+    "d": "zależy od poziomu mocy zwarciowej w tym punkcie i amplitudy zmian obciążenia\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". Transformatory z uzwojeniami dzielonymi stosuje się:\r",
+    "a": "do zasilania odbiorców wymagających zwiększonej pewności zasilania\r",
+    "b": "w celu ograniczenia poziomu mocy zwarciowej oraz wartości prądów ziemnozwarciowych w sieciach rozdzielczych zasilających obszary o dużej gęstości obciażenia\r",
+    "c": "w celu ograniczenia wahań napięcia w sieciach rozdzielczych\r",
+    "d": "do zasilania sieci średniego napięcia o różnych poziomach napięcia znamionowego\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Współczynnik mocy w trójfazowym obwodzie obciażonym niesymetrycznie jest równy:\r",
+    "a": "cosinusowi kąta pomiędzy wektorem prądu i wektorem napięcia\r",
+    "b": "tangensowi kąta pomiędzy wektorem prądu i wektorem napięcia\r",
+    "c": "sinusowi kąta pomiędzy wektorem prądu i wektorem napięcia\r",
+    "d": "stosunkowi mocy czynnej do mocy pozornej pobieranej z obwodu\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". W trójfazowym obwodzie obciążonym niesymetrycznym odbiorem czysto rezystancyjnym współczynnik mocy jest:\r",
+    "a": "równy 1\r",
+    "b": "mniejszy niż 1\r",
+    "c": "większy niż 1\r",
+    "d": "równy zero\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Przesył mocy biernej:\r",
+    "a": "nie ma wpływu na pracę systemu elektroenergetycznego\r",
+    "b": "powoduje wzrost kosztów wytwarzania i przesyłu energii\r",
+    "c": "powoduje zmniejszenie strat energii\r",
+    "d": "powoduje zmniejszenia spadków napięcia\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". W układzie sieciowym IT prąd zwarcia doziemnego powstałego w wyniku uszkodzenia urządzenia jest:\r",
+    "a": "taki sam w linii kablowej i w linii napowietrznej o tej samej długości\r",
+    "b": "nie zależy od długości linii\r",
+    "c": "większy w linii kablowej niż w linii napowietrznej o tej samej długości\r",
+    "d": "większy w linii napowietrznej niż w linii kablowej o tej samej długości\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Jako środki ochrony przeciwporażeniowej przed dotykiem pośrednim stosowane są m.in.:\r",
+    "a": "bariery i przeszkody\r",
+    "b": "izolowanie części czynnych\r",
+    "c": "układy kontroli stanu izolacji\r",
+    "d": "izolacja stanowiska\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ".  Na tabliczce znamionowej kuchenki elektryczno-gazowej umieszczony jest symbol , co oznacza że:\r",
+    "a": "jest to urządzenie 0 klasy ochronności, tj. o izolacji podstawowej, bez zacisku ochronnego, a przewód zasilający zakończony jest wtykiem bez styku ochronnego\r",
+    "b": "jest to urządzenie I klasy ochronności i części przewodzące dostępne są połączone z żyłą ochronną przewodu zasilającego, zakończonego wtykiem ze stykiem ochronnym\r",
+    "c": "jest to urządzenie II klasy ochronności, tj. wyposażone w izolację podwójną, bez zacisku ochronnego, a przewód zasilający zakończony jest wtykiem bez styku ochronnego\r",
+    "d": "jest to urządzenie III klasy ochronności z obudową przeznaczoną do uziemienia\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". W układzie sieciowym TT część przewodząca dostępna urządzenia jest podłączona do:\r",
+    "a": "uziemienia roboczego\r",
+    "b": "uziemienia ochronnego\r",
+    "c": "przewodu neutralnego\r",
+    "d": "przewodu ochronno-neutralnego\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": "Urządzenia III klasy ochronności:\r",
+    "a": "są to urządzenie z obudową przeznaczoną do uziemienia\r",
+    "b": "są zasilane napięciami SELV oraz PELV, a ich przewód zasilający musi być zakończony wtykiem bez styku ochronnego i nie powinien pasować do gniazd wtykowych o napięciu wyższym\r",
+    "c": "są zasilane napięciami SELV oraz PELV, a ich przewód zasilający musi być zakończony wtykiem bez styku ochronnego\r",
+    "d": "są zasilane napięciami SELV oraz PELV, a ich przewód zasilający musi być zakończony wtykiem ze stykiem ochronnym\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": "Jako środki ochrony przeciwporażeniowej przed dotykiem bezpośrednim stosowane są m.in.:\r",
+    "a": "izolowanie części czynnych\r",
+    "b": "szybkie wyłączanie\r",
+    "c": "izolacja stanowiska\r",
+    "d": "kontrola stanu izolacji\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": "Największa część prądu rażeniowego przepływa przez serce i układ oddechowy przy przepływie prądu na drodze:\r",
+    "a": "ręka – ręka\r",
+    "b": "prawa ręka – nogi\r",
+    "c": "lewa ręka – nogi\r",
+    "d": "żadna z powyższych odpowiedzi nie jest prawdziwa\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": "Przez dotyk pośredni rozumie się:\r",
+    "a": "dotknięcie części przewodzących dostępnych, które znalazły się pod napięciem w wyniku uszkodzenia izolacji urządzenia\r",
+    "b": "dotknięcie części czynnej\r",
+    "c": "dotknięcie części przewodzących dostępnych\r",
+    "d": "dotknięcie części przewodzących, znajdujących się pod napięciem podczas normalnej pracy\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": "Przyjmuje się, że rezystancja wewnętrzna ciała ludzkiego wynosi przy napięciu 250 V:\r",
+    "a": "około 1,5 kohm\r",
+    "b": "około 2 kohm\r",
+    "c": "około 1 kohm\r",
+    "d": "około 500 ohm \r",
+    "correct": "c"
+  },
+  {
+    "pytanie": "Przez pojęcie część przewodząca dostępna instalacji lub urządzenia elektrycznego rozumie się:\r",
+    "a": "część przewodząca znajdująca się w czasie normalnej pracy pod napięciem\r",
+    "b": "część przewodząca znajdująca się w wyniku uszkodzenia urządzenia pod napięciem\r",
+    "c": "część przewodząca znajdująca się w zasięgu ręki i znajdująca się pod napięciem roboczym\r",
+    "d": "część przewodząca znajdująca się w zasięgu ręki, oddzielona od części czynnych jedynie izolacją roboczą i mogąca się znaleźć pod napięciem w wyniku uszkodzenia\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": "W ochronie przeciwporażeniowej symbolami PEN, E, CC opisuje się odpowiednio przewody:\r",
+    "a": "ochronno-neutralny, uziemiający bezzakłóceniowy, wyrównawczy\r",
+    "b": "ochronno-neutralny, uziemiający, wyrównawczy\r",
+    "c": "ochronno-neutralny, uziemiający, łączący z obudową\r",
+    "d": "ochronny, uziemiający, wyrównawczy\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": "Napięcie rażeniowe jest to:\r",
+    "a": "napięcie jakie pojawi się na obudowie urządzenia elektrycznego po jego uszkodzeniu\r",
+    "b": "napięcia na ciele człowieka pod wpływem przepływu prądu rażeniowego\r",
+    "c": "górna wartość napięcia dotykowego wywołująca w 50% przypadków porażeń negatywne skutki patofizjologiczne\r",
+    "d": "napięcie między dwoma punktami nie należącymi do obwodu elektrycznego\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ".  Domek jednorodzinny ma być zasilany z napowietrznej linii czteroprzewodowej (TN-C) 400/230 V, a przyłącze ma być usytuowane w pobliżu balkonu. W tym przypadku ochrona przeciwporażeniowa musi być zrealizowana jako:\r",
+    "a": "taka lokalizacja przyłącza jest absolutnie niedopuszczalna\r",
+    "b": "na słupie skąd odchodzą przewody do przyłącza należy rozdzielić przewód PEN na PE i N (układ TN-S) oraz zainstalować trójfazowy wyłącznik różnicowoprądowy\r",
+    "c": "należy zastosować ochronę przed dotykiem bezpośrednim przez umieszczenie części czynnych poza zasięgiem ręki\r",
+    "d": "należy zastosować odpowiednią odgromową uniemożliwiającą uderzenie pioruna w przyłącze\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Przez równoczesną ochronę przed dotykiem bezpośrednim i pośrednim rozumie się ochronę przez stosowanie:\r",
+    "a": "bardzo niskiego napięcia bezpiecznego SELV lub ochronnego PELV\r",
+    "b": "izolacji podstawowej (roboczej)\r",
+    "c": "szybkiego wyłączania\r",
+    "d": "osłon, barier i przenośnych ogrodzeń\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Podczas wymiany instalacji elektrycznej w układzie TN-S:\r",
+    "a": "można wykonać instalację w układzie TN-C\r",
+    "b": "można wykonać instalację w układzie TN-S\r",
+    "c": "należy wykonać instalację w układzie TN-S\r",
+    "d": "należy wykonać instalację w układzie TN-S-C\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". W pewnym układzie sieciowym TN-C gniazdko zasilające z kołkiem ochronnym jest zabezpieczone przez bezpiecznik o prądzie znamionowym 16 A i charakterystyce szybkiej. Po wymianie tego bezpiecznika na bezpiecznik o prądzie znamionowym 10 A (i również charakterystyce szybkiej), warunki ochrony przeciwporażeniowej przed dotykiem bezpośrednim przy zasilaniu urządzeń z tego gniazdka:\r",
+    "a": "nie ulegną zmianie\r",
+    "b": "polepszą się\r",
+    "c": "pogorszą się\r",
+    "d": "polepszą się, ale tylko dla odbiorników w II klasie ochronności\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". W układzie sieciowym TN-C-S punkt rozdzielenia przewodu PEN na PE i N:\r",
+    "a": "powinien być chroniony przed przepięciami\r",
+    "b": "powinien być uziemiony\r",
+    "c": "powinien być izolowany\r",
+    "d": "taki układ sieciowy nie istnieje\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Szybkie wyłączenie zasilania przy pomocy wyłącznika różnicowoprądowego może zostać zastosowane jako m.in.:\r",
+    "a": "w każdym układzie oprócz układu TN-C\r",
+    "b": "w każdym układzie oprócz układu IT\r",
+    "c": "w każdym układzie sieciowym\r",
+    "d": "tylko w układzie TN-S\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Maksymalny czas szybkiego wyłączania w sieci jednofazowej o napięciu znamionowym 230 V wynosi przy napięciu dotykowym bezpiecznym 50 V:\r",
+    "a": "0,6 s, ale dopuszcza się w obwodach rozdzielczych czas dłuższy, nie przekraczający 5 s\r",
+    "b": "0,4 s, ale dopuszcza się w obwodach rozdzielczych czas dłuższy, nie przekraczający 5 s\r",
+    "c": "0,4 s, ale dopuszcza się w obwodach rozdzielczych czas dłuższy, nie przekraczający 1 s\r",
+    "d": "0,6 s.\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Dla oceny skuteczności szybkiego wyłączania w układzie TT realizowanego przez wyłącznik nadmiarowo-prądowy o prądzie znamionowym 10 A dokonano pomiaru rezystancji pętli zwarcia w gnieździe odbiorczym, otrzymując wynik 1,2 ?. Można stwierdzić, że urządzenie elektryczne zasilane z tego gniazda ma ochronę przed dotykiem pośrednim, bowiem:\r",
+    "a": "skuteczną, bowiem prąd w pętli zwarciowej = 230 V/1,2 ? = 192 A > 50 V/1,2 ? = 42 A\r",
+    "b": "nieskuteczną, bowiem rezystancja pętli zwarciowej 1,2 ? > 0,5 ?\r",
+    "c": "nic nie można stwierdzić, bowiem należy wiedzieć jaka jest charakterystyka czasowo-prądowa wyłącznika\r",
+    "d": "żadna z powyższych odpowiedzi nie jest prawdziwa\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". W pewnym układzie sieciowym TN-C gniazdko zasilające z kołkiem ochronnym jest zabezpieczone przez bezpiecznik o prądzie znamionowym 10 A i charakterystyce szybkiej. Po wymianie tego bezpiecznika na bezpiecznik o prądzie znamionowym 16 A (i również charakterystyce szybkiej), warunki ochrony przeciwporażeniowej przed dotykiem pośrednim przy zasilaniu z tego gniazdka urządzeń I klasy ochronności:\r",
+    "a": "nie ulegną zmianie\r",
+    "b": "polepszą się, ale tylko dla odbiorników w I klasie ochronności\r",
+    "c": "polepszą się, ale tylko dla odbiorników w II klasie ochronności\r",
+    "d": "pogorszą się\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". W krajowym systemie elektroenergetycznym największe pokrycie zapotrzebowania mocy biernej zapewniają:\r",
+    "a": "kondensatory\r",
+    "b": "silniki synchroniczne\r",
+    "c": "generatory synchroniczne\r",
+    "d": "nieobciążone linie przesyłowe i rozdzielcze\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ".  W elektroenergetyce przemysłowej największe pokrycie zapotrzebowania mocy biernej zapewniają:\r",
+    "a": "nieobciążone linie przesyłowe i rozdzielcze\r",
+    "b": "kondensatory\r",
+    "c": "silniki synchroniczne\r",
+    "d": "asynchroniczne silniki synchronizowane\r",
+    "correct": "b"
+  },
+  {
+    "pytanie": ". Procentowo w układzie elektroenergetycznym najwięcej mocy biernej pobierają:\r",
+    "a": "wyładowcze źródła światła\r",
+    "b": "transformatory\r",
+    "c": "silniki asynchroniczne\r",
+    "d": "linie elektroenergetyczne\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Do naturalnych sposobów poprawy współczynnika mocy zalicza się:\r",
+    "a": "instalowanie kondensatorów\r",
+    "b": "instalowanie kompensatorów wirujących\r",
+    "c": "dobór mocy silników indukcyjnych do spodziewanych obciążeń\r",
+    "d": "synchronizacja silników pierścieniowych\r",
+    "correct": "c"
+  },
+  {
+    "pytanie": ". Do sztucznych sposobów poprawy współczynnika mocy zalicza się:\r",
+    "a": "synchronizacja silników pierścieniowych\r",
+    "b": "wyłączanie nieobciążonych lub silników indukcyjnych i transformatorów\r",
+    "c": "instalowanie silników indukcyjnych o uzwojeniach skojarzonych w trójkąt, celem ich skojarzenia w gwiazdę w przypadku niedociążenia\r",
+    "d": "dobór mocy silników indukcyjnych do spodziewanych obciążeń\r",
+    "correct": "a"
+  },
+  {
+    "pytanie": ". Kompensacja indywidualna odbiornika energii elektrycznej:\r",
+    "a": "jest stosowana szczególnie przy silnikach małej mocy\r",
+    "b": "nie zmienia wartości natężenia prądu w linii zasilającej odbiornik\r",
+    "c": "zwiększa wartość natężenia prądu w linii zasilającej odbiornik\r",
+    "d": "zmniejsza wartość natężenia prądu w linii zasilającej odbiornik\r",
+    "correct": "d"
+  },
+  {
+    "pytanie": ". Zaletą kompensacji centralnej w zakładzie przemysłowym jest:\r",
+    "a": "prostota układu i zmniejszenie trudności lokalizacji baterii kondensatorów\r",
+    "b": "odciążenie wewnątrzzakładowej sieci rozdzielczej\r",
+    "c": "możliwość zainstalowania baterii kondensatorów w rozdzielni głównej po stronie wysokiego napięcia\r",
+    "d": "możliwość optymalizacji struktury sieci wewnątrzzakładowej",
+    "correct": "a"
+  }
+]

@@ -1,0 +1,482 @@
+[
+   {
+      "pytanie": "11.1. Metodę pomiaru WN przy użyciu prostownika z kondensatorem cechuje:\r",
+      "a": "Potrzeba zastosowania wysokiej dokładności woltomierza i częstościomierza,\r",
+      "b": "Możliwość pomiaru napięcia stałego,\r",
+      "c": "Zastosowanie w układzie pomiarowym kondensatora energetycznego, dwóch prostowników i woltomierza magnetoelektrycznego,\r",
+      "d": "Zastosowanie w układzie pomiarowym kondensatora energetycznego, dwóch prostowników i amperomierza magnetoelektrycznego.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "11.2. Metodę pomiaru WN przy użyciu dzielnika napięciowego cechuje:\r",
+      "a": "Występowanie podczas pomiaru zwarcia w układzie pomiarowym, ale przez zastosowanie rezystora ograniczającego można zniwelować tą niedogodność,\r",
+      "b": "Szeregowe połączenie impedancji, a rodzaj zastosowanych elementów (R lub C) wpływa na możliwości zastosowania metody,\r",
+      "c": "Zastosowanie elementu przekształcającego umożliwiającego bezpośredni pomiar WN,\r",
+      "d": "Brak możliwości wykorzystania aparatury niskonapięciowej do pomiaru WN.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.3. Do pomiaru napięcia udarowego można zastosować:\r",
+      "a": "Dzielnik rezystancyjny,\r",
+      "b": "Metodę prostownikową,\r",
+      "c": "Metodę iskiernikową,\r",
+      "d": "Kilowoltomierz elektrostatyczny.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.4. Wyładowania ślizgowe występują:\r",
+      "a": "gdy moduł wektora składowej normalnej natężenia pola elektrycznego osiąga dużą wartość,\r",
+      "b": "gdy moduł wektora składowej stycznej jest znacznie większy od modułu wektora składowej normalnej natężenia pola elektrycznego w układzie izolacyjnym,\r",
+      "c": "w izolatorach liniowych porcelanowych długopniowych,\r",
+      "d": "na powierzchni izolatorów wsporczych .\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.5. Ślady pełzne, to:\r",
+      "a": "Negatywny skutek tylko wyładowania powierzchniowego, objawiający się powstaniem „kanału” o zmniejszonej przewodności,\r",
+      "b": "Negatywny skutek wyładowania powierzchniowego, objawiający się powstaniem „kanału” o zmniejszonej przewodności,\r",
+      "c": "Pozytywny skutek wyładowania na powierzchni dielektryka, spowodowany obecnością warstwy zabrudzeniowej na powierzchni dielektryka,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "11.6. Kryterium podziału wyładowań na powierzchniowe i ślizgowe oparte jest na:\r",
+      "a": "Dominacji składowej stycznej i normalnej natężenia pola elektrycznego,\r",
+      "b": "Dominacji składowej stycznej i normalnej natężenia pola magnetycznego,\r",
+      "c": "Dominacji składowej stycznej i równoległej natężenia pola elektrycznego,\r",
+      "d": "Wystąpieniu wyładowania zupełnego w układzie pomiarowym.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.7. Wyznaczając U50 (50-cio % napięcie przeskoku) można zastosować:\r",
+      "a": "Metodę superpozycji,\r",
+      "b": "Metodę góra-dół,\r",
+      "c": "Metodę serii Tesli,\r",
+      "d": "Metodę regresji liniowej.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.8. Podstawą doboru odstępów izolacyjnych dla wielkich odstępów powietrznych jest:\r",
+      "a": "Uwzględnienie narażeń eksploatacyjnych łączeniowych,\r",
+      "b": "Uwzględnienie prawdopodobieństwa wystąpienia wyładowania zupełnego,\r",
+      "c": "Uwzględnienie narażeń eksploatacyjnych piorunowych,\r",
+      "d": "Wszystkie powyższe odpowiedzi są prawidłowe.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "11.9. Ochronę odgromową linii napowietrznych w postaci przewodów odgromowych stosuje się:\r",
+      "a": "Dla linii o UN >= 110 kV,\r",
+      "b": "Dla linii o UN < 110 kV,\r",
+      "c": "Tylko na wyjściach linii napowietrznej np. z GPZ-tu,\r",
+      "d": "Tylko na długości linii napowietrznej, przebiegającej przez tereny zadrzewione.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.10. Przepięcie to wzrost napięcia ponad:\r",
+      "a": "Napięcie znamionowe danego urządzenia elektroenergetycznego UN,\r",
+      "b": "Najwyżej dopuszczalnego napięcie urządzenia elektroenergetycznego Um,\r",
+      "c": "Tzw. początkowe napięcie wyładowań ślizgowych,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.11. Do przepięć wewnętrznych można zaliczyć:\r",
+      "a": "Przepięcia będące skutkiem czynności manewrowych w systemie elektroenergetycznym,\r",
+      "b": "Przepięcia będące skutkiem wyładowań atmosferycznych,\r",
+      "c": "Przepięcia będące skutkiem tzw. przeskoku odwrotnego,\r",
+      "d": "Przepięcia charakteryzujące się bardzo dużymi współczynnikami przepięć.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.12. Przepięcia atmosferyczne bezpośrednie:\r",
+      "a": "Są skutkiem bezpośredniego uderzenia pioruna w przewód fazowy,\r",
+      "b": "Nie są wynikiem tzw. przeskoku odwrotnego,\r",
+      "c": "Posiadają inną nazwę, a mianowicie są to przepięcia indukowane,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.13. Do ochrony przed przepięciami zaliczyć można:\r",
+      "a": "Wszelkiego rodzaju przewody odprowadzające oraz uziemienia,\r",
+      "b": "Wszelkiego rodzaju urządzenia obniżające wartość przepięcia,\r",
+      "c": "Iskierniki i odgromniki kulowe,\r",
+      "d": "Drążek izolacyjny.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.14. Dwukrotne podwyższenie napięcia przesyłowego (przy stałej przesyłanej mocy):\r",
+      "a": "Zwiększa czterokrotnie straty mocy,\r",
+      "b": "Zmniejsza dwukrotnie straty mocy,\r",
+      "c": "Zmniejsza dwukrotnie prąd przepływający w linii,\r",
+      "d": "Zwiększa czterokrotnie prąd przepływający w linii.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.15. Jeżeli R oznacza promień zewnętrzny powłoki izolacyjnej kabla jednożyłowego, a r – promień wewnętrzny to najkorzystniejszy z punktu widzenia maksymalnego natężenia pola elektrycznego stosunek R/r:\r",
+      "a": "Wynosi pi,\r",
+      "b": "Wynosi e,\r",
+      "c": "Wynosi 1.\r",
+      "d": "Wynosi 1/e.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.16. Jeżeli T1 oznacza czas do szczytu, a T2 – czas do półszczytu to znormalizowany kształt udaru piorunowego, to udar o czasach:\r",
+      "a": "T1 = 1,2 µs, T2 = 500 µs,\r",
+      "b": "T1 = 250 µs, T2 = 2500 µs,\r",
+      "c": "T1 = 50 µs, T2 = 1,2 µs,\r",
+      "d": "T1 = 1,2 µs, T2 = 50 µs.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "11.17. Jeżeli T1 oznacza czas do szczytu, a T2 – czas do półszczytu to znormalizowany kształt udaru łączeniowego, to udar o czasach:\r",
+      "a": "T1 = 1,2 µs, T2 = 500 µs,\r",
+      "b": "T1 = 250 µs, T2 = 2500 µs,\r",
+      "c": "T1 = 1,2 µs, T2 = 50 µs,\r",
+      "d": "T1 = 0,25 µs, T2 = 2,5 µs.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.18. Układ kaskadowy transformatorów probierczych:\r",
+      "a": "Realizowany jest poprzez zastosowanie specjalnych uzwojeń wiążących,\r",
+      "b": "Składa się z minimum jednego transformatora probierczego,\r",
+      "c": "Nie ma technicznego zastosowania do celów laboratoryjnych,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.19. Moc transformatora potrzebna do przeprowadzenia próby napięciowej kabla:\r",
+      "a": "Jest odwrotnie proporcjonalna do przyłożonego napięcia,\r",
+      "b": "Jest proporcjonalna do kwadratu przyłożonego napięcia,\r",
+      "c": "Jest proporcjonalna do kwadratu pojemności obiektu badanego,\r",
+      "d": "Jest proporcjonalna do kwadratu indukcyjności obiektu badanego.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.20. Transformatory probiercze zbudowane w układzie symetrycznym:\r",
+      "a": "Posiadają dwa bieguny uzwojenia WN wyprowadzone na zewnątrz obudowy,\r",
+      "b": "Posiadają tylko jeden biegun uzwojenia WN wyprowadzony na zewnątrz obudowy,\r",
+      "c": "Wyposażone są w izolatory dobrane na napięcie znamionowe transformatora,\r",
+      "d": "Wyposażone są w izolatory dobrane na podwójne napięcie znamionowego transformatora.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.21. Czas do półszczytu znormalizowanego udaru napięciowego piorunowego:\r",
+      "a": "Wynosi ok. 1,2 µs,\r",
+      "b": "Wynosi ok. 50 ms,\r",
+      "c": "Wynosi ok. 50 µs,\r",
+      "d": "Wynosi ok. 250 µs.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.22. Ucięty udar piorunowy występuje:\r",
+      "a": "Gdy mamy do czynienia z pomyślną próbą udarową urządzenia,\r",
+      "b": "Gdy nie mamy do czynienia z przeskokiem na badanym izolatorze,\r",
+      "c": "Gdy mamy do czynienia z przeskokiem na badanym izolatorze.\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.23. Warunki normalne to:\r",
+      "a": "p = 1013 Pa oraz T = 20oC,\r",
+      "b": "p = 1013 hPa oraz T = 20K,\r",
+      "c": "p = 1013 kPa oraz T = 293K,\r",
+      "d": "p = 1013 hPa oraz T = 20oC.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "11.24. Napięcie przeskoku na iskierniku kulowym to:\r",
+      "a": "Maksymalna wartość napięcia, przy której następuje przeskok,\r",
+      "b": "Skuteczna wartość napięcia, przy której następuje przeskok,\r",
+      "c": "Średnia wartość napięcia, przy której następuje przeskok,\r",
+      "d": "Znamionowa wartość napięcia, przy której następuje przeskok.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.25. Wartość maksymalna napięcia sinusoidalnie zmiennego:\r",
+      "a": "Jest SQRT(2)większa od wartości skutecznej napięcia,\r",
+      "b": "Jest SQRT(3) większa od wartości skutecznej napięcia,\r",
+      "c": "Jest SQRT(2) mniejsza od wartości skutecznej napięcia\r",
+      "d": "Jest SQRT(3) mniejsza od wartości skutecznej napięcia,\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.26. Wytrzymałość powietrza:\r",
+      "a": "Zależy od ciśnienia atmosferycznego powietrza a nie zależy od temperatury powietrza,\r",
+      "b": "Nie zależy od ciśnienia atmosferycznego powietrza a zależy od temperatury powietrza,\r",
+      "c": "Zależy od ciśnienia atmosferycznego,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.27. Wielkością charakteryzującą przebieg udarowy piorunowy nie jest:\r",
+      "a": "Biegunowość,\r",
+      "b": "Czas do szczytu,\r",
+      "c": "Częstotliwość.\r",
+      "d": "Czas do półszczyty.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.28. Przebieg przedstawiony na rysunku obok przedstawia:\r",
+      "a": "Udar piorunowy ucięty na czole,\r",
+      "b": "Udar piorunowy ucięty na grzbiecie,\r",
+      "c": "Udar piorunowy pełny,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.29. Który izolator w łańcuchu izolatorów kołpakowych jest najbardziej narażony na przebicie?\r",
+      "a": "Izolator, do którego jest przyłączony przewód wysokiego napięcia,\r",
+      "b": "Izolator, który jest uziemiony na jednym końcu,\r",
+      "c": "Izolator w środku łańcucha,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.30. O wytrzymałości wielowarstwowego układu izolacyjnego decyduje warstwa, w której:\r",
+      "a": "Występuje największe natężenie pola elektrycznego,\r",
+      "b": "Występuje najmniejsze natężenie pola elektrycznego,\r",
+      "c": "Rozkład pola jest równomierny,\r",
+      "d": "Rozkład pola jest jednostajny.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.31. W jakim celu stosuje się wielowarstwowe układy izolacyjne?\r",
+      "a": "By zwiększyć grubość izolacji,\r",
+      "b": "By zmniejszyć natężenie pola elektrycznego,\r",
+      "c": "By zwiększyć natężenie pola elektrycznego,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.32. Współczynnik przepięć kp dla przepięć ziemnozwarciowych wolnozmiennych wynosi:\r",
+      "a": "> 5,\r",
+      "b": "2 – 4,\r",
+      "c": "1,0 – 1,73,\r",
+      "d": "< 1.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.33. Które z przepięć nie są przepięciami dorywczymi:\r",
+      "a": "Przepięcie ferrorezonansowe,\r",
+      "b": "Przepięcie piorunowe,\r",
+      "c": "Przepięcie dynamiczne,\r",
+      "d": "Przepięcia łączeniowe.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.34. Do zalet rozdzielnic gazowych w porównaniu z konwencjonalnymi można zaliczyć to, że:\r",
+      "a": "Kilkakrotnie zmniejszają zajmowane powierzchnie,\r",
+      "b": "Znacznie zwiększają hałas,\r",
+      "c": "Są dużo bezpieczniejsze dla środowiska.\r",
+      "d": "Są tanie.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.35. Procesy starzenia cieplnego. Podwyższenie temperatury pracy izolacji papierowej o każde 8°C ponad 100°C powoduje skrócenie czasu życia tej izolacji:\r",
+      "a": "Dwukrotnie,\r",
+      "b": "Czterokrotnie,\r",
+      "c": "Dziesięciokrotnie.\r",
+      "d": "Temperatura nie wpływa na czas życia izolacji.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.36. Jednym z najbardziej typowych zanieczyszczeń cieczy izolacyjnych jest:\r",
+      "a": "Sadza,\r",
+      "b": "Woda,\r",
+      "c": "Włókno celulozy,\r",
+      "d": "Kawałki metali.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.37. Największy wpływ na wytrzymałość elektryczną olejów izolacyjnych ma:\r",
+      "a": "powietrze,\r",
+      "b": "woda,\r",
+      "c": "procesy starzeniowe,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.38. Niejednostajny rozkład pola elektrycznego występuje w układach elektrod:\r",
+      "a": "Których promień krzywizny jest bardzo duży,\r",
+      "b": "Płaskich, których krawędzie są zaokrąglone według tzw. krzywych Rogowskiego,\r",
+      "c": "Których promień krzywizny jest bardzo mały,\r",
+      "d": "Kulistych oddalonych od siebie na małą odległość.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.39. Jeżeli Up oznacza napięcie przeskoku, a – odległość między elektrodami, p – ciśnienie to charakterystykę Paschena opisuje zależność:\r",
+      "a": "p= f(Up·a),\r",
+      "b": "a= f(p·Up),\r",
+      "c": "Up = f(p·a).\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.40. Charakterystyka Paschena:\r",
+      "a": "Posiada 1 ekstremum,\r",
+      "b": "Posiada 2 ekstrema,\r",
+      "c": "Można aproksymować funkcją liniową,\r",
+      "d": "Można aproksymować funkcją kwadratową.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.41. Wartości współczynników przejścia ”alfa” oraz odbicia ”ß” zawierają się w przedziale:\r",
+      "a": "alfa od 0 ÷ 2, ß od -1 ÷ 1,\r",
+      "b": "alfa od 0 ÷ 1, ß od 1 ÷ 2,\r",
+      "c": "alfa od -1 ÷ 1, ß od 0 ÷ 2,\r",
+      "d": "alfa od 1 ÷ 2, ß od 0 ÷ 1.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.42. Jeżeli c oznacza prędkość światła, µr – względną przenikalność magnetyczną, a epsilonr – względną przenikalność elektryczną to w danym, bezstratnym środowisku elektro-magnetycznym prędkość propagacji fali można wyznaczyć na podstawie wzoru:\r",
+      "a": "V=c/SQRT(µr*epsilonr),\r",
+      "b": "V=1/SQRT(µr*epsilonr),\r",
+      "c": "V=SQRT(µr*epsilonr),\r",
+      "d": "V=c * SQRT(µr/epsilonr)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.43. Ulot jest:\r",
+      "a": "Wyładowaniem niezupełnym w powietrzu, występującym w otoczeniu elektrod o małej krzywiźnie,\r",
+      "b": "Wyładowaniem zupełnym w powietrzu, występującym w otoczeniu elektrod o małej krzywiźnie,\r",
+      "c": "Wyładowaniem niezupełnym w powietrzu, występującym w otoczeniu elektrod o dużej krzywiźnie,\r",
+      "d": "Wyładowaniem zupełnym w powietrzu, występującym w otoczeniu elektrod o dużej krzywiźnie.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.44. W liniach napowietrznych zjawisko ulotu ogranicza się poprzez:\r",
+      "a": "Stosowanie przewodów wiązkowych,\r",
+      "b": "Zwiększanie krzywizn części metalowych,\r",
+      "c": "Zmniejszanie krzywizn części niemetalowych,\r",
+      "d": "Stosowanie przewodów odgromowych.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.45. Przewody wiązkowe w porównaniu z pojedynczym przewodem mają:\r",
+      "a": "Większą pojemność,\r",
+      "b": "Większą indukcyjność,\r",
+      "c": "Większe natężenie pola elektrycznego,\r",
+      "d": "Mniejszą pojemność.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.46. Kiedy współczynnik przejścia alfa będzie równy zeru?\r",
+      "a": "Gdy mamy do czynienia z otwartym końcem linii,\r",
+      "b": "Gdy mamy do czynienia ze zwartym końcem linii,\r",
+      "c": "Gdy mamy do czynienia z połączeniem linii napowietrznej i kablowej,\r",
+      "d": "Współczynnik przejścia nie może być równy zeru.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.47. Kiedy współczynnik odbicia ß będzie równy zeru?\r",
+      "a": "Gdy mamy do czynienia z otwartym końcem linii,\r",
+      "b": "Gdy mamy do czynienia ze zwartym końcem linii,\r",
+      "c": "Gdy mamy do czynienia z połączeniem linii napowietrznej i kablowej,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "11.48. Dana linia kablowa o długości L posiada impedancję falową równa Z. Jak zmieni się impedancja falowa tego kabla, jeżeli jego długość zwiększy się 50% ?\r",
+      "a": "Zwiększy się o 50%,\r",
+      "b": "Zmniejszy się o 50%,\r",
+      "c": "Nie zmieni się,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.49. Dana linia napowietrzna o długości L jest opisana przez impedancję falową Z oraz prędkość propagacji fali v. Jak należy zmienić długość odcinka linii napowietrznej by impedancję falową i prędkość propagacji fali zwiększyć o 25% ?:\r",
+      "a": "Zwiększyć długość linii o 25%,\r",
+      "b": "Zmniejszyć długość linii o 25%,\r",
+      "c": "Zmniejszyć długość linii o 20%,\r",
+      "d": "Impedancja falowa i prędkość propagacji fali nie zależy od długości linii.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "11.50. Na rysunku obok, przedstawiono zależność natężenia pola elektrycznego od grubości warstwy dielektryka dla układu:\r",
+      "a": "Płaskiego, dwuwarstwowego,\r",
+      "b": "Płaskiego, jednowarstwowego,\r",
+      "c": "Cylindrycznego, dwuwarstwowego,\r",
+      "d": "Cylindrycznego, jednowarstwowego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.51. Uwarstwienie równoległe dielektryków charakteryzuje się:\r",
+      "a": "Taką samą wartością natężenia pola elektrycznego w poszczególnych warstwach,\r",
+      "b": "Różną wartością napięcia w poszczególnych warstwach,\r",
+      "c": "Różną wartością natężenia pola elektrycznego w poszczególnych warstwach,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.52. Z uwarstwieniem równoległym dielektryków mamy do czynienia w przypadku izolacji:\r",
+      "a": "Linii kablowej,\r",
+      "b": "Linii napowietrznej,\r",
+      "c": "Transformatorów,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest prawidłowa.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.53. Charakterystykę Paschena odzwierciedla krzywa\r",
+      "a": "prosta równoległa do osi OX\r",
+      "b": "parabola o a>0\r",
+      "c": "prosta y=ax+b\r",
+      "d": "parabola o a<0\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.54. Wytrzymałość elektryczna dielektryka to:\r",
+      "a": "Graniczna wartość napięcia, przy którym dielektryk traci swoje właściwości izolacyjne,\r",
+      "b": "Graniczna wartość natężenia pola elektrycznego, przy którym dielektryk traci swoje właściwości izolacyjne,\r",
+      "c": "Wartość napięcia, przy którym w dielektryku gazowym dochodzi do przebicia,\r",
+      "d": "Wartość natężenia pola elektrycznego, przy którym rozpoczyna się rozwój wyładowań niezupełne np. ulot.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.55. W płaskim układzie izolacyjnym w, którym powietrze stanowi materiał izolacyjny, doszło do przeskoku po przyłożeniu napięcia o wartości U. Chcąc przeciwdziałać temu zjawisku (przy tym samym napięciu) należy:\r",
+      "a": "Dołączyć dodatkowy materiał dielektryczny by powstało uwarstwienie szeregowe dielektryków,\r",
+      "b": "Dołączyć dodatkowy materiał dielektryczny by powstało uwarstwienie równoległe dielektryków,\r",
+      "c": "Zmniejszyć odległość między elektrodami,\r",
+      "d": "Żadna z powyższych odpowiedzi nie jest poprawna.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.56. Miarą wytrzymałości elektrycznej dielektryka jest:\r",
+      "a": "Wartość napięcia, przy którym następuje przeskok lub przebicie w dielektryku,\r",
+      "b": "Graniczna wartość natężenia pola elektrycznego, przy którym dielektryk traci swoje właściwości izolacyjne,\r",
+      "c": "Wartość natężenia pola elektrycznego przy, którym dochodzi do przebicia w dielektryku,\r",
+      "d": "Wartość początkowego napięcia, przy którym dochodzi do rozwoju wyładowań niezupełnych.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.57. Wytrzymałość elektryczna powietrzna wynosi około:\r",
+      "a": "21 kV/cm,\r",
+      "b": "21 kV,\r",
+      "c": "30 kV/cm,\r",
+      "d": "30 kV.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11.58. W układzie dielektryków,(dwa eielektryki o przenikalności epsilon1 i epsilon2, szeregowo) stwierdzono podczas badań diagnostycznych występowanie inkluzji gazowej (powietrza) w warstwie 1. Przy założeniu, że układ izolacyjny stanowią dielektryki stałe, występowania inkluzji gazowej:\r",
+      "a": "powoduje zwiększenie wytrzymałości elektrycznej układu izolacyjnego,\r",
+      "b": "zmniejsza wytrzymałość elektryczną układu izolacyjnego,\r",
+      "c": "Nie wpływa na wytrzymałość elektryczną układu izolacyjnego,\r",
+      "d": "Powoduje obniżenie maksymalnej wartości natężenia pola elektrycznego występującej w układzie izolacyjnym.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "11.59. Zgodnie z charakterystyką Paschena, wraz ze wzrostem ciśnienia (gdy (p·a)>(p·a)min, a – odległość izolacyjna, p – ciśnienie), napięcie przeskoku:\r",
+      "a": "Rośnie,\r",
+      "b": "Maleje,\r",
+      "c": "Pozostaje bez zmian,\r",
+      "d": "Jest trudne do określenia.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "11.60. Wartość napięcia przeskoku w układzie izolacyjnym gazowym:\r",
+      "a": "zależy od przebiegu napięcia,\r",
+      "b": "jest stała,\r",
+      "c": "nie zależy od odległości między elektrodami,\r",
+      "d": "zależy od mocy źródła napięcia.",
+      "correct": "a"
+   }
+]

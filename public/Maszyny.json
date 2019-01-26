@@ -1,0 +1,1218 @@
+[
+   {
+      "pytanie": "1. Powszechnie stosowane w energetyce maszyny elektryczne dzialają na podstawie prawa:\r",
+      "a": "Kirchoffa\r",
+      "b": "indukcji elektromagnetycznej i prawa Ampera\r",
+      "c": "Newtona\r",
+      "d": "elektrostatycznego oddziaływania ładunków\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "2. Przepływem nazywamy:\r",
+      "a": "strumień wektora indukcji przepływający przez szczelinę\r",
+      "b": "rozkład amperozwojów wzdłuż obwodu szczeliny\r",
+      "c": "całkowite amperozwoje objęte drogą całkowania\r",
+      "d": "rozkład natężenia pola wzdłuż obwodu szczeliny\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "3. Strumień pola magnetycznego sprzężony z uzwojeniem to:\r",
+      "a": "suma strumieni sprzężonych z poszczególnymi zwojami uzwojenia\r",
+      "b": "całka z wektora indukcji po powierzchni ograniczonej jednym zwojem uzwojenia\r",
+      "c": "iloraz powierzchni ograniczonej uzwojeniem i wartości średniej indukcji na tej powierzchni\r",
+      "d": "iloczyn powierzchni ograniczonej jednym zwojem i wartości skutecznej indukcji na tej powierzchni\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "4. Prawo indukcji elektromagnetycznej to wyrażenie SEM indukowanej w uzwojeniu jako:\r",
+      "a": "zanegowanej pochodnej strumienia magentycznego sprzężonego z uzwojeniem względem czasu\r",
+      "b": "pochodnej strumienia magentycznego sprzężonego z uzwojeniem względem czasu\r",
+      "c": "iloczynu prędkości uzwojenia i indukcji\r",
+      "d": "pocodnej strumienia magnetycznego sprzężonego z uzwojeniem względem kąta jego położenia\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "5. 1/2*sum(Mkl*ik*il), gdzie Mkl-indukcyjność wzajemna, ik,il-prądy\r",
+      "a": "siłę wywołaną przez pole magnetyczne układu N uzwojeń\r",
+      "b": "koenergię i energię pola magnetycznego układu N uzwojeń systemu magentycznie liniowego\r",
+      "c": "moment elektromagnetyczny wytwarzany w maszynach elektrycznych\r",
+      "d": "moc przetwarzaną w maszynach elektrycznych\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "6. Moment elektromagnetyczny wytwarzany w maszynach elektrycznych wirujących oblicza się jako:\r",
+      "a": "pochodną energii pola magnetycznego w maszynie względem czasu\r",
+      "b": "pochodną cząstkową energii pola magnetycznego w maszynie względem kąta położenia wirnika\r",
+      "c": "pochodną cząstkową koenergii pola magnetycznego w maszynie względem kąta położenia wirnika\r",
+      "d": "pochodną cząstkową koenergii pola magnetycznego w maszynie względem prędkości wirnika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "7. Funkcja Lagrange’a jest\r",
+      "a": "sumą energii kinetycznej i energii potencjalnej\r",
+      "b": "sumą koenergii kinetycznej i koenergii potencjalnej\r",
+      "c": "różnicą energii kinetycznej i koenergii potencjalnej\r",
+      "d": "różnicą koenergii kinetycznej i energii potencjalnej\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "8. Zasada Hamiltona dotyczy ekstremum\r",
+      "a": "funkcji działania\r",
+      "b": "funkcjonału działania\r",
+      "c": "transformacji działania\r",
+      "d": "funkcji Lagrange’a\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "9. Spełnianie równań Eulera jest warunkiem koniecznym ekstremum\r",
+      "a": "funkcjonału działania\r",
+      "b": "funkcji Lagrange’a\r",
+      "c": "koenergii kinetycznej układu elektromechanicznego\r",
+      "d": "energii potencjalnej układu elektromechanicznego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "10. Stopy żelaza w postaci izolowanych blach stosuje się w maszynach elektrycznych do budowy:\r",
+      "a": "obwodów przewodzących prąd elektryczny\r",
+      "b": "izolacji obwodów prądowych\r",
+      "c": "części przewodzących strumień magnetyczny\r",
+      "d": "obudów i wałów\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "11. Obwody magnetyczne (rdzenie) maszyn elektrycznych prądu przemiennego i transformatorów wykonuję się pakietując je z blach stalowych, aby:\r",
+      "a": "zmniejszyć straty energii w rdzeniu, pochodzące od prądów wirowych,\r",
+      "b": "wzmocnić konstrukcję,\r",
+      "c": "zapobiec oddziaływaniu pola magnetycznego na urządzenia zewnętrzne,\r",
+      "d": "zapewnić dobre chłodzenie uzwojeń\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "12. Polem wirującym jest nazywane pole magnetyczne w szczelinie powietrznej maszyny elektrycznej\r",
+      "a": "przemieszczające się ze zmienną prędkością, ale zachowujące niezmienny rozkład,\r",
+      "b": "przemieszczające się z prędkością wirnika i rozkładzie zależnym od prędkości wirnika,\r",
+      "c": "przemieszczające się ze stałą prędkością i zachowujące niezmienny rozkład,\r",
+      "d": "przemieszczające się ze stałą prędkością i rozkładzie zależnym od obciążenia wirnika\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "13. Wirujące kołowe pole magnetyczne w szczelinie maszyny można uzyskać:\r",
+      "a": "zasilając trzy symetryczne uzwojenia prądem trójfazowym symetrycznym\r",
+      "b": "obracając wirnik klatkowy maszyny przy zasilaniu stojana prądem stałym\r",
+      "c": "zasilając napięciem jednofazowym trzy równolegle połączone uzwojenia\r",
+      "d": "zasilając napięciem jednofazowym trzy szeregowo połączone uzwojenia\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "14. W nasyconych obwodach ferromagnetycznych:\r",
+      "a": "energia magnetyczna jest większa od koenergii\r",
+      "b": "koenergia magnetyczna jest większa od energii\r",
+      "c": "obie energie są jednakowe\r",
+      "d": "relacja między energią i koenergią zależy od sposobu wytwarzania pola magnetycznego\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "15. Siła wzajemnego oddziaływania dwóh uzwojeń z prądem nie zależy od:\r",
+      "a": "usytuowania osi magnetycznych uzwojeń względem siebie\r",
+      "b": "prądów płynących w uzwojeniach\r",
+      "c": "rezystancji uzwojeń\r",
+      "d": "wymiarów uzwojeń\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "16. Wartość maksymalna siły elektromotorycznej indukowanej w wirującym uzwojeniu nie zależy od: \r",
+      "a": "liczby zwojów\r",
+      "b": "prędkości wirowania\r",
+      "c": "rezystancji uzwojenia\r",
+      "d": "wymiarów uzwojenia\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "17. Rozszerzony formalizm Lagrange’a-Eulera można stosować:\r",
+      "a": "w dowolnych układach fizycznych spełniających założenia formalizmu\r",
+      "b": "tylko w układach elektromechanicznych konserwatywnych\r",
+      "c": "tylko w układach elektromechanicznych niekonserwatywnych\r",
+      "d": "tylko w układach elektromechanicznych.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "18. Element posiadający własność hiserezy może być uwzględniony w równaniach Lagrange'a:\r",
+      "a": "zawsze\r",
+      "b": "tylko w przypadku zastąpienia go elementem zastępczym opisanym jednoznaczynmi zależnościami od zmiennych stanu i ich pochoodnych\r",
+      "c": "tylko wtedy, gdy elementem tym jest magnes trwały\r",
+      "d": "nigdy\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "19. Wartość momentu elektromagnetycznego silnika elektrycznego można oszacować korzystając z prawa:\r",
+      "a": "Laplace’a\r",
+      "b": "Faraday’a\r",
+      "c": "Coulomba\r",
+      "d": "Kirchoffa\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "20. Wartość napięcia indukowanego w uzwojeniach generatora elektrycznego można oszacować korzystając z:\r",
+      "a": "prawa Laplace’a\r",
+      "b": "prawa Faraday’a\r",
+      "c": "reguły Lenza\r",
+      "d": "prawa Biot-Savarta\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "21. Jaki jest wpływ domieszki krzemu w blachach elektrycznych używanych w produkcji maszyn:\r",
+      "a": "zwiększa efektywną przenikalność magnetyczną\r",
+      "b": "zwiększa rezystywność\r",
+      "c": "nie ma wpływu\r",
+      "d": "poprawia plastyczne własności materiału\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "22. Jak zależą straty histerezowe w rdzeniach maszyn elektrycznych prądu przemiennego od częstotliwości napięcia zasilającego f ?\r",
+      "a": "nie zależą\r",
+      "b": "są proporcjonalne do f\r",
+      "c": "są proporcjonalne do f 1.3\r",
+      "d": "są proporcjonalne do f 2.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "23. Czy układ równomiernie rozłożonej parzystej liczby napirzemiennie i promieniowo spolaryzowanych magnesów trwałych przymocowanych do wewnętrznej powierzchni cylindra wirującego względem swojej osi może być wykorzystany do wytworzenia pola wirującego?\r",
+      "a": "tak\r",
+      "b": "tylko dla ferromagnetycznego cylindra\r",
+      "c": "tylko dla małej szczeliny powietrznej\r",
+      "d": "nie\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "24. Mocą znamionową maszyn elektrycznych jest maksymalna w warunkach znamionowych:\r",
+      "a": "wartość mocy czynnej wydawanej,\r",
+      "b": "wartość mocy czynnej pobieranej,\r",
+      "c": "wartość mocy wydawanej czynnej albo pozornej,\r",
+      "d": "wartość mocy pobieranej czynnej albo pozornej.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "25. Równianie Eulere-Lagrange'a dla układów nie zachowawczych ma postać\r",
+      "a": "d/dt * dL/dqi' - dL/dqi - Qi'=0\r",
+      "b": "d/dt * dL/dqi - dL/dqi' - Qi'=0\r",
+      "c": "d/dt * dL/dqi + dL/dqi' + Qi'=0\r",
+      "d": "d/dt * dL/dqi' + dL/dqi - Qi'=0\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "26. Wartość naprężeń normalnych na powierzchni nienasyconego ferromagnetyka umieszczonego w próżni (lub powietrzu) w polu magnetycznym o indukcji B wynosi (dla bardzo dużych przenikalności żelaza, gdy składowa styczna jest bliska zeru):\r",
+      "a": "p=B^2/2*mi0\r",
+      "b": "p=B^2/mi0\r",
+      "c": "p=B/4*mi0\r",
+      "d": "p=B^3/2*mi0\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "27. W typowych maszynach elektrycznych podczas ich znamionowej pracy większość strat mocy na ogół występuje :\r",
+      "a": "w uzwojeniach\r",
+      "b": "w głównym obwodzie magnetycznym maszyny\r",
+      "c": "w częściach mechanicznych (łożyska) oraz dla pokonania mechanicznych oporów ruchu\r",
+      "d": "w magnesach trwałych maszyny\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "28. Rolą transformatorów energetycznych jest:\r",
+      "a": "zwiększanie przesyłanej mocy elektrycznej\r",
+      "b": "zamiana częstotliwości prądu i napięcia\r",
+      "c": "zamiana prądu przemiennego na jednokierunkowy\r",
+      "d": "zmiana wartości prądu i napięcia, praktycznie bez zmiany mocy\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "29. Autotransformator to\r",
+      "a": "transformator z automatyczną regulacją przekładni\r",
+      "b": "transformator z automatyczną stabilizacją napięcia wtórnego\r",
+      "c": "indukcyjny dzielnik napięcia\r",
+      "d": "transformator ze zmienianym napięciem pierwotnym\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "30. Zmienność napięcia w transformatorze to\r",
+      "a": "możliwość regulacji napięcia wtórnego przez zmianę przekładni\r",
+      "b": "zespół zjawisk wywołanych zmianami napięcia zasilającego\r",
+      "c": "kształt napięcia na wtórnym uzwojeniu transformatora\r",
+      "d": "zmiany napięcia wtórnego pod wpływem zmian obciążenia i jego charakteru.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "31. W stanie jałowym w transformatorze występują\r",
+      "a": "straty w rdzeniu oraz uzwojeniu pierwotnym i wtórnym\r",
+      "b": "tylko niewielkie straty w uzwojeniach\r",
+      "c": "nie występują żadne straty\r",
+      "d": "praktycznie tylko straty w rdzeniu\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "32. Napięcie zwarcia transformatora jest to:\r",
+      "a": "napięcie, które jest mierzone na zaciskach wtórnych transformatora podczas zwarcia ustalonego\r",
+      "b": "napięcie, które powoduje uszkodzenie izolacji uzwojeń skutkujące zwarciem międzyzwojowym\r",
+      "c": "napięcie, które przy zwartym uzwojeniu wtórnym powoduje przepływ prądów znamionowych\r",
+      "d": "napięcie zasilające transformator w stanie zwarcia.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "33. Przy jakim obciążeniu sprawność transformatora ma największą wartość ?\r",
+      "a": "przy zwarciu\r",
+      "b": "kiedy straty w uzwojeniach są równe stratom w rdzeniu\r",
+      "c": "przy biegu jałowym\r",
+      "d": "gdy w transformatorze płyną prądy znamionowe\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "34. Jakie warunki muszą spełniać transformatory przeznaczone do pracy równoległej ?\r",
+      "a": "muszą mieć takie same moce znamionowe\r",
+      "b": "muszą mieć takie same prądy znamionowe\r",
+      "c": "muszą mieć takie same napięcia wtórne i napięcia zwarcia\r",
+      "d": "muszą mieć takie same napięcia pierwotne i napięcia zwarcia\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "35. Olej w transformatorze służy przede wszystkim do\r",
+      "a": "poprawy chłodzenia\r",
+      "b": "zmniejszenia strat mocy\r",
+      "c": "wyciszenia\r",
+      "d": "zapobieganiu wpływom na środowisko\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "36. Jaka jest różnica między przekładnią zwojową i napięciową w transformatorze 1f?\r",
+      "a": "nie ma różnicy\r",
+      "b": "przekładnia zwojowa jest większa od napięciowej\r",
+      "c": "przekładnia zwojowa jest mniejsza od napięciowej\r",
+      "d": "realcja zależy od mocy transformatora\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "37. Połączenie zygzak uzwojeń transformatora 3f stosuje się:\r",
+      "a": "tylko w transformatorach małej mocy\r",
+      "b": "ma znaczenie historyczne, obecnie nie stosuje się\r",
+      "c": "tylko w transforamtorach niskonapięciowych'\r",
+      "d": "w przypadku przewidywanego nierównomiernego obciążenia faz\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "38. Jaka jest częstotliwość podstawowej harmonicznej dźwięku wydawanego przez pracujące transformatory?\r",
+      "a": "jest równa częstotliwości sieciowej\r",
+      "b": "jest równa podwójnej wartości częstotliwości sieciowej\r",
+      "c": "zależy od ilości faz transformatora\r",
+      "d": "zależy od konstrukcji fundamentu\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "39. Jeżeli z1 i z2 są liczbami zwojów uzwojeń fazowych napięcia górnego i dolnego transformatora 3f o przekładnia napięciowa 9=U1/U2 dla układu połączeń Yd jest:\r",
+      "a": "9=z1/z2\r",
+      "b": "9=z1/(sqrt(3)*z2)\r",
+      "c": "9=(sqrt(3)*z1)/z2\r",
+      "d": "9=2z1/3z2\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "40. O wartości impedancji zwarcia dużych transformatorów decydują:\r",
+      "a": "indukcyjności całkowite uzwojeń\r",
+      "b": "rezystancje uzwojeń\r",
+      "c": "reaktancja tzw. magnesująca\r",
+      "d": "reaktancje rozproszenia uzwojeń\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "41. Mocą znamionową autotransformatora jest:\r",
+      "a": "jego moc przechodnia\r",
+      "b": "jego moc własna\r",
+      "c": "suma mocy własnej i przechodniej\r",
+      "d": "średnia mocy własnej i przechodniej\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "42. Prąd biegu jałowego typowego transformatora energetycznego, przy zasilaniu napięciem znamionowym, wynosi:\r",
+      "a": "poniżej 5% prądu znamionowego\r",
+      "b": "około 10% prądu znamionowego\r",
+      "c": "około 30% prądu znamionowego\r",
+      "d": "około 50% prądu znamionowego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "43. W stanie ustalonym straty mocy w rdzeniu transformatora zależą od wartości skutecznej U sinusoidalnego napięcia zasilającego i jego częstotliwości f w następujący sposób:\r",
+      "a": "delta P(Fe)~U^(1,5-1,7), delta P (Fe) ~f^2\r",
+      "b": "delta P(Fe)~U^2, delta P(Fe)~f^(1,5: 1,7)\r",
+      "c": "delta P(Fe)~U, delta P (Fe) ~f^2\r",
+      "d": "delta P(Fe)~U, delta P (Fe) ~f\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "44. Pomijając efekt naskórkowości i tzw. straty dodatkowe, straty mocy w uzwojeniach transformatora zależą od wartości skutecznej I sinusoidalnego prądu transformatora i jego częstotliwości f w następujący sposób:\r",
+      "a": "P(Cu)~I^2, delta P(Cu)~f^(2)\r",
+      "b": "P(Cu)~I^2, delta P(Cu)~f\r",
+      "c": "delta P(Cu)~I^2, delta P(Cu)~f^(0) (nie zależą od częstotliwości)\r",
+      "d": "P(Cu)~I, delta P(Cu)~f^(2)\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "45. Transformator 6000/400V obciążony jest prądem znamionowym przy cos? ? 0poj. Jakie napięcie ustali się na uzwojeniach strony wtórnej, jeśli napięcie zwarcia wynosi 5%, a strona pierwotna zasilana jest napięciem znamionowym?\r",
+      "a": "ok. 420V\r",
+      "b": "ok. 380V\r",
+      "c": "ok.400V\r",
+      "d": "ok.410V\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "46. Reaktancja rozproszenia transformatora\r",
+      "a": "jest związana ze stratami mocy w transformatorze („rozpraszania energii”)\r",
+      "b": "jest równa impedancji zwarcia\r",
+      "c": "ma bezpośredni wpływ na zmienność napięcia\r",
+      "d": "jej wpływ na własności eksploatacyjne jest praktycznie do pominięcia\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "47. Transformatory dobrane prawidłowo do pracy równoległej obciążają się:\r",
+      "a": "proporcjonalnie do swoich napięć zwarcia\r",
+      "b": "proporcjonalnie do swoich mocy znamionowych\r",
+      "c": "proporcjonalnie do odwrotności swoich impedancji zwarcia\r",
+      "d": "proporcjonalnie do swoich impedancji zwarcia\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "48. Maszyny indukcyjne klatkowe typowo do pracy silnikowej zasilane są napięciem:\r",
+      "a": "przemiennym trójfazowym\r",
+      "b": "wyprostowanym z prostownika trójfazowego\r",
+      "c": "liniowo narastającym\r",
+      "d": "stałym z baterii akumulatorów\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "49. Prędkość biegu jałowego maszyny indukcyjnej klatkowej jest przede wszystkim określona przez:\r",
+      "a": "częstotliwość napięcia zasilającego i liczbę par biegunów\r",
+      "b": "amplitudę napięcia zasilającego i jego kształt\r",
+      "c": "wartość skuteczną napięcia zasilającego\r",
+      "d": "wartość prądu zasilającego maszynę\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "50. Prąd rozruchowy maszyny indukcyjnej ogranicza się przez:\r",
+      "a": "włączenie początkowo tylko jednej fazy\r",
+      "b": "zahamowanie przez pewien czas wirnika\r",
+      "c": "obniżenie napięcia na początku rozruchu\r",
+      "d": "podanie na jedną fazę uzwojenia napięcia stałego, a na pozostałe zmiennego\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "51. Poślizg maszyny indukcyjnej to:\r",
+      "a": "ślizganie się wirnika maszyny po powierzchni stojana\r",
+      "b": "względna prędkość wirnika w stosunku do stojana\r",
+      "c": "różnica prędkości pola wirującego i wirnika, odniesiona do prędkości pola\r",
+      "d": "prędkość obwodowa czopa wału w maszynie o łożyskach ślizgowych\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "52. Energia elektryczna przetwarzana w maszynie indukcyjnej w energię mechaniczną jest przekazywana ze stojana do wirnika:\r",
+      "a": "poprzez korpus stojana i łożyska na wał\r",
+      "b": "przez powietrze za pośrednictwem pola magnetycznego w szczelinie\r",
+      "c": "przez oddziaływanie elektrostatyczne ładunków w stojanie na wirnik\r",
+      "d": "przez promieniowanie cieplne rozgrzanego stojana\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "53. Prąd pobierany na biegu jałowym maszyny indukcyjnej jest potrzebny do:\r",
+      "a": "ogrzania wstępnego silnika przed obciążeniem go momentem zewnętrznym\r",
+      "b": "naprężenia mechanicznego blach, co zapobiega ich rozsypaniu się pod obciążeniem\r",
+      "c": "tylko wytworzenia ruchu powietrza chłodzącego silnik\r",
+      "d": "wytworzenia pola magnetycznego i pokrycia wszystkich strat mocy w tym stanie\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "54. Moment obrotowy działający na wirnik maszyny indukcyjnej jest wynikiem:\r",
+      "a": "oddziaływania napięcia na zaciskach stojana z prądem w obwodach wirnika\r",
+      "b": "istnienia sił promieniowego naciągu magnetycznego działającego na wirnik\r",
+      "c": "istnienia stycznych do zewnętrznej powierzchni wirnika sił magnetycznych\r",
+      "d": "oddziaływania ładunków elektrycznych zgromadzonych w uzwojeniach stojana i wirnika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "55. Po załączeniu napięcia trójfazowego na stojący indukcyjny silnik klatkowy prąd w obwodach stojana:\r",
+      "a": "wzrasta wraz ze wzrostem prędkości obrotowej wirnika\r",
+      "b": "nieznacznie zależy od prędkości obrotowej wirnika w całym zakresie zmian prędkości\r",
+      "c": "znacznie maleje w pobliżu prędkości synchronicznej\r",
+      "d": "ma maksymalną wartość przy połowie prędkości synchronicznej\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "56. Zasilanie z falownika uzwojeń stojana maszyny indukcyjnej stosujemy, aby:\r",
+      "a": "spowodować falowanie prędkości obrotowej dookoła wartości średniej\r",
+      "b": "umożliwić dowolną zmianę prędkości obrotowej silnika, także zmianę kierunku obrotów\r",
+      "c": "wytworzyć zmienną składową momentu elektromagnetycznego\r",
+      "d": "wytworzyć falę pola magnetycznego równoległą do osi maszyny\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "57. Moment maksymalny silnika indukcyjnego pierścieniowego można zwiększyć:\r",
+      "a": "zwiększając rezystancję włączoną do obwodów wirnika\r",
+      "b": "zwiększając rezystancję włączoną do obwodów stojana\r",
+      "c": "zwiększając indukcyjność włączoną do obwodów wirnika\r",
+      "d": "zwiększając wartość napięcia zasilającego stojan\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "58. Prędkość synchroniczną silnika indukcyjnego można zwiększyć:\r",
+      "a": "zwiększając rezystancję włączoną do obwodów wirnika\r",
+      "b": "zwiększając rezystancję włączoną do obwodów stojana\r",
+      "c": "zwiększając indukcyjność włączoną do obwodów wirnika\r",
+      "d": "zwiększając częstotliwość napięcia zasilającego stojan\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "59. Który z poniższych wykresów przedstawia ch-kę mechaniczną silnika indukcyjngo:\r",
+      "a": "taka górka wyglądająca jak ch-ka mechaniczna silnika indukcyjnego lol\r",
+      "b": "praktycznie pozioma kreska\r",
+      "c": "coś jak 1/x\r",
+      "d": "pionowa kreska\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "60. Po zasileniu prądem stałym uzwojenia stojana obracającego się klatkowego silnika indukcyjnego:\r",
+      "a": "jego prędkość zacznie szybko zmniejszać się, aż do zatrzymania\r",
+      "b": "jego prędkość nie zmieni się istotnie\r",
+      "c": "jego zmiana prędkości będzie zależeć od kierunku prądu\r",
+      "d": "zacznie pracować jako generator przy stałej prędkości obrotowej\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "61. Jak zmieni się sprawność znamionowa silnika indukcyjnego klatkowego, jeżeli uzwojenie wirnika będzie wykonane z miedzi zamiast aluminium?\r",
+      "a": "nie zmieni się\r",
+      "b": "zwiększy się\r",
+      "c": "zmniejszy się.\r",
+      "d": "zmiana zależy od współczynnika mocy silnika\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "62. Który z poniższych sposobów rozruchu jest najczęściej stosowany w przypadku silników indukcyjnych klatkowych o mocy znamionowej kilkuset kW?\r",
+      "a": "bezpośredni\r",
+      "b": "przełącznik gwiazda-trójkąt\r",
+      "c": "pręty klatki wirnika o zwiększonej wysokości\r",
+      "d": "soft-start\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "63. Z jaką częstotliwością obrotową będzie wirował wirnik silnika indukcyjnego pierścieniowego mającego p par biegunów i zasilanego od strony stojana napięciem o częstotliwości f1 oraz od strony wirnika - f2, w przypadku zgodności obu pól wirujących?\r",
+      "a": "60f1/p\r",
+      "b": "60f2/p\r",
+      "c": "60(f1- f2)/p\r",
+      "d": "60(f1+ f2)/p\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "64. Kiedy silnik indukcyjny trójfazowy będzie pracował przy zasilaniu z sieci jednofazowej?\r",
+      "a": "nie ma takiej możliwości\r",
+      "b": "trzy fazy stojana należy połączyć szeregowo\r",
+      "c": "trzy fazy stojana należy połączyć równolegle\r",
+      "d": "kąt przesunięcia fazowego między prądami w uzwojeniach fazowych musi być różny od zera\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "65. Jaka jest relacja między wartościami ekstremalnymi charakterystyki mechanicznej rzeczywistego silnika indukcyjnego, Ts,max dla pracy silnikowej i Tg,min dla pracy generatorowej?\r",
+      "a": "|Ts,max |= |Tg,min|\r",
+      "b": "|Ts,max |> |Tg,min|\r",
+      "c": "|Ts,max |< |Tg,min|\r",
+      "d": "relacja zależy od mocy znamionowej silnika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "66. Po zmniejszeniu częstotliwości napięcia zasilającego, moment maksymalny silnika indukcyjnego:\r",
+      "a": "zwiększy się\r",
+      "b": "pozostanie bez zmian\r",
+      "c": "zmniejszy się\r",
+      "d": "zmiana zależy od tego, czy uzwojenie wirnika jest pierścieniowe czy klatkowe\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "67. Jaki jest wpływ dodatkowej rezystancji w obwodzie wirnika silnika indukcyjnego pierścieniowego na moment rozruchowy i prąd rozruchowy\r",
+      "a": "moment i prąd zmniejszą się\r",
+      "b": "moment zwiększy się, prąd zmniejszy się\r",
+      "c": "moment zmniejszy się, prąd zwiększy się\r",
+      "d": "moment i prąd zwiększą się\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "68. Jaki jest wpływ dodatkowej rezystancji w obwodzie wirnika silnika indukcyjnego pierścieniowego na moment maksymalny i poslizg krytyczny\r",
+      "a": "moment nie zmieni się, poślizg wzrośnie\r",
+      "b": "moment i poślizg nie zmienią się\r",
+      "c": "moment i poślizg wzrosną\r",
+      "d": "moment zmaleje, poślizg wzrośnie\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "69. Zmianę kierunku wirowania silnika indukcyjnego uzyskuje się:\r",
+      "a": "zmieniając sposób zasilania uzwojeń (np. zaciski X, Y, Z zamiast U, V, W)\r",
+      "b": "przełączając zaciski tylko jednego z uzwojeń stojana (ich zamianę ze sobą, np. U z X )\r",
+      "c": "zmieniając kolejność zasilania uzwojeń (np. faza R z zacisku U na V i faza S z V na U)\r",
+      "d": "zmieniając kolejność faz zasilania uzwojeń (np. faza R z S)\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "70. Amplituda strumienia magnetycznego w obwodzie magentycznym maszyn prądu przemiennego zależy przede wszystkim od:\r",
+      "a": "amplitudy napięcia przemiennego zasilającego uzwojenia i jego pulsacji\r",
+      "b": "amplitudy prądu płynącego w uzwojeniach\r",
+      "c": "wielkości i ilości szczelin powietrznych w obwodzie magnetycznym maszyny\r",
+      "d": "stopnia nasycenia obwodu magnetycznego maszyny\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "71. Prąd rozruchowy silnika indukcyjnego klatkowego zasilonego nominalnym napięciem wynosi:\r",
+      "a": "od 4 do 8 prądów znamionowych\r",
+      "b": "około 2 prądów znamionowych\r",
+      "c": "jest zbliżony do prądu znamionowego\r",
+      "d": "jest mniejszy od prądu znamionowego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "72. Prąd biegu jałowego typowego silnika indukcyjnego, przy zasilaniu znamionowym, wynosi około:\r",
+      "a": "5% prądu znamionowego\r",
+      "b": "15% prądu znamionowego\r",
+      "c": "30% prądu znamionowego\r",
+      "d": "80% prądu znamionowego\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "73. Maksymalny moment obrotowy działający na wirnik maszyny indukcyjnej klatkowej zależy:\r",
+      "a": "liniowo od wartości napięcia zasilającego uzwojenia stojana\r",
+      "b": "kwadratowo od napięcia zasilającego uzwojenia stojana\r",
+      "c": "proporcjonalnie do pierwiastka drugiego stopnia z wartości napięcia zasilającego uzwojenia stojana\r",
+      "d": "w ogóle nie zależy od wartości napięcia\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "74. Reaktancja rozproszenia uzwojeń stojana\r",
+      "a": "służy do określenia strat mocy w silniku („rozpraszania energii”)\r",
+      "b": "jej wzrost powiększa jedynie poślizg krytyczny\r",
+      "c": "ma bezpośredni wpływ na wartość rozwijanego momentu maksymalnego\r",
+      "d": "jej wpływ na własności eksploatacyjne silnika jest praktycznie do pominięcia\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "75. Indukcyjność rozproszenia uzwojeń stojana i wirnika\r",
+      "a": "wpływa istotnie na wielkość prądu rozruchowego\r",
+      "b": "jej wzrost powiększa jedynie poślizg krytyczny\r",
+      "c": "jej wzrost powiększa wartość rozwijanego momentu maksymalnego\r",
+      "d": "wpływa istotnie na wielkość prądu biegu jałowego\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "76. Maksymalny moment obrotowy działający na wirnik maszyny indukcyjnej klatkowej zależy:\r",
+      "a": "liniowo od częstotliwości napięcia przemiennego zasilającego uzwojenia stojana\r",
+      "b": "odwrotnie proporcjonalnie do częstotliwości napięcia przemiennego zasilającego uzwojenia stojana\r",
+      "c": "odwrotnie proporcjonalnie do kwadratu częstotliwości napięcia przemiennego zasilającego uzwojenia stojana\r",
+      "d": "w ogóle nie zależy od częstotliwości napięcia\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "77. Powiększenie rezystancji uzwojeń wirnika silnika indukcyjnego:\r",
+      "a": "zwiększa moment maksymalny rozwijany przez silnik\r",
+      "b": "zmniejsza moment maksymalny rozwijany przez silnik\r",
+      "c": "wpływa nieznacznie na moment maksymalny rozwijany przez silnik i praktycznie jej wpływ można pominąć\r",
+      "d": "w ogóle nie wpływa na moment maksymalny\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "78. Rezystancja uzwojeń stojana maszyny indukcyjnej:\r",
+      "a": "zwiększa moment maksymalny rozwijany przy pracy silnikowej i zmniejsza rozwijany przy pracy prądnicowej\r",
+      "b": "zwiększa moment maksymalny rozwijany przy pracy prądnicowej i zmniejsza rozwijany przy pracy silnikowej\r",
+      "c": "zmniejsza moment maksymalny rozwijany przy pracy silnikowej i prądnicowej\r",
+      "d": "w ogóle nie wpływa na moment maksymalny\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "79. W schemacie zastępczym maszyny indukcyjnej prędkość obrotową wirnika uwzględnia się:\r",
+      "a": "dzieląc wartość rezystancji wirnika przez poślizg\r",
+      "b": "dzieląc wartość reaktancji wirnika przez poślizg\r",
+      "c": "mnożąc wartość rezystancji wirnika przez poślizg\r",
+      "d": "mnożąc wartość reaktancji magnesującej przez poślizg\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "80. Maszyna indukcyjna wydaje moc czynną do sieci (praca generatorowa):\r",
+      "a": "gdy wirnik obraca się szybciej niż pole wirujące w tym samym kierunku\r",
+      "b": "gdy wirnik obraca się w kierunku przeciwnym niż pole wirujące\r",
+      "c": "gdy w obwody wirnika włączone są pojemności\r",
+      "d": "gdy poślizg krytyczny jest większy od 1\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "81. Silnik indukcyjny wytwarza moc mechaniczną 250kW wirując z poślizgiem s = 0,1. Straty w uzwojeniach wirnika wynoszą:\r",
+      "a": "25kW\r",
+      "b": "27,8kW\r",
+      "c": "2,5kW\r",
+      "d": "5kW\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "82. Silnik indukcyjny ma znamionową przeciążalność 2 i poślizg krytyczny 0,1. Poślizg znamionowy silnika wynosi:\r",
+      "a": "0.0268\r",
+      "b": "0,373\r",
+      "c": "0,025\r",
+      "d": "0,05\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "83. Czas rozruchu silnika indukcyjnego zależy od:\r",
+      "a": "napięcia zasilającego silnik, momentu bezwładności całego napędu i momentu obciążenia silnika,\r",
+      "b": "napięcia zasilającego silnik i momentu bezwładności całego napędu, a NIE zależy od momentu obciążenia silnika,\r",
+      "c": "napięcia zasilającego silnik i momentu obciążenia silnika, a NIE zależy od momentu bezwładności całego napędu,\r",
+      "d": "momentu bezwładności całego napędu i momentu obciążenia silnika, a NIE zależy od napięcia zasilającego silnik.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "84. Użycie przełącznika Y / ? do rozruchu silnika indukcyjnego klatkowego powoduje:\r",
+      "a": "około 3-krotne podwyższenie momentu rozruchowego silnika bez zmiany jego prądu rozruchowego,\r",
+      "b": "około 3-krotne obniżenie prądu rozruchowego silnika bez zmiany jego momentu rozruchowego,\r",
+      "c": "około ?3-krotne obniżenie prądu rozruchowego silnika i również około ?3-krotne obniżenie jego momentu rozruchowego,\r",
+      "d": "około 3-krotne obniżenie prądu rozruchowego silnika i również około 3-krotne obniżenie jego momentu rozruchowego.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "85. Zdecydowana większość energii elektrycznej w Polsce wytwarzana jest w:\r",
+      "a": "generatorach synchronicznych cylindrycznych wzbudzanych magnesami trwałymi\r",
+      "b": "generatorach synchronicznych cylindrycznych wzbudzanych uzwojeniem zasilanym prądem stałym\r",
+      "c": "generatorach synchronicznych jawnobiegunowych wzbudzanych magnesami trwałymi\r",
+      "d": "generatorach synchronicznych jawnobiegunowych wzbudzanych uzwojeniami zasilanymi prądem stałym\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "4.86. Sinusoidalne przebiegi napięć trójfazowych, wytwarzanych w generatorach synchronicznych uzyskuje się i utrzymuje ich charakter przy obciążeniu generatora dzięki:\r",
+      "a": "odpowiedniemu rozkładowi uzwojeń twornika i wzbudzenia oraz właściwym wymiarom szczeliny powietrznej,\r",
+      "b": "stałemu prądowi w uzwojeniu wzbudzenia,\r",
+      "c": "3-fazowym uzwojeniom twornika oraz symetrycznym 3-fazowym prądom tych uzwojeń,\r",
+      "d": "spełnieniu wszystkich trzech warunków (a, b, c) równocześnie\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "87. Generatory synchroniczne w jednej sieci elektroenergetycznej:\r",
+      "a": "mogą mieć prędkość wirowania zmienną w zakresie 5%\r",
+      "b": "mają dokładnie taką samą średnią prędkość wirowania\r",
+      "c": "mogą mieć prędkość wirowania zmienną w zakresie 10%\r",
+      "d": "mogą mieć średnią prędkość wirowania zmienną w zakresie 1%\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "88. Odbiorniki o charakterze czysto pojemnościowym dołączone do generatora synchronicznego w początkowym zakresie prądów obciążenia:\r",
+      "a": "zwiększają napięcie na zaciskach generatora\r",
+      "b": "zmniejszają napięcie na zaciskach generatora\r",
+      "c": "nie mają wpływu na napięcie na zaciskach generatora\r",
+      "d": "zmieniają częstotliwość napięcia na zaciskach generatora\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "89. Wewnętrzny kąt mocy w maszynie synchronicznej jest to:\r",
+      "a": "kąt pomiędzy osią wypadkowego pola wirującego i podłużną osią symetrii wirnika maszyny\r",
+      "b": "kąt pomiędzy napięciem i prądem zasilającym stojan maszyny\r",
+      "c": "kąt położenia wirnika maszyny względem stojana\r",
+      "d": "kąt pomiędzy osią wypadkowego przepływu twornika i podłużną osią symetrii wirnika maszyny\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "90. Maszyna synchroniczna jest przewzbudzona jeśli:\r",
+      "a": "uzwojenie wzbudzenia maszyny jest przeciążone prądowo\r",
+      "b": "maszyna wydaje moc bierną indukcyjną do sieci\r",
+      "c": "maszyna pracuje obciążona momentem większym od znamionowego\r",
+      "d": "stojan maszyny jest zasilany napięciami wyższymi niż znamionowe\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "91. Moc bierną w maszynie synchronicznej można regulować\r",
+      "a": "poprzez zmianę prędkości obrotowej maszyny\r",
+      "b": "poprzez zmianę częstotliwości napięcia zasilającego stojan\r",
+      "c": "poprzez zmianę prądu wzbudzenia\r",
+      "d": "poprzez zmianę obciążenia maszyny\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "92. Zwarte obwody wirnika w generatorze synchronicznym mają na celu:\r",
+      "a": "zwiększenie mocy maszyny,\r",
+      "b": "podniesienie przeciążalności statycznej,\r",
+      "c": "poprawę sprawności,\r",
+      "d": "ograniczenie kołysań kąta mocy i prędkości obrotowej maszyny, tłumienie elektrycznych stanów przejściowych.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "93. Uzwojenia w trójfazowych silnikach synchronicznych są zasilane:\r",
+      "a": "uzwojenia wzbudzenia i uzwojenia twornika trójfazowymi napięciami przemiennymi,\r",
+      "b": "uzwojenie wzbudzenia napięciem stałym, uzwojenia twornika trójfazowymi napięciami przemiennymi,\r",
+      "c": "uzwojenie wzbudzenia napięciem przemiennym, uzwojenia twornika trójfazowymi napięciami przemiennymi,\r",
+      "d": "uzwojenia mogą być zasilane dowolnymi rodzajami napięć.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "94. Jakie są własności rozruchowe silnika synchronicznego?\r",
+      "a": "ma bardzo dobre własności rozruchowe dzięki uzwojeniu wzbudzenia,\r",
+      "b": "jest w stanie dokonać samorozruch, po wbudowaniu do wirnika klatki rozruchowej,\r",
+      "c": "rusza, ale wymaga znacznego podwyższenia napięcia zasilającego uzwojenie wirnika,\r",
+      "d": "dokonuje samorozruch, ale wymaga podwyższenia napięcia zasilającego uzwojenia stojana.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "95. Który z poniższych wykresów przedstawia charakterystykę mechaniczną silnika synchronicznego: a, b, c czy d ?\r",
+      "a": "fas\r",
+      "b": "fasd\r",
+      "c": "fdas\r",
+      "d": "____|____\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "96. Jaka jest główna przyczyna cylindrycznego kształtu wirników turbogeneratorów?\r",
+      "a": "łatwiejsza konserwacja\r",
+      "b": "korzystny rozkład pola w szczelinie\r",
+      "c": "większa wytrzymałość mechaniczna przy dużych prędkościach obrotowych\r",
+      "d": "mniejszy koszt wykonania\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "4.97. Jaka jest główna przyczyna dużej średnicy wirnika hydrogeneratorów\r",
+      "a": "bardziej stabilna praca\r",
+      "b": "mniejszy hałas\r",
+      "c": "lepsza wentylacja\r",
+      "d": "uzwojenie stojana o wielu parach biegunów\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "98. Co oznacza ciągłe wygaszenie żarówek w czasie synchronizacji „na ciemno” generatora synchronicznego z siecią?\r",
+      "a": "odpowiednie napięcia fazowe sieci i generatora są w przeciwfazie\r",
+      "b": "funkcje odpowiednich napięć fazowych sieci i generatora są identyczne\r",
+      "c": "kąty przesunięcia fazowego między odpowiednimi napięciami fazowymi sieci i generatora są równe zero\r",
+      "d": "amplitudy odpowiednich napięć fazowych sieci i generatora są identyczne\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "99. Jaka jest zależność ustalonego prądu zwarcia generatora synchronicznego od jego prędkości obrotowej?\r",
+      "a": "monotonicznie rośnie wraz ze wzrostem prędkości\r",
+      "b": "monotonicznie maleje wraz ze wzrostem prędkości\r",
+      "c": "na początku rośnie, potem maleje\r",
+      "d": "na początku rośnie, potem jest praktycznie stały\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "100. Jakie parametry modelu maszyny synchronicznej wyznaczamy z próby zwarcia udarowego?\r",
+      "a": "reaktancje dla osi d\r",
+      "b": "reaktancje dla osi q\r",
+      "c": "reaktancje klatek tłumiących\r",
+      "d": "reaktancję rozproszenia uzwojenia fazowego stojana.\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "101. Jaka jest główna przyczyna, że wirniki silników synchronicznych są jawnobiegunowe?\r",
+      "a": "lepsza wentylacja\r",
+      "b": "większa przeciążalność momentem\r",
+      "c": "mniejszy koszt wytwarzania\r",
+      "d": "mniejszy hałas.\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "4.102. W czasie rozruchu silnik synchroniczny utknął około połowy prędkości synchronicznej. Co można zrobić, aby ułatwić i dokończyć rozruch?\r",
+      "a": "zewrzeć opór rozruchowy w uzwojeniu wzbudzenia\r",
+      "b": "rozewrzeć uzwojenie wzbudzenia\r",
+      "c": "zmniejszyć napięcie zasilające\r",
+      "d": "nic nie można zrobić, należy wyłączyć silnik, znaleźć i usunąć przyczynę. (chuj wiadomo, efekt Gorgesa, rezystancja zwierająca jest za mała)\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "4.103. Czy silnik synchroniczny może pracować po przerwaniu obwodu wzbudzenia?\r",
+      "a": "tak\r",
+      "b": "nie\r",
+      "c": "po obniżeniu obciążenia, jeżeli silnik jest jawnobiegunowy\r",
+      "d": "po obniżeniu obciążenia, jeżeli silnik jest cylindryczny.\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "104. Maszyna synchroniczna jawnobiegunowa różni się od cylindrycznej:\r",
+      "a": "kształtem obwodu magnetycznego twornika,\r",
+      "b": "kształtem obwodu magnetycznego twornika i wzbudzenia,\r",
+      "c": "topologią uzwojenia twornika,\r",
+      "d": "kształtem obwodu magnetycznego wzbudzenia.\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "105. Sinusoidalne przebiegi napięć trójfazowych, wytwarzanych w generatorach synchronicznychuzyskuje się i utrzymuje ich charakter przy obciążeniu generatora dzięki:\r",
+      "a": "odpowiedniemu rozkładowi uzwojeń twornika i wzbudzenia oraz właściwym wymiarom szczeliny powietrznej,\r",
+      "b": "stałemu prądowi w uzwojeniu wzbudzenia,\r",
+      "c": "3-fazowym uzwojeniom twornika oraz symetrycznym 3-fazowym prądom tych uzwojeń,\r",
+      "d": "spełnieniu wszystkich trzech warunków równocześnie\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "106. Maksymalny moment elektromagnetyczny działający na wirnik maszyny synchronicznej cylindrycznej (w stanie ustalonym) zależy:\r",
+      "a": "liniowo od wartości napięcia zasilającego uzwojenia stojana\r",
+      "b": "od kwadratu napięcia zasilającego uzwojenia stojana\r",
+      "c": "od pierwiastka drugiego stopnia wartości napięcia zasilającego uzwojenia stojana\r",
+      "d": "w ogóle nie zależy od wartości napięcia\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "107. Maksymalny moment elektromagnetyczny działający na wirnik maszyny synchronicznej cylindrycznej (w stanie ustalonym) zależy:\r",
+      "a": "liniowo od częstotliwości napięcia przemiennego zasilającego uzwojenia stojana\r",
+      "b": "odwrotnie proporcjonalnie do częstotliwości napięcia przemiennego zasilającego uzwojenia stojana\r",
+      "c": "odwrotnie proporcjonalnie do kwadratu częstotliwości napięcia przemiennego zasilającego uzwojenia stojana\r",
+      "d": "w ogóle nie zależy od częstotliwości napięcia\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "108. Moment elektromagnetyczny działający na wirnik maszyny synchronicznej cylindrycznej (w stanie ustalonym) zależy:\r",
+      "a": "liniowo od wartości kąta mocy\r",
+      "b": "od sinusa kąta mocy\r",
+      "c": "od cosinusa kąta mocy\r",
+      "d": "w ogóle nie zależy od wartości kąta mocy\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "109. Reaktancja rozproszenia uzwojeń twornika maszyny synchronicznej:\r",
+      "a": "jest składnikiem reaktancji synchronicznej\r",
+      "b": "ma bezpośredni i znaczący wpływ na zmienność napięcia generatora\r",
+      "c": "ma bezpośredni i znaczący wpływ na maksymalną wartość rozwijanego momentu\r",
+      "d": "jej wpływ na własności eksploatacyjne generatora jest praktycznie do pominięcia\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "110. Ustalony prąd zwartych uzwojeń twornika maszyny synchronicznej zależy:\r",
+      "a": "liniowo od prędkości obrotowej wirnika\r",
+      "b": "odwrotnie proporcjonalnie do prędkości obrotowej wirnika\r",
+      "c": "nie zależy od prędkości obrotowej wirnika w szerokim zakresie zmian tej prędkości\r",
+      "d": "w ogóle nie zależy od prędkości\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "111. Napięcie indukowane w tworniku na biegu jałowym generatora synchronicznego zależy:\r",
+      "a": "liniowo od prędkości obrotowej wirnika\r",
+      "b": "od kwadratu prędkości obrotowej wirnika\r",
+      "c": "nie zależy od prędkości obrotowej wirnika w szerokim zakresie zmian tej prędkości\r",
+      "d": "w ogóle nie zależy od prędkości wirnika\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "112. Zwarte obwody wirnika w silniku synchronicznym mają na celu przede wszystkim:\r",
+      "a": "zwiększenie mocy maszyny,\r",
+      "b": "podniesienie przeciążalności statycznej,\r",
+      "c": "umożliwienie regulacji prędkości,\r",
+      "d": "umożliwienie samorozruchu silnika\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "113. Zwarte obwody wirnika w jawnobiegunowym silniku synchronicznym:\r",
+      "a": "tworzą pręty umieszczone w nabiegunnikach, zwarte pierścieniami poza nabiegunnikiem\r",
+      "b": "są uzwojeniem umieszczonym na biegunach, podobnie jak uzwojenie wzbudzenia, zwartym zewnętrznym łącznikiem na czas rozruchu silnika\r",
+      "c": "są uzwojeniem umieszczonym na biegunach, podobnie jak uzwojenie wzbudzenia, zwartym na trwałe zewnętrznym łącznikiem\r",
+      "d": "są wykonaną podobnie, jak w silniku indukcyjnym, aluminiową klatką powstałą w wyniku zalania żłobków ciekłym aluminium\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "114. Wirniki dwubiegunowych generatorów synchronicznych\r",
+      "a": "są odkutymi stalowymi walcami z wyfrezowanymi żłobkami\r",
+      "b": "są walcami spakietowanymi ze stalowych blach prądnicowych\r",
+      "c": "mają dwa lite stalowe bieguny przymocowane do odkutego stalowego jarzma\r",
+      "d": "mają dwa blachowane bieguny przymocowane do odkutego stalowego jarzma\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "115. Samosynchronizacja i synchronizacja dokładnia generatora synchronicznego z siecią eneretyczną różnią się zasadniczo:\r",
+      "a": "kolejnością załączenia uzwojeń twornika i wzbudzenia\r",
+      "b": "tylko czasem trwania procesów łączeniowych\r",
+      "c": "przeznaczenie (w zależności od jawnych lub utajonych biegunów)\r",
+      "d": "przeznaczeniem (w zależności od wysokości napięcia znaionowego)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "116. Jawnobiegunowy silnik synchroniczny niewzbudzony, przy prędkości wirnika równej prędkości wirowania pola:\r",
+      "a": "nie wytwarza momentu\r",
+      "b": "wytwarza moment jeśli posiada klatkę rozruchową\r",
+      "c": "wytwarza moment zależny od kwadratu napięcia zasilającego uzwojenia stojana\r",
+      "d": "wytwarza moment zależny liniowo od napięcia zasilającego uzwojenia stojana\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "117. Typowa maszyna synchroniczna jawnobiegunowa przy trójfazowo zasilonym tworniku i wyłączonym wzbudzeniu:\r",
+      "a": "nie jest zdolna do wytworzenia momentu elektromagnetycznego\r",
+      "b": "wytwarza momenty przemienne, o wartości średniej równej 0\r",
+      "c": "wytwarza moment stały rzędu 20-30% momentu znamionowego\r",
+      "d": "może wytworzyć moment stały zbliżony do znamionowego\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "118. Prąd pobierany przez nieobciążony jawnobiegunowy silnik synchroniczny niewzbudzony, przy prędkości wirnika równej prędkości wirowania pola, zależy bezpośrednio od wartości napięcia zasilającego uzwojenia stojana oraz :\r",
+      "a": "reaktancji synchronicznej podłużnej\r",
+      "b": "reaktancji synchronicznej poprzecznej\r",
+      "c": "średniej arytmetycznej reaktancji synchronicznych podłużnej i poprzecznej\r",
+      "d": "średniej geometycznej reaktancji synchronicznych podłużnej i poprzecznej\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "119. Napięcie znamionowe (fazowe) jawnobiegunowego generatora synchronicznego wynosi 252V, reaktancja synchroniczna podłużna 10, reaktancja synchroniczna poprzeczna 7. Ile wynosi ustalony prąd zwarcia tego generatora, jeśli wzbudzony jest prądem wywołującym na biegu jałowym sem równą napięciu znamionowemu:\r",
+      "a": "25,2A\r",
+      "b": "36A\r",
+      "c": "29,65A\r",
+      "d": "20,6A\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "120. Maszyny komutatorowe w połączeniu szeregowym mogą być zasilane:\r",
+      "a": "tylko napięciem stałym\r",
+      "b": "tylko napięciem jednofazowym przemiennym\r",
+      "c": "napięciem stałym i jednofazowym przemiennym\r",
+      "d": "tylko napięciem trójfazowym przemiennym\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "121. Prędkość obrotową silnika komutatorowego obcowzbudnego reguluje się zmieniając :\r",
+      "a": "częstotliwość napięcia zasilającego wirnik\r",
+      "b": "wartość napięcia stałego zasilającego wirnik\r",
+      "c": "częstotliwość napięcia zasilającego obwód wzbudzenia\r",
+      "d": "kształt napięcia przemiennego zasilającego obwód wzbudzenia\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "122. Szczotki w maszynie komutatorowej ustawia się tak, aby pole wirnika było prostopadłe do pola stojana, gdyż wtedy:\r",
+      "a": "moment elektromagnetyczny jest maksymalny przy danych prądach\r",
+      "b": "można pominąć oddziaływanie wirnika\r",
+      "c": "drgania maszyny są najmniejsze\r",
+      "d": "napięcia między szczotkami są najmniejsze\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "123. Silnik komutatorowy w połączeniu szeregowym nie można pozostawić bez odpowiedniego obciążenia na wale, gdyż:\r",
+      "a": "może zacząć obracać się w niewłaściwą stronę\r",
+      "b": "jego prędkość obrotowa osiągnie zbyt dużą wartość\r",
+      "c": "prąd pobierany przez silnik zbyt wzrośnie\r",
+      "d": "utrudniona będzie komutacja\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "124. Kierunek wirowania silnika komutatorowego w połączeniu szeregowym zmienia się zmieniając:\r",
+      "a": "fazę napięcia przemiennego zasilającego silnik\r",
+      "b": "znak napięcia stałego zasilającego silnik\r",
+      "c": "wzajemne połączenie uzwojeń wirnika i stojana\r",
+      "d": "częstotliwość napięcia przemiennego zasilającego silnik\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "125. Prąd rozruchowy silnika komutatorowego obcowzbudnego ogranicza się przez:\r",
+      "a": "włączenie do obwodu wzbudzenia rezystancji szeregowej\r",
+      "b": "włączenie rezystancji równolegle do obwodu wzbudzenie\r",
+      "c": "włączenie rezystancji równolegle do obwodu wirnika\r",
+      "d": "włączenie rezystancji szeregowo do obwodu wirnika\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "126. Który z poniższych wykresów przedstawia charakterystykę mechaniczną silnika komutatorowego bocznikowego: a, b, c czy d ?\r",
+      "a": "_/\\ \r",
+      "b": "---\r",
+      "c": "\\ \r",
+      "d": "|\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "127. Który z poniższych wykresów przedstawia charakterystykę mechaniczną silnika komutatorowego szeregowego: a, b, c czy d ?\r",
+      "a": "_/\\ \r",
+      "b": "---\r",
+      "c": "\\ \r",
+      "d": "|\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "4.128. Prędkość obrotową silnika obcowzbudnego zwiększamy poprzez:\r",
+      "a": "zwiększenie rezystancji w obwodzie twornika\r",
+      "b": "zbocznikowanie obwodu wzbudzenia\r",
+      "c": "zmniejszenie napięcia wzbudzenia\r",
+      "d": "zmniejszenie napięcia twornika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "4.129. Prędkość obrotową silnika bocznikowego zwiększamy poprzez:\r",
+      "a": "zwiększenie rezystancji w obwodzie twornika\r",
+      "b": "zbocznikowanie obwodu wzbudzenia\r",
+      "c": "zwiększenie rezystancji w obwodzie wzbudzenia\r",
+      "d": "zmniejszenie napięcia twornika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "130. Napięcie twornika silnika bocznikowego zmniejszono o 30%. Prędkość obrotowa silnika dla idealnego biegu jałowego:\r",
+      "a": "zmaleje\r",
+      "b": "wzrośnie\r",
+      "c": "nie ulegnie zmianie\r",
+      "d": "będzie niestabilna\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "4.131. Przyczyną niewzbudzania się samowzbudnej prądnicy prądu stałego może być:\r",
+      "a": "brak remanentu obwodu magnetycznego wzbudzenia\r",
+      "b": "za mała oporność lub zwarcie obwodu elektrycznego wzbudzenia\r",
+      "c": "rozwarcie obwodu elektrycznego twornika\r",
+      "d": "za duża prędkość obrotowa\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "4.132. Silnikami wykonawczymi elektromagnetycznymi prądu stałego w automatyce są:\r",
+      "a": "silniki szeregowe\r",
+      "b": "silniki szeregowo-bocznikowe\r",
+      "c": "silniki bocznikowe\r",
+      "d": "silniki obcowzbudne\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "133. W klasycznym silnik obcowzbudnym stała czasowa obwodu twornika jest w odniesieniu do stałej czasowej obwodu wzbudzenia:\r",
+      "a": "wyraźnie mniejsza\r",
+      "b": "wyraźnie większa\r",
+      "c": "tego samego rzędu\r",
+      "d": "relacaja tych dwóch wartości jest zmienne i zależy od wielu czynnyków\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "134. Napięcie indukowane w tworniku maszyny komutatorowej, obraającym się w stałym polu biegunów głównych, zależy:\r",
+      "a": "liniowo od prędkości obrotowej wirnika\r",
+      "b": "od kwadratu prędkości obrotowej wirnika\r",
+      "c": "nie zależy prędkości obrotowej wirnika\r",
+      "d": "tylko od prądu twornika\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "135. Moment obrotowy działający na wirnik maszyny komutatorowej zależy:\r",
+      "a": "od wartości napięcia zasilającego uzwojenie twornika\r",
+      "b": "od kwadratu napięcia zasilającego uzwojenie twornika\r",
+      "c": "tylko od prądu twornika\r",
+      "d": "od prądu twornika oraz wielkości strumienia biegunów głównych\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "136. Bieguny komutacyjne maszyny komutatorowej:\r",
+      "a": "poprawiają sprawność maszyny\r",
+      "b": "powiększają moment rozwijany przez silnik\r",
+      "c": "wprowadzają dodatkową SEM indukowaną w obwodach komutujących\r",
+      "d": "zwiększają SEM indukowaną w tworniku przez pole biegunów głównych\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "137. W silniku skokowym prędkość obrotową regulujemy przez:\r",
+      "a": "zmianę napięcia zasilającego uzwojenia\r",
+      "b": "zmianę prądu zasilającego uzwojenia\r",
+      "c": "zmianę częstotliwości impulsów sterujących\r",
+      "d": "dodatkową rezystancję włączaną szeregowo do wirnika\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "138. Kąt obrotu wału silnika skokowego zależy od:\r",
+      "a": "wartości maksymalnej napięciowych impulsów sterujących\r",
+      "b": "wartości maksymalnej prądu zasilającego uzwojenia\r",
+      "c": "częstotliwości impulsów sterujących\r",
+      "d": "ilości impulsów sterujących\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "139. Częstotliwość graniczna silnika skokowego to najwyższa częstotliwość impulsów, przy której:\r",
+      "a": "występuje jeszcze ruch wirnika\r",
+      "b": "wirnik obraca się ze stałą średnią prędkością\r",
+      "c": "nie jest przekroczona wytrzymałość mechaniczna wirnika\r",
+      "d": "kąt obrotu wirnika odpowiada ilości impulsów\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "140. Moment napędowy silnika skokowego hybrydowego posiada następujące składowe:\r",
+      "a": "tylko reluktancyjną\r",
+      "b": "tylko od magnesów trwałych\r",
+      "c": "reluktancyjną i od magnesów trwałych\r",
+      "d": "żadna z powyższych odpowiedzi nie jest prawidłowa\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "141. Silnik uniwersalny to:\r",
+      "a": "silnik komutatorowy szeregowy małej mocy\r",
+      "b": "silnik komutatorowy bocznikowy małej mocy\r",
+      "c": "silnik komutatorowy z magnesami trwałymi\r",
+      "d": "silnik indukcyjny jednofazowy ze zwartym zwojem\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "142. Silniki indukcyjne klatkowe małej mocy, zasilane z sieci jednofazowej, mogą dokonywać samorozruchu dzięki:\r",
+      "a": "wytwarzaniu w nich pola magnetycznego zwanego eliptycznym\r",
+      "b": "dużej rezystancji wirnika\r",
+      "c": "nieliniowości charakterystyki magnesowania\r",
+      "d": "prądom wirowym w żelazie wirnika\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "143. Bezszczotkowa maszyna prądu zmiennego (AC brushless motor) to\r",
+      "a": "maszyna komutatorowa, w której usunięto szczotki, zasilana prądem przemiennym\r",
+      "b": "wielofazowa maszyna synchroniczna zasilana przez komutator elektroniczny, wzbudzana magnesami trwałymi\r",
+      "c": "silnik indukcyjny pierścieniowy z podnoszonymi szczotkami i zwieranymi pierścieniami\r",
+      "d": "3-fazowa maszyna synchroniczna zasilana z sieci 3-fazowej, wzbudzana magnesami trwałymi\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "144. W bezszczotkowej maszynie prądu stałego (DC brushless motor) pożądane przebiegi czasowe wewnętrznych, fazowych SEM maszyny są (przy stałej prędkości obrotowej):\r",
+      "a": "trójkątne\r",
+      "b": "prostokątne\r",
+      "c": "trapezowe\r",
+      "d": "sinusoidalne\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "145. W bezszczotkowej maszynie prądu przemiennego (AC brushless motor) pożądane przebiegi czasowe wewnętrznych, fazowych SEM maszyny są (przy stałej prędkości obrotowej):\r",
+      "a": "trójkątne\r",
+      "b": "prostokątne\r",
+      "c": "trapezowe\r",
+      "d": "sinusoidalne\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "146. W bezszczotkowej maszynie prądu przemiennego (AC brushless motor) fale napięć zasilających fazy maszyny są formowane przez falownik w funkcji:\r",
+      "a": "czasu (na podstawie zadanej prędkości obrotowej)\r",
+      "b": "mierzonego położenia wirnika\r",
+      "c": "mierzonej prędkości obrotowej wirnika\r",
+      "d": "mierzonego momentu elektromagnetycznego maszyny\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "4.147. Przełączalny silnik reluktancyjny (switched reluctance motor SRM) posiada:\r",
+      "a": "cylindryczny stojan i cylindryczny wirnik\r",
+      "b": "cylindryczny stojan i jawnobiegunowy wirnik\r",
+      "c": "jawnobiegunowy stojan i cylindryczny wirnik\r",
+      "d": "jawnobiegunowy stojan i jawnobiegunowy wirnik\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "4.148. Przełączalny silnik reluktancyjny (switched reluctance motor SRM) charakteryzuje się:\r",
+      "a": "uzwojonym wirnikiem\r",
+      "b": "tym samym kierunkiem obrotu wirnika i kolejnością przełączania faz stojana\r",
+      "c": "większą liczbą biegunów wirnika niż stojana\r",
+      "d": "uzależnieniem momentu przełączenia faz stojana od położenia wirnika\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": "149. Silnik synchroniczny z magnesami trwałymi o rozruchu bezpośrednim (skrót ang. LSPMSM) ma wyraźnie większą sprawność znamionową od silnika indukcyjnego o tych samych parametrach głównych (moc, napięcie, prędkość). Główną przyczyną jest to, że:\r",
+      "a": "ma mniej żelaza w wirniku\r",
+      "b": "straty elektryczne w wirniku są praktycznie równe zero\r",
+      "c": "ma większy współczynnik mocy\r",
+      "d": "jest wyraźnie mniejszy\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "150. Do napędu mechanizmów zegarków używa się:\r",
+      "a": "miniaturowych silników skokowych z jednym uzwojeniem sterującym, desymetryzowanych magnesem trwałym\r",
+      "b": "miniaturowych silników synchronicznych dwufazowych z magnesem trwałym\r",
+      "c": "miniaturowych silników synchronicznych dwufazowych reluktancyjnych\r",
+      "d": "miniaturowych silników indukcyjnych\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "151. Silnik SRM (Switched Reluctance Motor) to:\r",
+      "a": "reluktancyjny silnik skokowy ze sprzężeniem zwrotnym od położenia wirnika\r",
+      "b": "jawnobiegunowy silnik synchroniczny niewzbudzony zasilany impulsowo\r",
+      "c": "silnik indukcyjny z jawnobiegunowym wirnikiem zasilany z falownika\r",
+      "d": "jawnobiegunowy silnik synchroniczny z magnesami trwałymi zasilany impulsowo\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "152. Silniki histerezowe:\r",
+      "a": "wykonują samorozruch dzięki dodatkowej klatce we wirniku\r",
+      "b": "nie rozwijają momentu rozruchowego\r",
+      "c": "wykonują samorozruch wykorzystując przesunięcie pola względem inicjującego przepływu\r",
+      "d": "wykonują samorozruch dzięki prądom wirowym indukowanym w wirniku",
+      "correct": "c"
+   }
+]

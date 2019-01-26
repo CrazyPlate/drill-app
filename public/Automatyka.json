@@ -1,0 +1,466 @@
+[
+   {
+      "pytanie": " Transformata Laplace’a ma postać L{f'} \r",
+      "a": "L{f'}=sL{f'}-f(0+) \r",
+      "b": "L{f'}=sL{f'}-f(0-)\r",
+      "c": "L{f'}=sL{f'}+f(0-)\r",
+      "d": "L{f'}=sL{f'}+f(0+)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "Transformata Laplace’a L{cał od 0 do t f(t)d t} ma postać\r",
+      "a": "L{cał od 0 do t f(t)d t}=(1/s)F(s)\r",
+      "b": "L{cał od 0 do t f(t)d t}=(1/s)F(s)+f(0)\r",
+      "c": "L{cał od 0 do t f(t)d t}=(1/s^2)F(s)\r",
+      "d": "L{cał od 0 do t f(t)d t}=sF(s)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "Oryginał funkcji 3/(s+2) ma postać \r",
+      "a": "-2e^(-3t)\r",
+      "b": "3e^(2t) \r",
+      "c": "3e^(-2t)\r",
+      "d": "1e^(3t) \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": "Zależność wg, której można przekształcić opis obiektu w przestrzeni stanu do postaci transmitancji, ma postać: \r",
+      "a": "G(s)=C(sI-A)^(-1) *B+D\r",
+      "b": "G(s)=C(sI-A)^(-2) *B+D\r",
+      "c": "G(s)=B(sI-A)^(-1) *C+D \r",
+      "d": "G(s)=D(sI-A)^(-1) *C+B\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "Przedstawiony poniżej wykres odpowiedzi na skok jednostkowy został wyznaczony dla obiektu inercyjnego o transmitancji: \r",
+      "a": "2/(20s+1) \r",
+      "b": "1/(10s+1)\r",
+      "c": "20/(2s+1)\r",
+      "d": "2/(60s+1)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": "Przedstawiony poniżej wykres został sporządzony dla różnych wartości wzmocnienia dla obiektu: \r",
+      "a": "różniczkującego rzeczywistego \r",
+      "b": "inercyjnego \r",
+      "c": "oscylacyjnego \r",
+      "d": "całkującego idealnego \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": "Dla stabilnego obiektu drugiego rzędu aby wystąpiły oscylacje, bieguny obiektu powinny być: \r",
+      "a": "sprzężone i położone na lewo od osi urojonej \r",
+      "b": "zespolone i położone na prawo od osi urojonej \r",
+      "c": "rzeczywiste i leżeć na osi urojonej \r",
+      "d": "urojone i leżeć na osi rzeczywistej \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Poniżej pokazano układ złożony z dwóch transmitancji i sumatora. Jaka jest transmitancja zastępcza układu? (tor główny G1, sprzężenie zwrotne G2)\r",
+      "a": "G1/(1+G1*G2)\r",
+      "b": "G2/(1-G1*G2)\r",
+      "c": "G1/(1-G1*G2)\r",
+      "d": "G1*G2/(1-G1*G2)\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Kryterium stabilności Hurwitza mówi o stabilności obiektu m.in., gdy: \r",
+      "a": "podwyznaczniki macierzy Hurwitza są dodatnie \r",
+      "b": "elementy pierwszej kolumny macierzy Hurwitza są dodatnie \r",
+      "c": "wartości funkcji amplitudowo-częstotliwościowej obiektu nie przekraczają 1 \r",
+      "d": "licznik transmitancji obiektu jest wielomianem przynajmniej stopnia drugiego \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Kryterium stabilności Routha mówi o stabilności obiektu m.in., gdy: \r",
+      "a": "podwyznaczniki macierzy Routha są dodatnie \r",
+      "b": "elementy pierwszej kolumny macierzy Routha są dodatnie \r",
+      "c": "wartości funkcji amplitudowo-częstotliwościowej obiektu nie przekraczają 1 \r",
+      "d": "licznik transmitancji obiektu jest wielomianem przynajmniej stopnia drugiego \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Transmitancja operatorowa to: \r",
+      "a": "stosunek transformaty Laplace’a sygnału wyjściowego do transformaty Laplace'a sygnału wejściowego układu przy zerowych warunkach początkowych \r",
+      "b": "stosunek transformaty Laplace’a sygnału wejściowego do transformaty Laplace'a sygnału wyjściowego układu przy zerowych warunkach początkowych \r",
+      "c": "stosunek transformaty Laplace’a sygnału wyjściowego do transformaty Laplace'a sygnału wejściowego układu przy zerowym wymuszeniu \r",
+      "d": "stosunek sygnału wyjściowego do sygnału wejściowego układu \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Opis obiektu za pomocą transmitancji nie jest możliwy dla obiektu: \r",
+      "a": "opisanego równaniami liniowymi SIMO \r",
+      "b": "opisanego równaniami nieliniowymi SISO \r",
+      "c": "opisanego równaniami liniowymi MISO \r",
+      "d": "opisanego równaniami liniowymi SISO\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Opis obiektu w przestrzeni stanu nie jest możliwy dla: \r",
+      "a": "opisanego równaniami liniowymi SIMO \r",
+      "b": "opisanego równaniami nieliniowymi SISO \r",
+      "c": "opisanego równaniami liniowymi MISO \r",
+      "d": "opisanego równaniami liniowymi SISO \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Kryterium stabilności Nyquista mówi o: \r",
+      "a": "stabilności układu zamkniętego na podstawie układu otwartego \r",
+      "b": "stabilności układu otwartego na podstawie układu zamkniętego \r",
+      "c": "stabilności układu zamkniętego na podstawie układu zamkniętego \r",
+      "d": "stabilności układu otwartego na podstawie układu otwartego \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Wyznaczyć transmitancje układu z rysunku poniżej przy założeniu zerowych warunków początkowych. (układ RC)\r",
+      "a": "1/(RCs+1)\r",
+      "b": "1/(s+RC)\r",
+      "c": "RCs/(RCs+1)\r",
+      "d": "(RCs+1)/RCs\r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Wyznaczyć transmitancje układu z rysunku poniżej przy założeniu zerowych warunków początkowych. (układ LRC)\r",
+      "a": "1/(RCs^2+LCs+1)\r",
+      "b": "1/(LCs^2+RCs+LR)\r",
+      "c": "1/(LCs^2+RCs+1)\r",
+      "d": "RLC/(LCs^2+RCs+1)\r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Dla układu oscylacyjnego o transmitancji G(s)=400/(2s^2+20s+200) wyznaczyć parametry k, Ksi, w\r",
+      "a": "k = 200, Ksi = 10, w = 100 \r",
+      "b": "k = 4, Ksi = 1, w = 200 \r",
+      "c": "k = 2, Ksi = 0.5, w = 10 \r",
+      "d": "k = 100, Ksi = 0.2, w = 20 \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Wyznaczyć oryginał funkcji Y(s)=(s+3)/((s+1)(s+2))\r",
+      "a": "y(t)=3*e^(-t) - 3*e^(-2t)\r",
+      "b": "y(t)=2*e^(t) - 1*e^(2t)\r",
+      "c": "y(t)=1*e^(-t) - 2*e^(-2t)\r",
+      "d": "y(t)=2*e^(-t) -1*e^(-2t)\r",
+      "correct": "d"
+   },
+   {
+      "pytanie": " Wyznaczyć oryginał funkcji Y(s)=(s+3)/((s+1)(s+2)^2)\r",
+      "a": "(t)=(2*e^(-t)-1*e^(-2t)-3t*e^-2t)\r",
+      "b": "y(t)=(2*e^(-t)-2*e^(-2t)-t*e^-2t)\r",
+      "c": "y(t)=(2*e^(-2t)-2*e^(-2t)-t*e^-3t)\r",
+      "d": "y(t)=(1*e^(-t)-2*e^(-2t)-3t*e^-3t)\r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " W obliczeniach numerycznych uzyskano wynik x=0.001. Wartość dokładna rozwiązania wynosi 0. Jaki jest błąd względny rozwiązania ? \r",
+      "a": "zero \r",
+      "b": "0.001 \r",
+      "c": "nieskończenie duży \r",
+      "d": "nieokreślony \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Za pomocą pewnego algorytmu wyznaczono wartość numeryczną rozwiązania. Jaki jest błąd obliczeń numerycznych ? \r",
+      "a": "nieskończenie mały \r",
+      "b": "zależny od czasu obliczeń \r",
+      "c": "proporcjonalny do liczby iteracji \r",
+      "d": "możliwy tylko do oszacowania \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": " Algorytm iteracyjny rozbieżny to: \r",
+      "a": "algorytm, w którym rozwiązanie określa się w nieskończonej liczbie powtórzeń \r",
+      "b": "algorytm, w którym błąd rozwiązania narasta do nieskończoności \r",
+      "c": "algorytm, w którym zwiększa się krok iteracji \r",
+      "d": "algorytm, w którym nie ma możliwości zatrzymania obliczeń \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Metoda iteracyjna obliczeń wymaga: \r",
+      "a": "podania punktu startowego \r",
+      "b": "wyliczenia wartości startowych \r",
+      "c": "skorygowania wartości startowych generowanych samoczynnie \r",
+      "d": "niezależnych kilku punktów startowych \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " W iteracji prostej konieczne jest: \r",
+      "a": "spełnienie wymagania stabilności obliczeń \r",
+      "b": "wymaganie zbieżności ciągu iteracyjnego do punktu stałego \r",
+      "c": "zakończenie obliczeń w zadanej liczbie iteracji \r",
+      "d": "wyliczenie punktów startowych \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " W algorytmie zastosowano ciąg powtórzeń: y(n+1)=y(n)+x(n). Jeżeli x(n) jest ciągiem stałym (np. x(n) = 1 dla każdego n), to jakie wartości generuje ciąg y(n)? \r",
+      "a": "ciąg y(n) zawiera narastające wartości stałe ciągu x(n) \r",
+      "b": "jest to ten sam ciąg x(n), jeżeli y(0)=0 \r",
+      "c": "wyznacza sumę wartości x(n), jeżeli y(0)=0 \r",
+      "d": "zależy to od punktu startowego x(0) \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Metoda Newtona-Raphsona należy do grupy metod: \r",
+      "a": "rekurencyjnych \r",
+      "b": "iteracyjnych \r",
+      "c": "poszukiwań gradientowych \r",
+      "d": "nie można określić, do jakiej grupy należy \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Obliczenia rekurencyjne polegają na: \r",
+      "a": "iteracyjnym tworzeniu ciągu rozwiązań \r",
+      "b": "poprawianiu rozwiązań już uzyskanych \r",
+      "c": "obliczaniu nowego rozwiązania, jeżeli znamy rozwiązania już istniejące \r",
+      "d": "rekurencyjnej zbieżności ciągów do rozwiązania dokładnego \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Wskaźnik uwarunkowania dla zadania Ax=b zawiera informację: \r",
+      "a": "o istnieniu rozwiązania zadania \r",
+      "b": "o dokładności rozwiązania \r",
+      "c": "o możliwych rozwiązaniach warunkowych zadania. \r",
+      "d": "o osobliwości macierzy A \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Interpolacja może być stosowana jako : \r",
+      "a": "metoda pomocnicza w aproksymacji wielomianowej \r",
+      "b": "metoda uśredniania danych pomiarowych poza węzłami interpolacji \r",
+      "c": "metoda szacowania pochodnej funkcji \r",
+      "d": "metoda przybliżenia funkcji wielu zmiennych \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " W metodzie interpolacji funkcjami sklejanymi stosuje się funkcje wielomianowe co najwyżej stopnia: \r",
+      "a": "2 \r",
+      "b": "3 \r",
+      "c": "N-1, gdzie N – liczba węzłów \r",
+      "d": "nie ma znaczenia stopień wielomianu \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Zjawisko Rungego: \r",
+      "a": "występuje w problemach ekstrapolacji \r",
+      "b": "jest wynikiem źle dobranych punktów pomiarowych w przybliżeniu funkcyjnym \r",
+      "c": "ma miejsce w interpolacji wielomianowej \r",
+      "d": "prowadzi do niestabilności rozwiązania metodą Runge – Kutta \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Aproksymacja trygonometryczna służy do: \r",
+      "a": "aproksymacji funkcji trygonometrycznych \r",
+      "b": "przybliżenia rozwinięcia funkcji w szereg nieskończony \r",
+      "c": "wyznaczenia składowych harmonicznych funkcji okresowych \r",
+      "d": "zapoczątkowania obliczeń szybkiej transformaty Fouriera \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Numeryczne obliczanie pola pod krzywą jest: \r",
+      "a": "algorytmem rekurencyjnym \r",
+      "b": "algorytmem iteracyjnym \r",
+      "c": "wymaga zastosowania iteracji a potem rekurencji \r",
+      "d": "nie wymaga stosowania ani iteracji, ani rekurencji \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Równanie różniczkowe zwyczajne ma rozwiązanie numeryczne w postaci: \r",
+      "a": "funkcji ciągłej wraz z jej pierwszą pochodną \r",
+      "b": "krzywej całkowej przechodzącej przez zadany punkt \r",
+      "c": "dyskretnego zbioru punktów, startującego z warunku początkowego \r",
+      "d": "algorytmu całkowania numerycznego \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Metody Adamsa-Bashfortha to: \r",
+      "a": "metody poszukiwań kierunkowych \r",
+      "b": "metody poszukiwań prostych \r",
+      "c": "metody ekstrapolacyjne \r",
+      "d": "metody aproksymacji rozwiązań krzywych całkowych \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Metody Gear'a są: \r",
+      "a": "metodami minimalizacji funkcji wielu zmiennych \r",
+      "b": "metodami całkowania numerycznego \r",
+      "c": "metodami poszukiwania ekstremum funkcji \r",
+      "d": "optymalizacji parametrycznej \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Wyznaczenie wartości minimalnej funkcji f(x) w kierunku d wymaga znajomości: \r",
+      "a": "pochodnej kierunkowej funkcji \r",
+      "b": "gradientu funkcji \r",
+      "c": "kierunku d i Hesjanu funkcji \r",
+      "d": "subgradientu funkcji \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": " Pochodna kierunkowa i gradient funkcji f(x): \r",
+      "a": "są pojęciami zamiennymi \r",
+      "b": "oznaczają odpowiednio skalar i wektor \r",
+      "c": "wyznaczają punkty malenia funkcji \r",
+      "d": "nie mogą istnieć jednocześnie \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Zadanie programowania liniowego to: \r",
+      "a": "zadanie minimalizacji funkcji liniowej z ograniczeniami liniowymi \r",
+      "b": "zadanie podziału i ograniczeń \r",
+      "c": "zmodyfikowana metoda simpleks \r",
+      "d": "minimalizacja funkcji na wielościanie wypukłym \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Rozwiązanie zadania programowania liniowego może znajdować się: \r",
+      "a": "we wnętrzu ograniczeń nieliniowych \r",
+      "b": "poza zbiorem ograniczeń funkcyjnych \r",
+      "c": "w wierzchołku zbioru ograniczeń \r",
+      "d": "w punkcie nieliniowych ograniczeń aktywnych \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Metody numeryczne poszukiwania minimum funkcji są metodami: \r",
+      "a": "iteracyjnymi \r",
+      "b": "rekurencyjnymi \r",
+      "c": "nie są ani iteracyjne ani rekurencyjne \r",
+      "d": "stosują zasadę iteracji w algorytmie rekurencyjnym \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Simpleks to: \r",
+      "a": "metoda optymalizacji nieliniowej z ograniczeniami \r",
+      "b": "wielościan w przestrzeni (n) – wymiarowej \r",
+      "c": "metoda poszukiwań losowych punktów optymalnych \r",
+      "d": "metoda odwrotna do metody Compleks. \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Metoda najszybszego spadku wyznacza kierunek poszukiwań rozwiązań optymalnych jako: \r",
+      "a": "wektor gradientu funkcji \r",
+      "b": "wektor prostopadły do gradientu \r",
+      "c": "wektor przeciwny do gradientu \r",
+      "d": "wektor odwrotny do gradientu \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Różnica między interpolacją a aproksymacją polega na: \r",
+      "a": "różnym sposobie zbierania danych \r",
+      "b": "specyficznym wyborze punktów pomiarowych \r",
+      "c": "zróżnicowanych funkcjach bazowych \r",
+      "d": "liczebności punktów pomiarowych \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Metoda całkowania trapezów należy do grupy metod: \r",
+      "a": "interpolacyjnych \r",
+      "b": "Rungego - Kutty \r",
+      "c": "ekstrapolacyjnych \r",
+      "d": "Adamsa Bashfortha \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Węzły Czebyszewa są to: \r",
+      "a": "punkty równomiernie rozłożone w przedziale interpolacji \r",
+      "b": "pierwiastki wielomianu stopnia (n+1) stosowane w interpolacji wielomianowej \r",
+      "c": "punkty pomiarowe jako wartości wielomianu Czebyszewa \r",
+      "d": "punkty charakterystyczne filtru Czebyszewa \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Metody Runge-Kutta: \r",
+      "a": "wyznaczają rozwiązania równań różnicowych \r",
+      "b": "są metodami samostartującymi \r",
+      "c": "przybliżają rozwiązania krzywej całkowej w postaci wielomianów \r",
+      "d": "wyznaczają rozwiązania zawsze stabilne \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " W metodzie predyktor-korektor, korektor jest: \r",
+      "a": "równaniem z niewiadomą \r",
+      "b": "równaniem korekcji błędu \r",
+      "c": "metodą ekstrapolacyjną całkowania numerycznego \r",
+      "d": "jest algorytmem predyktora z członem korekcyjnym \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Obszar stabilności algorytmów rozwiązywania równań różniczkowych zwyczajnych: \r",
+      "a": "jest taki sam dla rozwiązań stabilnych \r",
+      "b": "zależy od rozwiązywanego równania różniczkowego \r",
+      "c": "zależy od algorytmu całkowania \r",
+      "d": "zależy od kroku całkowania h metody \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": " W algorytmie numerycznym rozwiązanie numerycznie stabilne to: \r",
+      "a": "rozwiązanie zbieżne do punktu stałego \r",
+      "b": "rozwiązanie obarczone błędem metody \r",
+      "c": "rozwiązanie o ograniczonym błędzie \r",
+      "d": "rozwiązanie bezbłędne \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Sztywne równania różniczkowe można rozwiązać: \r",
+      "a": "dowolną metodą stało-krokową przy małym kroku całkowania \r",
+      "b": "przy ograniczonym kroku całkowania tylko wybranymi metodami \r",
+      "c": "całkując numerycznie równania dwukrotnie \r",
+      "d": "metodami o nieograniczonym obszarze stabilności \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Algorytm minimalizacji funkcji w zadanym kierunku wykorzystuje: \r",
+      "a": "metodę aproksymacji funkcji na danym kierunku \r",
+      "b": "zasadę interpolacji wielomianowej \r",
+      "c": "metodę iteracyjną poszukiwań prostych \r",
+      "d": "metodę kolejnych przybliżeń \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": " Minimum lokalne funkcji z ograniczeniami na zmienne decyzyjne określają zbiory: \r",
+      "a": "kierunków dopuszczalnych i gradientu funkcji \r",
+      "b": "kierunków poprawy i gradientów ograniczeń aktywnych \r",
+      "c": "kierunków dopuszczalnych i kierunków poprawy \r",
+      "d": "gradientów ograniczeń aktywnych \r",
+      "correct": "d"
+   },
+   {
+      "pytanie": " W rozwiązaniu zadania programowania nieliniowego ograniczenia aktywne : \r",
+      "a": "są określone przez mnożnik Lagrange’a ujemny \r",
+      "b": "są określone przez mnożnik Lagrange’a dodatni \r",
+      "c": "zawsze mają mnożnik Lagrange’a równy zero \r",
+      "d": "związane są z mnożnikiem Lagrange’a nieujemnym \r",
+      "correct": "c"
+   },
+   {
+      "pytanie": " Obliczenie numeryczne macierzy odwrotnej można wykonać: \r",
+      "a": "stosując dowolny algorytm iteracyjny \r",
+      "b": "rozwiązując układ n-równań liniowych \r",
+      "c": "wykorzystując algorytm Newtona-Raphsona \r",
+      "d": "na podstawie definicji \r",
+      "correct": "b"
+   },
+   {
+      "pytanie": " Metoda Newtona może być wykorzystana do obliczenia ekstremum funkcji: \r",
+      "a": "tak, zawsze \r",
+      "b": "dla zadań specjalnych, dobrze uwarunkowanych \r",
+      "c": "tylko wtedy, gdy Hesjan jest nieosobliwy \r",
+      "d": "jeżeli Hesjan jest dobrze uwarunkowany \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Zbiór kierunków dopuszczalnych jest: \r",
+      "a": "zbiorem ograniczonym do zadanego punktu \r",
+      "b": "zbiorem docelowym zadania \r",
+      "c": "zbiorem decyzji dopuszczalnych \r",
+      "d": "wyznacza możliwe zmiany decyzji \r",
+      "correct": "a"
+   },
+   {
+      "pytanie": " Aproksymacja średniokwadratowa to: \r",
+      "a": "zagadnienie minimalizacji normy ¦¦2 wektora \r",
+      "b": "przybliżenie funkcji w postaci formy kwadratowej \r",
+      "c": "przybliżenie średniej odchyłki funkcji kwadratowej od punktów pomiarowych \r",
+      "d": "to przybliżenie polegające na minimalizacji sumy błędów pomiarowych\r",
+      "correct": "d"
+   }
+]

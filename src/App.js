@@ -94,6 +94,8 @@ class App extends Component {
         )}
         {(this.state.loadingDone) && (
           <Question
+            index={this.state.index}
+            allQuestionsLength={this.state.allQuestionsLength}
             question={this.state.question}
             nextHandler={this.nextHandler}
             backHandler={this.backHandler}

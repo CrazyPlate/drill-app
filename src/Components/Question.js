@@ -59,8 +59,9 @@ class Question extends Component {
             </div>
             <div className="buttons">
                <button onClick={this.backQuestion}>BACK</button>
-               <button onClick={this.nextQuestion}>NEXT</button>
                <button onClick={this.props.exitHandler}>EXIT</button>
+               <button>{this.props.index + 1}/{this.props.allQuestionsLength}</button>
+               <button onClick={this.nextQuestion}>NEXT</button>
             </div>
          </div>
       )

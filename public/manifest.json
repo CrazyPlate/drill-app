@@ -1,0 +1,16 @@
+{
+   "display": "fullscreen",
+   "orientation": "portrait",
+   "theme": {
+      "colors": {
+         "accentcolor": "black",
+         "textcolor": "white",
+         "button_background_active": "red"
+      }
+   },
+   "author": "Tomasz Telesz",
+   "name": "Drill-app",
+   "developer": {
+      "name": "Tomasz Telesz"
+   }
+}
